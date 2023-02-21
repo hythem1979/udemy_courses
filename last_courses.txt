@@ -1,351 +1,15 @@
 [
     {
-        "Course ID": 4821132,
-        "Course Title": "Complete Cyber Security Practice Tests & Interview Questions",
+        "Course ID": 1701240,
+        "Course Title": "Financial Accounting-Depreciation Calculation & Fixed Assets",
         "Course Language": "English (US)",
-        "Headline": "Test & Improve your Cyber Security skills | All topics included | All Levels | Common Interview Questions",
-        "Rating": 4.272724,
-        "Category": "IT Certifications",
-        "Original Price": "$19.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "FEBRUARY",
-        "Url": "https://www.udemy.com/course/complete-cyber-security-practice-tests-interview-questions/?discountCode=FEBRUARY"
-    },
-    {
-        "Course ID": 3331764,
-        "Course Title": "Adobe Illustrator Ultimate Guide",
-        "Course Language": "English (US)",
-        "Headline": "Ultimate A-Z Guide for Adobe Illustrator 2022 Go From Basic to Advanced with 100 Projects + 100 Assignments From Scratch",
-        "Rating": 4.183623,
-        "Category": "Graphic Design & Illustration",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FREE223G1S3",
-        "Url": "https://www.udemy.com/course/adobe-illustrator-cc-2020-master-course/?discountCode=FREE223G1S3"
-    },
-    {
-        "Course ID": 4789658,
-        "Course Title": "Your WORDS, Powerful Tools",
-        "Course Language": "English (US)",
-        "Headline": "How to use your WORDS to mould your desired outcomes, transform your life and create the world you want",
-        "Rating": 4.6945434,
-        "Category": "Personal Transformation",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "POWEROFWORDS12",
-        "Url": "https://www.udemy.com/course/your-words-powerful-tools/?discountCode=POWEROFWORDS12"
-    },
-    {
-        "Course ID": 2726536,
-        "Course Title": "C Corporation Income Tax (Form 1120)",
-        "Course Language": "English (US)",
-        "Headline": "Learn to enter tax data for a C Corporation into tax Form 1020 from a CPA",
-        "Rating": 4.524515,
-        "Category": "Taxes",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "57EF93F04C9B3FF08586",
-        "Url": "https://www.udemy.com/course/c-corporation-income-tax-form-1120/?discountCode=57EF93F04C9B3FF08586"
-    },
-    {
-        "Course ID": 3975944,
-        "Course Title": "Ma\u00eetriser JAVA EE - D\u00e9velopper avec les Sevlets JSPs et JDBC",
-        "Course Language": "French (France)",
-        "Headline": "Etape par Etape D\u00e9veloppez votre Web Application en JAVA EE 8 avec  Servlets , JSPs , JDBC en MVC et avec les Sessions",
-        "Rating": 3.5603037,
-        "Category": "Web Development",
-        "Original Price": "$69.99",
-        "Type": "Course",
-        "Coupon Code": "3CB15F2EF1AC7C19AEFB",
-        "Url": "https://www.udemy.com/course/java-ee-8-pour-les-debutants-developpez-votre-application/?discountCode=3CB15F2EF1AC7C19AEFB"
-    },
-    {
-        "Course ID": 2281074,
-        "Course Title": "Income Tax \u2013 Schedule C Small Business Sole Proprietor",
-        "Course Language": "English (US)",
-        "Headline": "Small business, schedule C income tax preparation using actual tax forms for examples including form 1040, Schedule SE",
-        "Rating": 4.463782,
-        "Category": "Other IT & Software",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "67528A22B0D8775DEB10",
-        "Url": "https://www.udemy.com/course/income-tax-schedule-c-small-business-sole-proprietor-2018/?discountCode=67528A22B0D8775DEB10"
-    },
-    {
-        "Course ID": 1693336,
-        "Course Title": "Crea una librer\u00eda de juegos con PHP MySQL AJAX y 2 proyectos",
-        "Course Language": "Spanish (Spain)",
-        "Headline": "Crea 3 sistemas con PHP MySQL y AJAX, librer\u00eda, carrito de compras y proceso de compra completo.",
-        "Rating": 4.367832,
-        "Category": "Web Design",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "3C7EB746224AA3A4B68D",
-        "Url": "https://www.udemy.com/course/aprende-ajax-php-y-mysql-con-3-proyectos-practicos-y-reales/?discountCode=3C7EB746224AA3A4B68D"
-    },
-    {
-        "Course ID": 2516566,
-        "Course Title": "Forest Fairy Watercolor Manga Portrait Painting Course",
-        "Course Language": "English (US)",
-        "Headline": "Overcome the challenges of watercolor manga portraits and take control of your painting!",
-        "Rating": 4.7019873,
-        "Category": "Arts & Crafts",
-        "Original Price": "$44.99",
-        "Type": "Course",
-        "Coupon Code": "4166312A2A66F0E0DB7C",
-        "Url": "https://www.udemy.com/course/watercolor-manga-portrait-painting-course/?discountCode=4166312A2A66F0E0DB7C"
-    },
-    {
-        "Course ID": 3924910,
-        "Course Title": "LinkedIn Marketing: LinkedIn Ads | LinkedIn Lead Generation",
-        "Course Language": "English (US)",
-        "Headline": "LinkedIn Marketing Course, LinkedIn Ads Course, LinkedIn Lead Generation, LinkedIn Advertising Course | LinkedIn 2023",
-        "Rating": 4.546818,
-        "Category": "Social Media Marketing",
-        "Original Price": "$109.99",
-        "Type": "Course",
-        "Coupon Code": "C3726783A884471C570A",
-        "Url": "https://www.udemy.com/course/linkedin-advertising-marketing/?discountCode=C3726783A884471C570A"
-    },
-    {
-        "Course ID": 2714022,
-        "Course Title": "Partnership Income Tax (Form 1065)",
-        "Course Language": "English (US)",
-        "Headline": "Learn to enter tax data for a Partnership into tax Form 1065 from a CPA",
-        "Rating": 4.413812,
-        "Category": "Taxes",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "B3D6F103869F3055FA41",
-        "Url": "https://www.udemy.com/course/partnership-income-tax-form-1065/?discountCode=B3D6F103869F3055FA41"
-    },
-    {
-        "Course ID": 3982816,
-        "Course Title": "Universidad HTML - Aprende HTML desde Cero hasta Experto",
-        "Course Language": "Spanish",
-        "Headline": "Aprende HTML desde niveles b\u00e1sicos, intermedios y avanzados, para crear aplicaciones y sitios Web incre\u00edbles!",
-        "Rating": 4.67181,
-        "Category": "Web Development",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "GM_FEB_23_FIN",
-        "Url": "https://www.udemy.com/course/universidad-html-aprende-html-desde-cero-hasta-experto-css-html5/?discountCode=GM_FEB_23_FIN"
-    },
-    {
-        "Course ID": 3655198,
-        "Course Title": "Quantity Surveying With Rate Analysis And Take Off-Beginners",
-        "Course Language": "English (US)",
-        "Headline": "Quantity Surveying, Quantity Takeoff, Estimation, Rate Analysis, Blubeam Revu, Planswift, Costing, Construction Drawings",
-        "Rating": 3.8448462,
-        "Category": "Other Office Productivity",
-        "Original Price": "$24.99",
-        "Type": "Course",
-        "Coupon Code": "QSBEGINFEB23",
-        "Url": "https://www.udemy.com/course/quantity-surveying-with-rate-analysis-and-take-off-beginners/?discountCode=QSBEGINFEB23"
-    },
-    {
-        "Course ID": 4988512,
-        "Course Title": "FAA part 107 Remote Pilot Test Preparation Course",
-        "Course Language": "English (US)",
-        "Headline": "FAA Part 107 Bootcamp for Beginner Test Prep for Drone Pilot",
-        "Rating": 4.437222,
-        "Category": "Test Prep",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "BDE6DD613BE0E21C5004",
-        "Url": "https://www.udemy.com/course/faa-part-107-bootcamp-for-beginner-test-prep-for-drone-pilot/?discountCode=BDE6DD613BE0E21C5004"
-    },
-    {
-        "Course ID": 4016590,
-        "Course Title": "Persuasive Copywriting (2023): Become a Copywriting Master",
-        "Course Language": "English (US)",
-        "Headline": "Your Complete Guide To High-Level Copywriting: Learn Copywriting From A Fortune 100 Copywriter With A Kellogg MBA",
-        "Rating": 4.4850593,
-        "Category": "Content Marketing",
-        "Original Price": "$109.99",
-        "Type": "Course",
-        "Coupon Code": "B2E3BA42B69CF3C78437",
-        "Url": "https://www.udemy.com/course/b2b-copywriting/?discountCode=B2E3BA42B69CF3C78437"
-    },
-    {
-        "Course ID": 2823069,
-        "Course Title": "Universidad Spring - Spring Framework y Spring Boot!",
-        "Course Language": "Spanish",
-        "Headline": "Aprende desde Cero hasta Experto el framework m\u00e1s popular de Java, Spring Framework con Spring Boot.",
-        "Rating": 4.6230073,
-        "Category": "Web Development",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "GM_FEB_23_FIN",
-        "Url": "https://www.udemy.com/course/universidad-spring-framework-springboot-java-security-rest-webservices/?discountCode=GM_FEB_23_FIN"
-    },
-    {
-        "Course ID": 3989930,
-        "Course Title": "TIBCO Spotfire Development : Beginners To Advanced Course",
-        "Course Language": "English (US)",
-        "Headline": "Learn TIBCO Spotfire in this Fast Paced Course - Covering all Topics like Charts, Mods, Python, R, Spotfire Cloud & more",
-        "Rating": 4.222662,
-        "Category": "Business Analytics & Intelligence",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "FEBRUARY",
-        "Url": "https://www.udemy.com/course/tibco-spotfire-development-beginners-to-advanced-course/?discountCode=FEBRUARY"
-    },
-    {
-        "Course ID": 4907770,
-        "Course Title": "Crea Correos Corporativos con Dominio Propio en Gmail 2023",
-        "Course Language": "Spanish",
-        "Headline": "Aprende a como crear correos corporativos con dominio propio en Gmail, de forma f\u00e1cil y simple.",
-        "Rating": 3.7366111,
-        "Category": "Google",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "CORREOS-GR4",
-        "Url": "https://www.udemy.com/course/como-crear-correos-corporativos-con-dominio-propio-en-gmail/?discountCode=CORREOS-GR4"
-    },
-    {
-        "Course ID": 2272328,
-        "Course Title": "Income Tax Selling Your Home",
-        "Course Language": "English (US)",
-        "Headline": "Tax of Home Sale-Exclusion Qualifications, Gain on Sale Calculation, Basis Calculation, & Data Entry to Tax Forms",
-        "Rating": 4.3678045,
-        "Category": "Taxes",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "F97F28997227DE69CA0D",
-        "Url": "https://www.udemy.com/course/income-tax-selling-your-home-2018-2019/?discountCode=F97F28997227DE69CA0D"
-    },
-    {
-        "Course ID": 3377548,
-        "Course Title": "Adobe Creative Cloud Projects Guide",
-        "Course Language": "English (US)",
-        "Headline": "Everything you need to know about Adobe Creative Cloud 2022 Projects",
-        "Rating": 4.7361445,
-        "Category": "Design Tools",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FREE223G1S3",
-        "Url": "https://www.udemy.com/course/adobe-creative-cloud-master-course/?discountCode=FREE223G1S3"
-    },
-    {
-        "Course ID": 364026,
-        "Course Title": "Personal Branding: You Deliver a Great Elevator Pitch",
-        "Course Language": "English (US)",
-        "Headline": "Personal Branding - You can communicate one good idea in less than 30 seconds",
-        "Rating": 4.593411,
-        "Category": "Other Marketing",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "422E91CF87739431F66E",
-        "Url": "https://www.udemy.com/course/how-to-deliver-an-elevator-pitch/?discountCode=422E91CF87739431F66E"
-    },
-    {
-        "Course ID": 4660302,
-        "Course Title": "Link building 2023. Build\u00a0links that boost the site traffic!",
-        "Course Language": "English (US)",
-        "Headline": "Get started with linkbuilding and launch effective campaigns to reach new customers and grow your business online.",
-        "Rating": 4.209983,
-        "Category": "Search Engine Optimization",
-        "Original Price": "$34.99",
-        "Type": "Course",
-        "Coupon Code": "LB1702",
-        "Url": "https://www.udemy.com/course/link-building-course/?discountCode=LB1702"
-    },
-    {
-        "Course ID": 5049506,
-        "Course Title": "Master Course in Sales Forecasting and Sales Management 2.0",
-        "Course Language": "English (US)",
-        "Headline": "Forecasting, Sales forecasting, Forecasting model, Time Series Analysis, B2B sales, Sales management, Sales skills",
-        "Rating": 0,
-        "Category": "Sales",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "6A9261751EEC52B33F71",
-        "Url": "https://www.udemy.com/course/sales-forecasting-sales-management-forecasting-models-sales-skills/?discountCode=6A9261751EEC52B33F71"
-    },
-    {
-        "Course ID": 2922124,
-        "Course Title": "Aplos Not for Profit Accounting Software",
-        "Course Language": "English (US)",
-        "Headline": "Learn to use Aplos, a software specifically designed for Not for Profit Organizations, from a practicing CPA",
-        "Rating": 3.965305,
+        "Headline": "Depreciation calculation, straight line method, double declining method, units of production method and disposal assets",
+        "Rating": 4.5745335,
         "Category": "Accounting & Bookkeeping",
         "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "F3B58DDE767D14DA2595",
-        "Url": "https://www.udemy.com/course/aplos-not-for-profit-accounting-software/?discountCode=F3B58DDE767D14DA2595"
-    },
-    {
-        "Course ID": 3589308,
-        "Course Title": "QuickBooks Pro Desktop Bookkeeping With Bank Feeds 2023",
-        "Course Language": "English (US)",
-        "Headline": "Learn how to setup and us bank feed for QuickBooks Desktop from a Certified Public Accountant (CPA)",
-        "Rating": 3.9878907,
-        "Category": "Entrepreneurship",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FE23339709CE073D42DE",
-        "Url": "https://www.udemy.com/course/quickbooks-pro-desktop-bookkeeping-with-bank-feeds-2021/?discountCode=FE23339709CE073D42DE"
-    },
-    {
-        "Course ID": 4889988,
-        "Course Title": "Effective In-Person & Virtual Zoom Meetings",
-        "Course Language": "English (US)",
-        "Headline": "Get more from every meeting whether it's in-person, teleconference, video conference, online meeting, Zoom, or Skype",
-        "Rating": 3.8179429,
-        "Category": "Communication",
-        "Original Price": "$39.99",
-        "Type": "Course",
-        "Coupon Code": "79EC01C798D46843CC61",
-        "Url": "https://www.udemy.com/course/meeting-productivity/?discountCode=79EC01C798D46843CC61"
-    },
-    {
-        "Course ID": 3980478,
-        "Course Title": "Universidad CSS - Aprende CSS desde Cero hasta Experto!",
-        "Course Language": "Spanish",
-        "Headline": "Estudia CSS desde los fundamentos hasta temas intermedios y avanzados para crear sitios y aplicaciones Web incre\u00edbles!",
-        "Rating": 4.662819,
-        "Category": "Web Development",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "GM_FEB_23_FIN",
-        "Url": "https://www.udemy.com/course/universidad-css-aprende-css-desde-cero-flexbox-responsive-web-desing/?discountCode=GM_FEB_23_FIN"
-    },
-    {
-        "Course ID": 3835062,
-        "Course Title": "Aerospace Masterclass: Aircraft Design",
-        "Course Language": "English (US)",
-        "Headline": "Become an Aircraft Designed by Building Business Jet From Scratch",
-        "Rating": 4.3337336,
-        "Category": "Other Design",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "MPFREE2",
-        "Url": "https://www.udemy.com/course/aircraft-design/?discountCode=MPFREE2"
-    },
-    {
-        "Course ID": 4504042,
-        "Course Title": "Solidity Interview Questions & Practice Tests (updated 2022)",
-        "Course Language": "English (US)",
-        "Headline": "Update / Refresh your knowledge on Solidity, or prepare better for your Solidity Developer Interview with Practice Tests",
-        "Rating": 3.3692129,
-        "Category": "Web Development",
-        "Original Price": "$39.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "FEBRUARY",
-        "Url": "https://www.udemy.com/course/solidity-interview-questions-and-practice-tests-for-blockchain-devs/?discountCode=FEBRUARY"
-    },
-    {
-        "Course ID": 363322,
-        "Course Title": "Public Relations: Speak Effectively at Press Conferences",
-        "Course Language": "English (US)",
-        "Headline": "Public Relations: Develop the public speaking and media training skills you need to master this presentation format",
-        "Rating": 4.347504,
-        "Category": "Communication",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "THANKS018",
-        "Url": "https://www.udemy.com/course/how-to-speak-at-a-press-conference/?discountCode=THANKS018"
+        "Coupon Code": "411941A656D069CF6FCC",
+        "Url": "https://www.udemy.com/course/financial-accounting-depreciation-calculation-fixed-assets/?discountCode=411941A656D069CF6FCC"
     },
     {
         "Course ID": 3843276,
@@ -358,54 +22,6 @@
         "Type": "Course",
         "Coupon Code": "D39253F4A747FCE9CFE0",
         "Url": "https://www.udemy.com/course/quickbooks-online-qbo-bookkeeping-with-bank-feeds-2021/?discountCode=D39253F4A747FCE9CFE0"
-    },
-    {
-        "Course ID": 4802664,
-        "Course Title": "GCP Google Cloud Professional Data Engineer Certification",
-        "Course Language": "English (US)",
-        "Headline": "Prepare for the exam as a Google Professional Data Engineer - GCP 2022!",
-        "Rating": 3.9249964,
-        "Category": "IT Certifications",
-        "Original Price": "$19.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "FREE_DROP_5",
-        "Url": "https://www.udemy.com/course/gcp-google-cloud-professional-data-engineer-certification/?discountCode=FREE_DROP_5"
-    },
-    {
-        "Course ID": 3867304,
-        "Course Title": "Marketing Psychology: Neuromarketing & Marketing Psychology",
-        "Course Language": "English (US)",
-        "Headline": "Marketing Psychology 2021: Consumer Behavior | Consumer Psychology | Psychological Marketing | Neuromarketing Persuasion",
-        "Rating": 4.3960905,
-        "Category": "Marketing Fundamentals",
-        "Original Price": "$109.99",
-        "Type": "Course",
-        "Coupon Code": "BAD6A44A094E939F1019",
-        "Url": "https://www.udemy.com/course/product-marketing-psychology/?discountCode=BAD6A44A094E939F1019"
-    },
-    {
-        "Course ID": 2287899,
-        "Course Title": "Individual Retirement Accounts (IRAs) & Taxes",
-        "Course Language": "English (US)",
-        "Headline": "Individual Retirement Accounts (IRAs)-Traditional IRA & Roth IRA Income Tax Benefits & Retirement Planning",
-        "Rating": 4.289037,
-        "Category": "Taxes",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "67E7D484649997E665C1",
-        "Url": "https://www.udemy.com/course/individual-retirement-accounts-iras-taxes-2018/?discountCode=67E7D484649997E665C1"
-    },
-    {
-        "Course ID": 1701240,
-        "Course Title": "Financial Accounting-Depreciation Calculation & Fixed Assets",
-        "Course Language": "English (US)",
-        "Headline": "Depreciation calculation, straight line method, double declining method, units of production method and disposal assets",
-        "Rating": 4.5745335,
-        "Category": "Accounting & Bookkeeping",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "411941A656D069CF6FCC",
-        "Url": "https://www.udemy.com/course/financial-accounting-depreciation-calculation-fixed-assets/?discountCode=411941A656D069CF6FCC"
     },
     {
         "Course ID": 4090068,
@@ -430,6 +46,18 @@
         "Type": "Course",
         "Coupon Code": "FEB2023FREE01",
         "Url": "https://www.udemy.com/course/no-oil-cooking-recipes-no-cholesterol-fat-free-food/?discountCode=FEB2023FREE01"
+    },
+    {
+        "Course ID": 2287899,
+        "Course Title": "Individual Retirement Accounts (IRAs) & Taxes",
+        "Course Language": "English (US)",
+        "Headline": "Individual Retirement Accounts (IRAs)-Traditional IRA & Roth IRA Income Tax Benefits & Retirement Planning",
+        "Rating": 4.289037,
+        "Category": "Taxes",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "67E7D484649997E665C1",
+        "Url": "https://www.udemy.com/course/individual-retirement-accounts-iras-taxes-2018/?discountCode=67E7D484649997E665C1"
     },
     {
         "Course ID": 3809174,
@@ -468,6 +96,18 @@
         "Url": "https://www.udemy.com/course/s-corporation-income-tax/?discountCode=8B5A571A01CAAE16203F"
     },
     {
+        "Course ID": 363322,
+        "Course Title": "Public Relations: Speak Effectively at Press Conferences",
+        "Course Language": "English (US)",
+        "Headline": "Public Relations: Develop the public speaking and media training skills you need to master this presentation format",
+        "Rating": 4.347504,
+        "Category": "Communication",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "THANKS018",
+        "Url": "https://www.udemy.com/course/how-to-speak-at-a-press-conference/?discountCode=THANKS018"
+    },
+    {
         "Course ID": 5114376,
         "Course Title": "Sanitation & Wastewater Treatment Explained",
         "Course Language": "English (US)",
@@ -490,18 +130,6 @@
         "Type": "Course",
         "Coupon Code": "FEB2022_2",
         "Url": "https://www.udemy.com/course/javascript-desde-cero-con-nodejs/?discountCode=FEB2022_2"
-    },
-    {
-        "Course ID": 3183184,
-        "Course Title": "Creating Video Lessons with Online Video Maker InVideo",
-        "Course Language": "English (US)",
-        "Headline": "Learn how to create stunning video lectures using Article-to-Video templates from an online tool InVideo fast and easy!",
-        "Rating": 4.572653,
-        "Category": "Online Education",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "INVIDEO_FEB23_2",
-        "Url": "https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?discountCode=INVIDEO_FEB23_2"
     },
     {
         "Course ID": 5142426,
@@ -528,18 +156,6 @@
         "Url": "https://www.udemy.com/course/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/?discountCode=FEB2022_2"
     },
     {
-        "Course ID": 5033100,
-        "Course Title": "The Anonymity Course For Beginners",
-        "Course Language": "English (US)",
-        "Headline": "Anonymity guide for beginners. Learn VPN, Tor, OPSEC & much more!",
-        "Rating": 2.890049,
-        "Category": "Network & Security",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "6440669E2D2F1AD9A273",
-        "Url": "https://www.udemy.com/course/anonymity/?discountCode=6440669E2D2F1AD9A273"
-    },
-    {
         "Course ID": 2585848,
         "Course Title": "Adobe Creative Cloud Basics Guide",
         "Course Language": "English (US)",
@@ -552,16 +168,16 @@
         "Url": "https://www.udemy.com/course/learn-creative-cloud/?discountCode=FREE223G1S3"
     },
     {
-        "Course ID": 4592914,
-        "Course Title": "Postgraduate Diploma: Digital Products Management",
+        "Course ID": 3183184,
+        "Course Title": "Creating Video Lessons with Online Video Maker InVideo",
         "Course Language": "English (US)",
-        "Headline": "Hybrid Program (Online + On-Campus) with business cases (Fintech, Retail Banking, Digital Business) & Interactive part",
-        "Rating": 4.103756,
-        "Category": "E-Commerce",
+        "Headline": "Learn how to create stunning video lectures using Article-to-Video templates from an online tool InVideo fast and easy!",
+        "Rating": 4.572653,
+        "Category": "Online Education",
         "Original Price": "$19.99",
         "Type": "Course",
-        "Coupon Code": "B94B00FD25A7453D68DA",
-        "Url": "https://www.udemy.com/course/digital-product-owner/?discountCode=B94B00FD25A7453D68DA"
+        "Coupon Code": "INVIDEO_FEB23_2",
+        "Url": "https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?discountCode=INVIDEO_FEB23_2"
     },
     {
         "Course ID": 2955276,
@@ -600,6 +216,18 @@
         "Url": "https://www.udemy.com/course/pmi-acp-practice-exams-agile-certified-practitioner-200-q/?discountCode=4E55BFEC77DBDA973955"
     },
     {
+        "Course ID": 5033100,
+        "Course Title": "The Anonymity Course For Beginners",
+        "Course Language": "English (US)",
+        "Headline": "Anonymity guide for beginners. Learn VPN, Tor, OPSEC & much more!",
+        "Rating": 2.890049,
+        "Category": "Network & Security",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "6440669E2D2F1AD9A273",
+        "Url": "https://www.udemy.com/course/anonymity/?discountCode=6440669E2D2F1AD9A273"
+    },
+    {
         "Course ID": 1655098,
         "Course Title": "Lernen von Windows PowerShell",
         "Course Language": "German",
@@ -610,6 +238,18 @@
         "Type": "Course",
         "Coupon Code": "5B2070AF5FD0710DB9A0",
         "Url": "https://www.udemy.com/course/windows-server-2016-with-powershell-formatting-output/?discountCode=5B2070AF5FD0710DB9A0"
+    },
+    {
+        "Course ID": 4592914,
+        "Course Title": "Postgraduate Diploma: Digital Products Management",
+        "Course Language": "English (US)",
+        "Headline": "Hybrid Program (Online + On-Campus) with business cases (Fintech, Retail Banking, Digital Business) & Interactive part",
+        "Rating": 4.103756,
+        "Category": "E-Commerce",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "B94B00FD25A7453D68DA",
+        "Url": "https://www.udemy.com/course/digital-product-owner/?discountCode=B94B00FD25A7453D68DA"
     },
     {
         "Course ID": 4149374,
@@ -648,18 +288,6 @@
         "Url": "https://www.udemy.com/course/twitter-marketing-twitter-ads/?discountCode=59183F60AD31C2CAF8D2"
     },
     {
-        "Course ID": 2610372,
-        "Course Title": "Adobe Dimension Basics Guide",
-        "Course Language": "English (US)",
-        "Headline": "Everything you need to know about Adobe Dimension Basics",
-        "Rating": 3.8135643,
-        "Category": "3D & Animation",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FREE223G1S3",
-        "Url": "https://www.udemy.com/course/learn-basic-dimension/?discountCode=FREE223G1S3"
-    },
-    {
         "Course ID": 4119064,
         "Course Title": "Plumbing  & HVAC systems in Chillers water treatment  2023",
         "Course Language": "English (US)",
@@ -696,13 +324,25 @@
         "Url": "https://www.udemy.com/course/facebook-ads-strategy/?discountCode=RABBITFEBRUARY3"
     },
     {
+        "Course ID": 2610372,
+        "Course Title": "Adobe Dimension Basics Guide",
+        "Course Language": "English (US)",
+        "Headline": "Everything you need to know about Adobe Dimension Basics",
+        "Rating": 3.8135643,
+        "Category": "3D & Animation",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FREE223G1S3",
+        "Url": "https://www.udemy.com/course/learn-basic-dimension/?discountCode=FREE223G1S3"
+    },
+    {
         "Course ID": 3924910,
         "Course Title": "LinkedIn Marketing: LinkedIn Ads | LinkedIn Lead Generation",
         "Course Language": "English (US)",
         "Headline": "LinkedIn Marketing Course, LinkedIn Ads Course, LinkedIn Lead Generation, LinkedIn Advertising Course | LinkedIn 2023",
         "Rating": 4.546818,
         "Category": "Social Media Marketing",
-        "Original Price": "$84.99",
+        "Original Price": "$109.99",
         "Type": "Course",
         "Coupon Code": "C3726783A884471C570A",
         "Url": "https://www.udemy.com/course/linkedin-advertising-marketing/?discountCode=C3726783A884471C570A"
@@ -744,6 +384,18 @@
         "Url": "https://www.udemy.com/course/product-launch-how-to-go-to-market/?discountCode=C56B4DB79D367056B1E4"
     },
     {
+        "Course ID": 4802664,
+        "Course Title": "GCP Google Cloud Professional Data Engineer Certification",
+        "Course Language": "English (US)",
+        "Headline": "Prepare for the exam as a Google Professional Data Engineer - GCP 2022!",
+        "Rating": 3.9249964,
+        "Category": "IT Certifications",
+        "Original Price": "$19.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "FREE_DROP_5",
+        "Url": "https://www.udemy.com/course/gcp-google-cloud-professional-data-engineer-certification/?discountCode=FREE_DROP_5"
+    },
+    {
         "Course ID": 3029006,
         "Course Title": "Sell More: Facebook Ads & Instagram Ads for E-Commerce 2023",
         "Course Language": "English (US)",
@@ -754,18 +406,6 @@
         "Type": "Course",
         "Coupon Code": "RABBITFEBRUARY1",
         "Url": "https://www.udemy.com/course/facebook-conversion-ads/?discountCode=RABBITFEBRUARY1"
-    },
-    {
-        "Course ID": 477958,
-        "Course Title": "User Stories for Agile Scrum+Product Owner+Business Analysis",
-        "Course Language": "English (US)",
-        "Headline": "Complete overview of requirements, user story template, epics, splitting, acceptance criteria +business analyst examples",
-        "Rating": 3.8394146,
-        "Category": "Project Management",
-        "Original Price": "$49.99",
-        "Type": "Course",
-        "Coupon Code": "200223_FREE",
-        "Url": "https://www.udemy.com/course/userstory/?discountCode=200223_FREE"
     },
     {
         "Course ID": 364172,
@@ -792,18 +432,6 @@
         "Url": "https://www.udemy.com/course/aws-certified-sysops-administrator-associate-pratice-paper/?discountCode=16FD5A38743A5E40264C"
     },
     {
-        "Course ID": 2008730,
-        "Course Title": "QuickBooks Desktop Pro-Personal Tax Tracking Tricks",
-        "Course Language": "English (US)",
-        "Headline": "QuickBooks Pro Desktop 2019 tracks more of our year-end tax needs in one QuickBooks file by using tax tracking methods",
-        "Rating": 4.628346,
-        "Category": "Taxes",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "9C40BC6A247ED778DCFF",
-        "Url": "https://www.udemy.com/course/quickbooks-desktop-pro-2019-personal-tax-tracking-tricks/?discountCode=9C40BC6A247ED778DCFF"
-    },
-    {
         "Course ID": 2607676,
         "Course Title": "Adobe Acrobat DC Basics Guide",
         "Course Language": "English (US)",
@@ -816,16 +444,16 @@
         "Url": "https://www.udemy.com/course/learn-basic-acrobat-dc/?discountCode=FREE223G1S3"
     },
     {
-        "Course ID": 870854,
-        "Course Title": "Design Thinking Guide for Successful Professionals",
+        "Course ID": 477958,
+        "Course Title": "User Stories for Agile Scrum+Product Owner+Business Analysis",
         "Course Language": "English (US)",
-        "Headline": "Success Formula for Entrepreneurs, Business Owners and Professionals",
-        "Rating": 4.3043127,
-        "Category": "Business Strategy",
-        "Original Price": "$84.99",
+        "Headline": "Complete overview of requirements, user story template, epics, splitting, acceptance criteria +business analyst examples",
+        "Rating": 3.8394146,
+        "Category": "Project Management",
+        "Original Price": "$49.99",
         "Type": "Course",
-        "Coupon Code": "FEB2023FREE01",
-        "Url": "https://www.udemy.com/course/design-thinking-for-long-term-business-success/?discountCode=FEB2023FREE01"
+        "Coupon Code": "200223_FREE",
+        "Url": "https://www.udemy.com/course/userstory/?discountCode=200223_FREE"
     },
     {
         "Course ID": 2105384,
@@ -852,16 +480,28 @@
         "Url": "https://www.udemy.com/course/adobe-creative-cloud-2020-master-course/?discountCode=FREE223G1S3"
     },
     {
-        "Course ID": 5158634,
-        "Course Title": "Google Cloud Associate Cloud Engineer Practice Tests 2023",
+        "Course ID": 2008730,
+        "Course Title": "QuickBooks Desktop Pro-Personal Tax Tracking Tricks",
         "Course Language": "English (US)",
-        "Headline": "Ace Your Google Cloud Associate Cloud Engineer Certification with These Comprehensive Test Exams!",
-        "Rating": 0,
-        "Category": "IT Certifications",
-        "Original Price": "$19.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "FEB-23-2",
-        "Url": "https://www.udemy.com/course/cloud-associate-cloud-engineer-practice-tests/?discountCode=FEB-23-2"
+        "Headline": "QuickBooks Pro Desktop 2019 tracks more of our year-end tax needs in one QuickBooks file by using tax tracking methods",
+        "Rating": 4.628346,
+        "Category": "Taxes",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "9C40BC6A247ED778DCFF",
+        "Url": "https://www.udemy.com/course/quickbooks-desktop-pro-2019-personal-tax-tracking-tricks/?discountCode=9C40BC6A247ED778DCFF"
+    },
+    {
+        "Course ID": 870854,
+        "Course Title": "Design Thinking Guide for Successful Professionals",
+        "Course Language": "English (US)",
+        "Headline": "Success Formula for Entrepreneurs, Business Owners and Professionals",
+        "Rating": 4.3043127,
+        "Category": "Business Strategy",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FEB2023FREE01",
+        "Url": "https://www.udemy.com/course/design-thinking-for-long-term-business-success/?discountCode=FEB2023FREE01"
     },
     {
         "Course ID": 4175670,
@@ -888,40 +528,16 @@
         "Url": "https://www.udemy.com/course/excel-vba-pour-debutants-formation-pas-a-pas-complete-sur-excel-vba/?discountCode=SUPER-BOWL"
     },
     {
-        "Course ID": 3835062,
-        "Course Title": "Aerospace Masterclass: Aircraft Design",
+        "Course ID": 4016590,
+        "Course Title": "Persuasive Copywriting (2023): Become a Copywriting Master",
         "Course Language": "English (US)",
-        "Headline": "Become an Aircraft Designed by Building Business Jet From Scratch",
-        "Rating": 4.3337336,
-        "Category": "Other Design",
+        "Headline": "Your Complete Guide To High-Level Copywriting: Learn Copywriting From A Fortune 100 Copywriter With A Kellogg MBA",
+        "Rating": 4.4850593,
+        "Category": "Content Marketing",
         "Original Price": "$109.99",
         "Type": "Course",
-        "Coupon Code": "MPFREE2",
-        "Url": "https://www.udemy.com/course/aircraft-design/?discountCode=MPFREE2"
-    },
-    {
-        "Course ID": 352234,
-        "Course Title": "Public Relations: How to Be a Government/PIO Spokesperson",
-        "Course Language": "English (US)",
-        "Headline": "Public Relations: You can communicate the messages of your agency to the media. Master every media encounter.",
-        "Rating": 4.7413588,
-        "Category": "Career Development",
-        "Original Price": "$89.99",
-        "Type": "Course",
-        "Coupon Code": "767886CE1C268B33259C",
-        "Url": "https://www.udemy.com/course/how-to-be-a-government-spokesperson/?discountCode=767886CE1C268B33259C"
-    },
-    {
-        "Course ID": 1548756,
-        "Course Title": "Online Course Creation: Complete Course of Blunders to Avoid",
-        "Course Language": "English (US)",
-        "Headline": "Learn from These Online Course Creation Mistakes, Misjudgments and Errors",
-        "Rating": 4.627593,
-        "Category": "Online Education",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "D57D0A1BB61B34B2EE2E",
-        "Url": "https://www.udemy.com/course/online-course-creation-complete-course-of-blunders-to-avoid/?discountCode=D57D0A1BB61B34B2EE2E"
+        "Coupon Code": "B2E3BA42B69CF3C78437",
+        "Url": "https://www.udemy.com/course/b2b-copywriting/?discountCode=B2E3BA42B69CF3C78437"
     },
     {
         "Course ID": 1543954,
@@ -948,16 +564,16 @@
         "Url": "https://www.udemy.com/course/az-104-microsoft-azure-administrator-ebis/?discountCode=A9FF1319C590BE77A5FC"
     },
     {
-        "Course ID": 2887508,
-        "Course Title": "Ms Excel/Excel 2022 - The Complete Introduction to Excel",
+        "Course ID": 3835062,
+        "Course Title": "Aerospace Masterclass: Aircraft Design",
         "Course Language": "English (US)",
-        "Headline": "Master Excel/microsoft Excel- Learn MS Excel - Excel formulas/Excel charts/Excel functions using Excel 2016/Excel 2019",
-        "Rating": 4.3478875,
-        "Category": "Microsoft",
-        "Original Price": "$59.99",
+        "Headline": "Become an Aircraft Designed by Building Business Jet From Scratch",
+        "Rating": 4.3337336,
+        "Category": "Other Design",
+        "Original Price": "$109.99",
         "Type": "Course",
-        "Coupon Code": "21EE62409D81B6BECC81",
-        "Url": "https://www.udemy.com/course/microsoft-excel-the-complete-intro/?discountCode=21EE62409D81B6BECC81"
+        "Coupon Code": "MPFREE2",
+        "Url": "https://www.udemy.com/course/aircraft-design/?discountCode=MPFREE2"
     },
     {
         "Course ID": 3411946,
@@ -972,16 +588,16 @@
         "Url": "https://www.udemy.com/course/tuqvnbbt/?discountCode=53EFA2C0EEF4B7F58174"
     },
     {
-        "Course ID": 4584528,
-        "Course Title": "The Concept of  Waste",
+        "Course ID": 1548756,
+        "Course Title": "Online Course Creation: Complete Course of Blunders to Avoid",
         "Course Language": "English (US)",
-        "Headline": "Reduce waste and streamline value flow",
-        "Rating": 4.0,
-        "Category": "Management",
+        "Headline": "Learn from These Online Course Creation Mistakes, Misjudgments and Errors",
+        "Rating": 4.627593,
+        "Category": "Online Education",
         "Original Price": "$19.99",
         "Type": "Course",
-        "Coupon Code": "9423BC38941C770BE0B7",
-        "Url": "https://www.udemy.com/course/the-concept-of-waste/?discountCode=9423BC38941C770BE0B7"
+        "Coupon Code": "D57D0A1BB61B34B2EE2E",
+        "Url": "https://www.udemy.com/course/online-course-creation-complete-course-of-blunders-to-avoid/?discountCode=D57D0A1BB61B34B2EE2E"
     },
     {
         "Course ID": 1779322,
@@ -1020,6 +636,30 @@
         "Url": "https://www.udemy.com/course/master-class-les-secrets-de-la-vente-techniques-et-kpi/?discountCode=1E58F84E9545549CAFDB"
     },
     {
+        "Course ID": 2887508,
+        "Course Title": "Ms Excel/Excel 2022 - The Complete Introduction to Excel",
+        "Course Language": "English (US)",
+        "Headline": "Master Excel/microsoft Excel- Learn MS Excel - Excel formulas/Excel charts/Excel functions using Excel 2016/Excel 2019",
+        "Rating": 4.3478875,
+        "Category": "Microsoft",
+        "Original Price": "$59.99",
+        "Type": "Course",
+        "Coupon Code": "21EE62409D81B6BECC81",
+        "Url": "https://www.udemy.com/course/microsoft-excel-the-complete-intro/?discountCode=21EE62409D81B6BECC81"
+    },
+    {
+        "Course ID": 4584528,
+        "Course Title": "The Concept of  Waste",
+        "Course Language": "English (US)",
+        "Headline": "Reduce waste and streamline value flow",
+        "Rating": 4.0,
+        "Category": "Management",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "9423BC38941C770BE0B7",
+        "Url": "https://www.udemy.com/course/the-concept-of-waste/?discountCode=9423BC38941C770BE0B7"
+    },
+    {
         "Course ID": 3818074,
         "Course Title": "Microsoft Clarity for Web Analytics :  A-Z Complete Tutorial",
         "Course Language": "English (US)",
@@ -1050,7 +690,7 @@
         "Headline": "Lerne, wie Du im Projekt deutlich schneller und effektiver arbeiten kannst.",
         "Rating": 4.5271273,
         "Category": "Project Management",
-        "Original Price": "$89.99",
+        "Original Price": "$124.99",
         "Type": "Course",
         "Coupon Code": "127112F20266114F5F0F",
         "Url": "https://www.udemy.com/course/projektmanagement/?discountCode=127112F20266114F5F0F"
@@ -1068,18 +708,6 @@
         "Url": "https://www.udemy.com/course/learn-basic-fuse/?discountCode=FREE223G1S3"
     },
     {
-        "Course ID": 2800692,
-        "Course Title": "Creative Infographics in PowerPoint",
-        "Course Language": "English (US)",
-        "Headline": "Do a fun and eye-catching Informational Graphic in PowerPoint",
-        "Rating": 4.0318513,
-        "Category": "Design Tools",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "INFOGR_FEB23_2",
-        "Url": "https://www.udemy.com/course/creative-infographics-in-powerpoint/?discountCode=INFOGR_FEB23_2"
-    },
-    {
         "Course ID": 5084834,
         "Course Title": "AZ-900: Microsoft Certified Azure Fundamentals-Practice test",
         "Course Language": "English (US)",
@@ -1090,18 +718,6 @@
         "Type": "Practice & Test",
         "Coupon Code": "528E44F5E2B06E64EBF5",
         "Url": "https://www.udemy.com/course/az-900-microsoft-certified-azure-fundamentals-practice-test/?discountCode=528E44F5E2B06E64EBF5"
-    },
-    {
-        "Course ID": 4194328,
-        "Course Title": "Digital Marketing B2B Ultimate Digital Marketing Course 2023",
-        "Course Language": "English (US)",
-        "Headline": "Digital Marketing Course Udemy A-Z (Unofficial): Learn B2B Digital Marketing from a F100 Exec: Udemy Digital Marketing",
-        "Rating": 4.532004,
-        "Category": "Digital Marketing",
-        "Original Price": "$109.99",
-        "Type": "Course",
-        "Coupon Code": "E8A9D97E2658211CF29D",
-        "Url": "https://www.udemy.com/course/digital-marketing-b2b/?discountCode=E8A9D97E2658211CF29D"
     },
     {
         "Course ID": 4869832,
@@ -1116,6 +732,18 @@
         "Url": "https://www.udemy.com/course/proceso-crud-c-sharp-y-mysql/?discountCode=61DB36877F364121D1B5"
     },
     {
+        "Course ID": 2800692,
+        "Course Title": "Creative Infographics in PowerPoint",
+        "Course Language": "English (US)",
+        "Headline": "Do a fun and eye-catching Informational Graphic in PowerPoint",
+        "Rating": 4.0318513,
+        "Category": "Design Tools",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "INFOGR_FEB23_2",
+        "Url": "https://www.udemy.com/course/creative-infographics-in-powerpoint/?discountCode=INFOGR_FEB23_2"
+    },
+    {
         "Course ID": 3055290,
         "Course Title": "Oracle Primavera P6 Essentials Training",
         "Course Language": "English (US)",
@@ -1128,16 +756,40 @@
         "Url": "https://www.udemy.com/course/project-schedule-management-oracle-primavera-p6-foundations-training/?discountCode=7A5EEC2B7B22E37D46EC"
     },
     {
-        "Course ID": 4992668,
-        "Course Title": "Woo-Commerce Flower Dropshipping Masterclass- Wordpress 2023",
+        "Course ID": 3924910,
+        "Course Title": "LinkedIn Marketing: LinkedIn Ads | LinkedIn Lead Generation",
         "Course Language": "English (US)",
-        "Headline": "Master the Art of eCommerce: Build a Profitable Online Dropshipping Store using WordPress & Woo-Commerce  in 2023",
-        "Rating": 4.448709,
-        "Category": "E-Commerce",
+        "Headline": "LinkedIn Marketing Course, LinkedIn Ads Course, LinkedIn Lead Generation, LinkedIn Advertising Course | LinkedIn 2023",
+        "Rating": 4.546818,
+        "Category": "Social Media Marketing",
         "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "5E0E2589E126915F5D1E",
-        "Url": "https://www.udemy.com/course/sell-flowers-online-2022-dropshipping-for-passive-income-course/?discountCode=5E0E2589E126915F5D1E"
+        "Coupon Code": "C3726783A884471C570A",
+        "Url": "https://www.udemy.com/course/linkedin-advertising-marketing/?discountCode=C3726783A884471C570A"
+    },
+    {
+        "Course ID": 3975944,
+        "Course Title": "Ma\u00eetriser JAVA EE - D\u00e9velopper avec les Sevlets JSPs et JDBC",
+        "Course Language": "French (France)",
+        "Headline": "Etape par Etape D\u00e9veloppez votre Web Application en JAVA EE 8 avec  Servlets , JSPs , JDBC en MVC et avec les Sessions",
+        "Rating": 3.5603037,
+        "Category": "Web Development",
+        "Original Price": "$69.99",
+        "Type": "Course",
+        "Coupon Code": "3CB15F2EF1AC7C19AEFB",
+        "Url": "https://www.udemy.com/course/java-ee-8-pour-les-debutants-developpez-votre-application/?discountCode=3CB15F2EF1AC7C19AEFB"
+    },
+    {
+        "Course ID": 4194328,
+        "Course Title": "Digital Marketing B2B Ultimate Digital Marketing Course 2023",
+        "Course Language": "English (US)",
+        "Headline": "Digital Marketing Course Udemy A-Z (Unofficial): Learn B2B Digital Marketing from a F100 Exec: Udemy Digital Marketing",
+        "Rating": 4.532004,
+        "Category": "Digital Marketing",
+        "Original Price": "$119.99",
+        "Type": "Course",
+        "Coupon Code": "E8A9D97E2658211CF29D",
+        "Url": "https://www.udemy.com/course/digital-marketing-b2b/?discountCode=E8A9D97E2658211CF29D"
     },
     {
         "Course ID": 1898440,
@@ -1164,16 +816,16 @@
         "Url": "https://www.udemy.com/course/online-business-work-from-home/?discountCode=E2D8B6D4BB871C985ADE"
     },
     {
-        "Course ID": 2948160,
-        "Course Title": "Practise Javascript in 2023 : Code a Card Game in Phaser 3",
+        "Course ID": 4992668,
+        "Course Title": "Woo-Commerce Flower Dropshipping Masterclass- Wordpress 2023",
         "Course Language": "English (US)",
-        "Headline": "Covers ES6, Classes, Arrays, Objects, Functions, Phaser 3 and more!",
-        "Rating": 4.204953,
-        "Category": "Game Development",
-        "Original Price": "$59.99",
+        "Headline": "Master the Art of eCommerce: Build a Profitable Online Dropshipping Store using WordPress & Woo-Commerce  in 2023",
+        "Rating": 4.448709,
+        "Category": "E-Commerce",
+        "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "CARDGAME_FREE6",
-        "Url": "https://www.udemy.com/course/practise-modern-javascript-by-coding-a-card-game/?discountCode=CARDGAME_FREE6"
+        "Coupon Code": "5E0E2589E126915F5D1E",
+        "Url": "https://www.udemy.com/course/sell-flowers-online-2022-dropshipping-for-passive-income-course/?discountCode=5E0E2589E126915F5D1E"
     },
     {
         "Course ID": 1162682,
@@ -1188,6 +840,18 @@
         "Url": "https://www.udemy.com/course/unleash-your-creative-mind-and-transform-your-world/?discountCode=FEB2023FREE01"
     },
     {
+        "Course ID": 4971948,
+        "Course Title": "Managing the internal audit function",
+        "Course Language": "English (US)",
+        "Headline": "The road to success: compliance with the Internal Audit Standards and best practices",
+        "Rating": 5.0,
+        "Category": "Accounting & Bookkeeping",
+        "Original Price": "$59.99",
+        "Type": "Course",
+        "Coupon Code": "66E1CC263E278D208022",
+        "Url": "https://www.udemy.com/course/managing-the-internal-audit-function/?discountCode=66E1CC263E278D208022"
+    },
+    {
         "Course ID": 4258822,
         "Course Title": "Real time Automation+Manual Interview Questions with Answers",
         "Course Language": "Hindi",
@@ -1200,16 +864,16 @@
         "Url": "https://www.udemy.com/course/testing-interview-questions-with-answers/?discountCode=FEBUARY_SALE"
     },
     {
-        "Course ID": 2616916,
-        "Course Title": "Adobe Fonts Basics Guide",
+        "Course ID": 2948160,
+        "Course Title": "Practise Javascript in 2023 : Code a Card Game in Phaser 3",
         "Course Language": "English (US)",
-        "Headline": "Everything you need to know about Adobe Fonts Basics",
-        "Rating": 4.2432203,
-        "Category": "Graphic Design & Illustration",
-        "Original Price": "$84.99",
+        "Headline": "Covers ES6, Classes, Arrays, Objects, Functions, Phaser 3 and more!",
+        "Rating": 4.204953,
+        "Category": "Game Development",
+        "Original Price": "$59.99",
         "Type": "Course",
-        "Coupon Code": "FREE223G1S3",
-        "Url": "https://www.udemy.com/course/learn-adobe-fonts/?discountCode=FREE223G1S3"
+        "Coupon Code": "CARDGAME_FREE6",
+        "Url": "https://www.udemy.com/course/practise-modern-javascript-by-coding-a-card-game/?discountCode=CARDGAME_FREE6"
     },
     {
         "Course ID": 5090748,
@@ -1224,6 +888,18 @@
         "Url": "https://www.udemy.com/course/chatgpt-you-can-learn-english-using-chatgpt/?discountCode=666DC6527EB81C034683"
     },
     {
+        "Course ID": 3530892,
+        "Course Title": "Best of Copywriting & SEO: Content, Copywriting & SEO Course",
+        "Course Language": "English (US)",
+        "Headline": "Learn SEO, Content Marketing & Copywriting FAST & FUN. Enjoy Quizzes & Animated Videos. Download Professional Templates.",
+        "Rating": 4.2445126,
+        "Category": "Content Marketing",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "RABBITFEBRUARY3",
+        "Url": "https://www.udemy.com/course/seo-copywriting-course/?discountCode=RABBITFEBRUARY3"
+    },
+    {
         "Course ID": 363232,
         "Course Title": "Presentation Skills -Deliver an Excellent Ceremonial Speech",
         "Course Language": "English (US)",
@@ -1234,6 +910,30 @@
         "Type": "Course",
         "Coupon Code": "THANKS018",
         "Url": "https://www.udemy.com/course/how-to-give-a-ceremonial-speech/?discountCode=THANKS018"
+    },
+    {
+        "Course ID": 2616916,
+        "Course Title": "Adobe Fonts Basics Guide",
+        "Course Language": "English (US)",
+        "Headline": "Everything you need to know about Adobe Fonts Basics",
+        "Rating": 4.2432203,
+        "Category": "Graphic Design & Illustration",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FREE223G1S3",
+        "Url": "https://www.udemy.com/course/learn-adobe-fonts/?discountCode=FREE223G1S3"
+    },
+    {
+        "Course ID": 364026,
+        "Course Title": "Personal Branding: You Deliver a Great Elevator Pitch",
+        "Course Language": "English (US)",
+        "Headline": "Personal Branding - You can communicate one good idea in less than 30 seconds",
+        "Rating": 4.593411,
+        "Category": "Other Marketing",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "422E91CF87739431F66E",
+        "Url": "https://www.udemy.com/course/how-to-deliver-an-elevator-pitch/?discountCode=422E91CF87739431F66E"
     },
     {
         "Course ID": 2607680,
@@ -1254,7 +954,7 @@
         "Headline": "Learn to use real estate investing tools to make better investing decisions from a Certified Public Account (CPA)",
         "Rating": 4.6381474,
         "Category": "Real Estate",
-        "Original Price": "$84.99",
+        "Original Price": "$99.99",
         "Type": "Course",
         "Coupon Code": "578CA2220B37C15D62AF",
         "Url": "https://www.udemy.com/course/real-estate-investment-finance/?discountCode=578CA2220B37C15D62AF"
@@ -1308,6 +1008,18 @@
         "Url": "https://www.udemy.com/course/audit-financial-statement/?discountCode=D52E404C2B6ACA399FA9"
     },
     {
+        "Course ID": 3867304,
+        "Course Title": "Marketing Psychology: Neuromarketing & Marketing Psychology",
+        "Course Language": "English (US)",
+        "Headline": "Marketing Psychology 2021: Consumer Behavior | Consumer Psychology | Psychological Marketing | Neuromarketing Persuasion",
+        "Rating": 4.3960905,
+        "Category": "Marketing Fundamentals",
+        "Original Price": "$109.99",
+        "Type": "Course",
+        "Coupon Code": "BAD6A44A094E939F1019",
+        "Url": "https://www.udemy.com/course/product-marketing-psychology/?discountCode=BAD6A44A094E939F1019"
+    },
+    {
         "Course ID": 363218,
         "Course Title": "Public Speaking: You Can Speak to Large Audiences",
         "Course Language": "English (US)",
@@ -1344,18 +1056,6 @@
         "Url": "https://www.udemy.com/course/learn-photoshop-mobile-presets/?discountCode=FREE223G2S3"
     },
     {
-        "Course ID": 2563584,
-        "Course Title": "Managerial Accounting / Cost Accounting",
-        "Course Language": "English (US)",
-        "Headline": "Managerial and cost accounting comprehensive course taught bay a practicing Certified Public Accountant (CPA)",
-        "Rating": 4.525052,
-        "Category": "Money Management Tools",
-        "Original Price": "$124.99",
-        "Type": "Course",
-        "Coupon Code": "C945FCAB97D509C4314D",
-        "Url": "https://www.udemy.com/course/managerial-accounting-cost-accounting/?discountCode=C945FCAB97D509C4314D"
-    },
-    {
         "Course ID": 3028956,
         "Course Title": "Learn Java and Artificial Intelligence Programming Tools",
         "Course Language": "English (India)",
@@ -1366,18 +1066,6 @@
         "Type": "Course",
         "Coupon Code": "BD012AE6D272440967A6",
         "Url": "https://www.udemy.com/course/learn-java-and-artificial-intelligence-programming-tools/?discountCode=BD012AE6D272440967A6"
-    },
-    {
-        "Course ID": 4714262,
-        "Course Title": "Data Sonification using Two Tone- Convert your Data to Music",
-        "Course Language": "English (US)",
-        "Headline": "Make your own music compositions from datasets without any prior musical or programming knowledge, for FREE !",
-        "Rating": 4.2314324,
-        "Category": "Software Development Tools",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "FEBRUARY",
-        "Url": "https://www.udemy.com/course/data-sonification-using-two-tone-convert-your-data-to-music/?discountCode=FEBRUARY"
     },
     {
         "Course ID": 5169688,
@@ -1392,16 +1080,40 @@
         "Url": "https://www.udemy.com/course/google-professional-workspace-administrator-practice-tests/?discountCode=FEB-23-2"
     },
     {
-        "Course ID": 3625968,
-        "Course Title": "QuickBooks Desktop Multiple Currencies",
+        "Course ID": 4714262,
+        "Course Title": "Data Sonification using Two Tone- Convert your Data to Music",
         "Course Language": "English (US)",
-        "Headline": "Learn to record transactions using multiple currencies from a certified public accountant (CPA)",
-        "Rating": 3.3595414,
-        "Category": "Accounting & Bookkeeping",
+        "Headline": "Make your own music compositions from datasets without any prior musical or programming knowledge, for FREE !",
+        "Rating": 4.2314324,
+        "Category": "Software Development Tools",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "FEBRUARY",
+        "Url": "https://www.udemy.com/course/data-sonification-using-two-tone-convert-your-data-to-music/?discountCode=FEBRUARY"
+    },
+    {
+        "Course ID": 2563584,
+        "Course Title": "Managerial Accounting / Cost Accounting",
+        "Course Language": "English (US)",
+        "Headline": "Managerial and cost accounting comprehensive course taught bay a practicing Certified Public Accountant (CPA)",
+        "Rating": 4.525052,
+        "Category": "Money Management Tools",
+        "Original Price": "$129.99",
+        "Type": "Course",
+        "Coupon Code": "C945FCAB97D509C4314D",
+        "Url": "https://www.udemy.com/course/managerial-accounting-cost-accounting/?discountCode=C945FCAB97D509C4314D"
+    },
+    {
+        "Course ID": 809432,
+        "Course Title": "P.O.W.E.R. : Proven Interview System to crack your DREAM job",
+        "Course Language": "English (US)",
+        "Headline": "7-Step Proven System to convert every job interview into a job offer",
+        "Rating": 4.535468,
+        "Category": "Career Development",
         "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "BBD029D4DBBD5CFBB334",
-        "Url": "https://www.udemy.com/course/quickbooks-desktop-multiple-currencies/?discountCode=BBD029D4DBBD5CFBB334"
+        "Coupon Code": "FEB2023FREE01",
+        "Url": "https://www.udemy.com/course/ace-every-job-interview-master-blueprint-and-get-your-dream-job/?discountCode=FEB2023FREE01"
     },
     {
         "Course ID": 1904376,
@@ -1428,16 +1140,28 @@
         "Url": "https://www.udemy.com/course/individual-income-tax-form-1040-comprehensive-problem/?discountCode=B96DE305B1E3B10460AE"
     },
     {
-        "Course ID": 2818343,
-        "Course Title": "Practical Cisco Networking Labs in Cisco Packet Tracer",
+        "Course ID": 2272328,
+        "Course Title": "Income Tax Selling Your Home",
         "Course Language": "English (US)",
-        "Headline": "Networking concepts explained in a simple way, with many engaging exercises!",
-        "Rating": 4.613117,
-        "Category": "Network & Security",
-        "Original Price": "$19.99",
+        "Headline": "Tax of Home Sale-Exclusion Qualifications, Gain on Sale Calculation, Basis Calculation, & Data Entry to Tax Forms",
+        "Rating": 4.3678045,
+        "Category": "Taxes",
+        "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "FEBRRUARY",
-        "Url": "https://www.udemy.com/course/practical-cisco-networking-labs/?discountCode=FEBRRUARY"
+        "Coupon Code": "F97F28997227DE69CA0D",
+        "Url": "https://www.udemy.com/course/income-tax-selling-your-home-2018-2019/?discountCode=F97F28997227DE69CA0D"
+    },
+    {
+        "Course ID": 3625968,
+        "Course Title": "QuickBooks Desktop Multiple Currencies",
+        "Course Language": "English (US)",
+        "Headline": "Learn to record transactions using multiple currencies from a certified public accountant (CPA)",
+        "Rating": 3.3595414,
+        "Category": "Accounting & Bookkeeping",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "BBD029D4DBBD5CFBB334",
+        "Url": "https://www.udemy.com/course/quickbooks-desktop-multiple-currencies/?discountCode=BBD029D4DBBD5CFBB334"
     },
     {
         "Course ID": 1739174,
@@ -1446,7 +1170,7 @@
         "Headline": "Payroll calculations - federal income tax, social security, Medicare - Payroll journal entries posted to ledger accounts",
         "Rating": 4.2180166,
         "Category": "Accounting & Bookkeeping",
-        "Original Price": "$94.99",
+        "Original Price": "$119.99",
         "Type": "Course",
         "Coupon Code": "0BC3D4671264CE0DE9A9",
         "Url": "https://www.udemy.com/course/financial-accounting-payroll/?discountCode=0BC3D4671264CE0DE9A9"
@@ -1464,16 +1188,16 @@
         "Url": "https://www.udemy.com/course/tailwind-css-pour-les-debutants-maitriser-ce-puissant-framework-css/?discountCode=4A2AA64C4707C3A67B9E"
     },
     {
-        "Course ID": 5162944,
-        "Course Title": "Ex\u00e1menes Google Associate Cloud Engineer 2023 | Espa\u00f1ol",
-        "Course Language": "Spanish",
-        "Headline": "Obtenga la certificaci\u00f3n Google Cloud Associate Cloud Engineer con estos completos ex\u00e1menes de prueba.",
-        "Rating": 0,
-        "Category": "IT Certifications",
-        "Original Price": "$19.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "FEB-23-2",
-        "Url": "https://www.udemy.com/course/examenes-google-associate-cloud-engineer/?discountCode=FEB-23-2"
+        "Course ID": 3655198,
+        "Course Title": "Quantity Surveying With Rate Analysis And Take Off-Beginners",
+        "Course Language": "English (US)",
+        "Headline": "Quantity Surveying, Quantity Takeoff, Estimation, Rate Analysis, Blubeam Revu, Planswift, Costing, Construction Drawings",
+        "Rating": 3.8448462,
+        "Category": "Other Office Productivity",
+        "Original Price": "$24.99",
+        "Type": "Course",
+        "Coupon Code": "QSBEGINFEB23",
+        "Url": "https://www.udemy.com/course/quantity-surveying-with-rate-analysis-and-take-off-beginners/?discountCode=QSBEGINFEB23"
     },
     {
         "Course ID": 3448848,
@@ -1488,6 +1212,30 @@
         "Url": "https://www.udemy.com/course/universidad-excel-microsoft-tablas-dinamicas-dashboard-macros-vba/?discountCode=GM_FEB_23_FIN"
     },
     {
+        "Course ID": 2818343,
+        "Course Title": "Practical Cisco Networking Labs in Cisco Packet Tracer",
+        "Course Language": "English (US)",
+        "Headline": "Networking concepts explained in a simple way, with many engaging exercises!",
+        "Rating": 4.613117,
+        "Category": "Network & Security",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "FEBRRUARY",
+        "Url": "https://www.udemy.com/course/practical-cisco-networking-labs/?discountCode=FEBRRUARY"
+    },
+    {
+        "Course ID": 2512030,
+        "Course Title": "Audit - Financial Statement",
+        "Course Language": "English (US)",
+        "Headline": "Learn the audit process from planning to audit report form a Certified Public Accountant (CPA).",
+        "Rating": 4.4638844,
+        "Category": "Accounting & Bookkeeping",
+        "Original Price": "$94.99",
+        "Type": "Course",
+        "Coupon Code": "D52E404C2B6ACA399FA9",
+        "Url": "https://www.udemy.com/course/audit-financial-statement/?discountCode=D52E404C2B6ACA399FA9"
+    },
+    {
         "Course ID": 3161726,
         "Course Title": "Learn To Focus: Meditation & Mindfulness For ADHD",
         "Course Language": "English (US)",
@@ -1498,6 +1246,18 @@
         "Type": "Course",
         "Coupon Code": "2E95D2550A09B8814098",
         "Url": "https://www.udemy.com/course/meditation-for-adhd/?discountCode=2E95D2550A09B8814098"
+    },
+    {
+        "Course ID": 5162944,
+        "Course Title": "Ex\u00e1menes Google Associate Cloud Engineer 2023 | Espa\u00f1ol",
+        "Course Language": "Spanish",
+        "Headline": "Obtenga la certificaci\u00f3n Google Cloud Associate Cloud Engineer con estos completos ex\u00e1menes de prueba.",
+        "Rating": 0,
+        "Category": "IT Certifications",
+        "Original Price": "$19.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "FEB-23-2",
+        "Url": "https://www.udemy.com/course/examenes-google-associate-cloud-engineer/?discountCode=FEB-23-2"
     },
     {
         "Course ID": 4819898,
@@ -1548,6 +1308,18 @@
         "Url": "https://www.udemy.com/course/adobe-indesign-cc-2020-master-course-q/?discountCode=FREE223G1S3"
     },
     {
+        "Course ID": 2281074,
+        "Course Title": "Income Tax \u2013 Schedule C Small Business Sole Proprietor",
+        "Course Language": "English (US)",
+        "Headline": "Small business, schedule C income tax preparation using actual tax forms for examples including form 1040, Schedule SE",
+        "Rating": 4.463782,
+        "Category": "Other IT & Software",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "67528A22B0D8775DEB10",
+        "Url": "https://www.udemy.com/course/income-tax-schedule-c-small-business-sole-proprietor-2018/?discountCode=67528A22B0D8775DEB10"
+    },
+    {
         "Course ID": 2708762,
         "Course Title": "Adobe Photoshop App Design Ultimate Guide",
         "Course Language": "English (US)",
@@ -1584,6 +1356,18 @@
         "Url": "https://www.udemy.com/course/digistore24/?discountCode=7579B01E66A9CA286F79"
     },
     {
+        "Course ID": 5049506,
+        "Course Title": "Master Course in Sales Forecasting and Sales Management 2.0",
+        "Course Language": "English (US)",
+        "Headline": "Forecasting, Sales forecasting, Forecasting model, Time Series Analysis, B2B sales, Sales management, Sales skills",
+        "Rating": 0,
+        "Category": "Sales",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "6A9261751EEC52B33F71",
+        "Url": "https://www.udemy.com/course/sales-forecasting-sales-management-forecasting-models-sales-skills/?discountCode=6A9261751EEC52B33F71"
+    },
+    {
         "Course ID": 5135666,
         "Course Title": "SHRM CP Complete Guide and Exam Preparation Course",
         "Course Language": "English (US)",
@@ -1594,30 +1378,6 @@
         "Type": "Course",
         "Coupon Code": "MPFREE2",
         "Url": "https://www.udemy.com/course/shrm-exm/?discountCode=MPFREE2"
-    },
-    {
-        "Course ID": 5005684,
-        "Course Title": "Microsoft Certified: Azure Fundamentals (AZ-900) - Exams",
-        "Course Language": "English (US)",
-        "Headline": "360 Questions in 6 Practice exams with explanations to obtain the Microsoft: Azure Fundamentals (AZ-900) Certification",
-        "Rating": 3.9315684,
-        "Category": "IT Certifications",
-        "Original Price": "$19.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "EF9D364B75AF30BE92A8",
-        "Url": "https://www.udemy.com/course/microsoft-certified-azure-fundamentals-az-900-exams/?discountCode=EF9D364B75AF30BE92A8"
-    },
-    {
-        "Course ID": 3873634,
-        "Course Title": "QuickBooks Online Multiple Currencies",
-        "Course Language": "English (US)",
-        "Headline": "Learn to record transactions using multiple currencies from a certified public accountant (CPA)",
-        "Rating": 4.3921,
-        "Category": "Money Management Tools",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "F8C5AC5BA906D8A6D10C",
-        "Url": "https://www.udemy.com/course/quickbooks-online-multiple-currencies/?discountCode=F8C5AC5BA906D8A6D10C"
     },
     {
         "Course ID": 4487184,
@@ -1632,30 +1392,6 @@
         "Url": "https://www.udemy.com/course/mvvm-para-xamarin-forms-la-guia-definitiva/?discountCode=ENTRALE"
     },
     {
-        "Course ID": 5003038,
-        "Course Title": "UN-SNOOZE Your Audience\u2013Powerful Public Speaking&Presenting",
-        "Course Language": "English (US)",
-        "Headline": "Nikolai Kohler's 5 Finger Strategy to Making You an Incredibly Powerful Public Speaker",
-        "Rating": 5.0,
-        "Category": "Influence",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "UNSNOOZEFORFREE",
-        "Url": "https://www.udemy.com/course/unsnooze/?discountCode=UNSNOOZEFORFREE"
-    },
-    {
-        "Course ID": 3889976,
-        "Course Title": "Money In Excel - Income Tax Sch. C & Personal Financials",
-        "Course Language": "English (US)",
-        "Headline": "Learn how Money in Excel can be used to create financial reports and complement traditional accounting software like QBO",
-        "Rating": 3.5548723,
-        "Category": "Entrepreneurship",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "E578C7CBD01EC2F8FF36",
-        "Url": "https://www.udemy.com/course/money-in-excel-income-tax-sch-c-personal-financials/?discountCode=E578C7CBD01EC2F8FF36"
-    },
-    {
         "Course ID": 3569891,
         "Course Title": "\u0938\u0940\u0916\u0947\u0902 Javascript Programming \u0939\u093f\u0928\u094d\u0926\u0940 \u092e\u0947\u0902",
         "Course Language": "Hindi",
@@ -1668,16 +1404,16 @@
         "Url": "https://www.udemy.com/course/learn-javascript-step-by-step-in-hindi/?discountCode=A6F82BB3589AC09CF53E"
     },
     {
-        "Course ID": 2809111,
-        "Course Title": "Wave Accounting",
+        "Course ID": 5005684,
+        "Course Title": "Microsoft Certified: Azure Fundamentals (AZ-900) - Exams",
         "Course Language": "English (US)",
-        "Headline": "Learn to use bank feeds with free accounting software (Wave) from a practicing Certified Public Accountant (CPA)",
-        "Rating": 4.5327873,
-        "Category": "Accounting & Bookkeeping",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "25BD5671B0A28B60A124",
-        "Url": "https://www.udemy.com/course/wave-accounting-2020/?discountCode=25BD5671B0A28B60A124"
+        "Headline": "360 Questions in 6 Practice exams with explanations to obtain the Microsoft: Azure Fundamentals (AZ-900) Certification",
+        "Rating": 3.9315684,
+        "Category": "IT Certifications",
+        "Original Price": "$19.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "EF9D364B75AF30BE92A8",
+        "Url": "https://www.udemy.com/course/microsoft-certified-azure-fundamentals-az-900-exams/?discountCode=EF9D364B75AF30BE92A8"
     },
     {
         "Course ID": 2601628,
@@ -1692,16 +1428,28 @@
         "Url": "https://www.udemy.com/course/learn-basic-illustrator/?discountCode=FREE223G1S3"
     },
     {
-        "Course ID": 2856760,
-        "Course Title": "Xero Job Costing \u2013 Projects",
+        "Course ID": 5003038,
+        "Course Title": "UN-SNOOZE Your Audience\u2013Powerful Public Speaking&Presenting",
         "Course Language": "English (US)",
-        "Headline": "Learn job costing using Xero from a practicing CPA",
-        "Rating": 4.625549,
-        "Category": "Other Office Productivity",
+        "Headline": "Nikolai Kohler's 5 Finger Strategy to Making You an Incredibly Powerful Public Speaker",
+        "Rating": 5.0,
+        "Category": "Influence",
+        "Original Price": "$29.99",
+        "Type": "Course",
+        "Coupon Code": "UNSNOOZEFORFREE",
+        "Url": "https://www.udemy.com/course/unsnooze/?discountCode=UNSNOOZEFORFREE"
+    },
+    {
+        "Course ID": 3873634,
+        "Course Title": "QuickBooks Online Multiple Currencies",
+        "Course Language": "English (US)",
+        "Headline": "Learn to record transactions using multiple currencies from a certified public accountant (CPA)",
+        "Rating": 4.3921,
+        "Category": "Money Management Tools",
         "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "746840D30ED4E0608E73",
-        "Url": "https://www.udemy.com/course/xero-job-costing-projects/?discountCode=746840D30ED4E0608E73"
+        "Coupon Code": "F8C5AC5BA906D8A6D10C",
+        "Url": "https://www.udemy.com/course/quickbooks-online-multiple-currencies/?discountCode=F8C5AC5BA906D8A6D10C"
     },
     {
         "Course ID": 4289846,
@@ -1714,6 +1462,42 @@
         "Type": "Course",
         "Coupon Code": "FREE223G1S3",
         "Url": "https://www.udemy.com/course/adobe-after-effects-projects/?discountCode=FREE223G1S3"
+    },
+    {
+        "Course ID": 3889976,
+        "Course Title": "Money In Excel - Income Tax Sch. C & Personal Financials",
+        "Course Language": "English (US)",
+        "Headline": "Learn how Money in Excel can be used to create financial reports and complement traditional accounting software like QBO",
+        "Rating": 3.5548723,
+        "Category": "Entrepreneurship",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "E578C7CBD01EC2F8FF36",
+        "Url": "https://www.udemy.com/course/money-in-excel-income-tax-sch-c-personal-financials/?discountCode=E578C7CBD01EC2F8FF36"
+    },
+    {
+        "Course ID": 2809111,
+        "Course Title": "Wave Accounting",
+        "Course Language": "English (US)",
+        "Headline": "Learn to use bank feeds with free accounting software (Wave) from a practicing Certified Public Accountant (CPA)",
+        "Rating": 4.5327873,
+        "Category": "Accounting & Bookkeeping",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "25BD5671B0A28B60A124",
+        "Url": "https://www.udemy.com/course/wave-accounting-2020/?discountCode=25BD5671B0A28B60A124"
+    },
+    {
+        "Course ID": 2856760,
+        "Course Title": "Xero Job Costing \u2013 Projects",
+        "Course Language": "English (US)",
+        "Headline": "Learn job costing using Xero from a practicing CPA",
+        "Rating": 4.625549,
+        "Category": "Other Office Productivity",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "746840D30ED4E0608E73",
+        "Url": "https://www.udemy.com/course/xero-job-costing-projects/?discountCode=746840D30ED4E0608E73"
     },
     {
         "Course ID": 4289458,
@@ -1776,18 +1560,6 @@
         "Url": "https://www.udemy.com/course/power-bi-dax-avanzado/?discountCode=FEB2022_2"
     },
     {
-        "Course ID": 4256672,
-        "Course Title": "Social Media Marketing on Autopilot with Missinglettr",
-        "Course Language": "English (India)",
-        "Headline": "Drive insane traffic to market your brand utilising the power of social media automation with Missinglettr this year!",
-        "Rating": 3.6638236,
-        "Category": "Social Media Marketing",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "CA0D44BD0312515DD353",
-        "Url": "https://www.udemy.com/course/social-media-marketing-on-autopilot-with-missinglettr/?discountCode=CA0D44BD0312515DD353"
-    },
-    {
         "Course ID": 3361458,
         "Course Title": "Adobe Animate Ultimate Guide",
         "Course Language": "English (US)",
@@ -1812,16 +1584,16 @@
         "Url": "https://www.udemy.com/course/mini-mba-in-branding/?discountCode=D4D5AAD4854971FC21E3"
     },
     {
-        "Course ID": 2610422,
-        "Course Title": "Adobe Lightroom Classic Basics Guide",
-        "Course Language": "English (US)",
-        "Headline": "Everything you need to know about Adobe Lightroom Classic Basics",
-        "Rating": 3.5261846,
-        "Category": "Design Tools",
-        "Original Price": "$84.99",
+        "Course ID": 4970068,
+        "Course Title": "Aprende PYTHON de CERO a EXPERTO",
+        "Course Language": "Spanish (Spain)",
+        "Headline": "Aprende Python sin ning\u00fan conocimiento previo",
+        "Rating": 4.611917,
+        "Category": "Other IT & Software",
+        "Original Price": "$19.99",
         "Type": "Course",
-        "Coupon Code": "FREE223G2S3",
-        "Url": "https://www.udemy.com/course/learn-lightroom-classic/?discountCode=FREE223G2S3"
+        "Coupon Code": "41E1B5BC9D7029E6E92A",
+        "Url": "https://www.udemy.com/course/aprende-python-de-cero-a-experto/?discountCode=41E1B5BC9D7029E6E92A"
     },
     {
         "Course ID": 2777862,
@@ -1836,16 +1608,28 @@
         "Url": "https://www.udemy.com/course/xero-accounting-software-2020/?discountCode=17038062E1D2F47B0821"
     },
     {
-        "Course ID": 4970068,
-        "Course Title": "Aprende PYTHON de CERO a EXPERTO",
-        "Course Language": "Spanish (Spain)",
-        "Headline": "Aprende Python sin ning\u00fan conocimiento previo",
-        "Rating": 4.611917,
-        "Category": "Other IT & Software",
+        "Course ID": 4256672,
+        "Course Title": "Social Media Marketing on Autopilot with Missinglettr",
+        "Course Language": "English (India)",
+        "Headline": "Drive insane traffic to market your brand utilising the power of social media automation with Missinglettr this year!",
+        "Rating": 3.6638236,
+        "Category": "Social Media Marketing",
         "Original Price": "$19.99",
         "Type": "Course",
-        "Coupon Code": "41E1B5BC9D7029E6E92A",
-        "Url": "https://www.udemy.com/course/aprende-python-de-cero-a-experto/?discountCode=41E1B5BC9D7029E6E92A"
+        "Coupon Code": "CA0D44BD0312515DD353",
+        "Url": "https://www.udemy.com/course/social-media-marketing-on-autopilot-with-missinglettr/?discountCode=CA0D44BD0312515DD353"
+    },
+    {
+        "Course ID": 2516566,
+        "Course Title": "Forest Fairy Watercolor Manga Portrait Painting Course",
+        "Course Language": "English (US)",
+        "Headline": "Overcome the challenges of watercolor manga portraits and take control of your painting!",
+        "Rating": 4.7019873,
+        "Category": "Arts & Crafts",
+        "Original Price": "$44.99",
+        "Type": "Course",
+        "Coupon Code": "4166312A2A66F0E0DB7C",
+        "Url": "https://www.udemy.com/course/watercolor-manga-portrait-painting-course/?discountCode=4166312A2A66F0E0DB7C"
     },
     {
         "Course ID": 2405932,
@@ -1860,16 +1644,16 @@
         "Url": "https://www.udemy.com/course/facebook-dynamic-ads/?discountCode=RABBITFEBRUARY3"
     },
     {
-        "Course ID": 701188,
-        "Course Title": "Negotiation A-Z\u2122: Inside Secrets from a Master Negotiator",
+        "Course ID": 2670362,
+        "Course Title": "QuickBooks Desktop Not for Profit Organizations",
         "Course Language": "English (US)",
-        "Headline": "Negotiating Agreement Without Giving In. How To Get What You Want. Negotiating in Difficult Situations.",
-        "Rating": 4.436441,
-        "Category": "Communication",
+        "Headline": "Learn to enter data into QuickBooks for a not for profit organization from a practicing CPA, CGMA, CPI, with B.S.tax",
+        "Rating": 4.4888477,
+        "Category": "Accounting & Bookkeeping",
         "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "FEB2023FREE01",
-        "Url": "https://www.udemy.com/course/neuro-negotiation-system-become-number-one-negotiator-and-make-or-save-money/?discountCode=FEB2023FREE01"
+        "Coupon Code": "C3DC42CEB2C7A766388C",
+        "Url": "https://www.udemy.com/course/quickbooks-desktop-not-for-profit-organizations/?discountCode=C3DC42CEB2C7A766388C"
     },
     {
         "Course ID": 363112,
@@ -1884,6 +1668,30 @@
         "Url": "https://www.udemy.com/course/how-to-deliver-a-free-sales-generation-seminar/?discountCode=THANKS020"
     },
     {
+        "Course ID": 701188,
+        "Course Title": "Negotiation A-Z\u2122: Inside Secrets from a Master Negotiator",
+        "Course Language": "English (US)",
+        "Headline": "Negotiating Agreement Without Giving In. How To Get What You Want. Negotiating in Difficult Situations.",
+        "Rating": 4.436441,
+        "Category": "Communication",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FEB2023FREE01",
+        "Url": "https://www.udemy.com/course/neuro-negotiation-system-become-number-one-negotiator-and-make-or-save-money/?discountCode=FEB2023FREE01"
+    },
+    {
+        "Course ID": 2610422,
+        "Course Title": "Adobe Lightroom Classic Basics Guide",
+        "Course Language": "English (US)",
+        "Headline": "Everything you need to know about Adobe Lightroom Classic Basics",
+        "Rating": 3.5261846,
+        "Category": "Design Tools",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FREE223G2S3",
+        "Url": "https://www.udemy.com/course/learn-lightroom-classic/?discountCode=FREE223G2S3"
+    },
+    {
         "Course ID": 5021972,
         "Course Title": "Remote Sales Over Zoom, Skype, Phone, Or Teleconference",
         "Course Language": "English (US)",
@@ -1894,18 +1702,6 @@
         "Type": "Course",
         "Coupon Code": "71CE2ACAED6A0D8BA7AC",
         "Url": "https://www.udemy.com/course/remote-sales/?discountCode=71CE2ACAED6A0D8BA7AC"
-    },
-    {
-        "Course ID": 4508686,
-        "Course Title": "Postgraduate Diploma: CRM Platform Expert",
-        "Course Language": "English (US)",
-        "Headline": "CRM Platforms at Sales, Service, Marketing and Business Management (Siebel, Dynamics CRM/365, Salesforce, SAP CRM)",
-        "Rating": 4.0098853,
-        "Category": "Sales",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "1C0D2A8BC82629005FEF",
-        "Url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?discountCode=1C0D2A8BC82629005FEF"
     },
     {
         "Course ID": 3801480,
@@ -1920,18 +1716,6 @@
         "Url": "https://www.udemy.com/course/local-seo-2022/?discountCode=RABBITFEBRUARY2"
     },
     {
-        "Course ID": 2621100,
-        "Course Title": "Adobe Lightroom Web Basics Guide",
-        "Course Language": "English (US)",
-        "Headline": "Everything you need to know about Adobe Lightroom Web Basics",
-        "Rating": 3.9192524,
-        "Category": "Other IT & Software",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FREE223G2S3",
-        "Url": "https://www.udemy.com/course/learn-lightroom-web/?discountCode=FREE223G2S3"
-    },
-    {
         "Course ID": 3336174,
         "Course Title": "App android + Sistema para Karaoke en Xamarin Forms (2021)",
         "Course Language": "Spanish (Spain)",
@@ -1944,6 +1728,18 @@
         "Url": "https://www.udemy.com/course/app-android-sistema-para-karaoke-en-xamarin-forms-2020/?discountCode=ENTRALE"
     },
     {
+        "Course ID": 4508686,
+        "Course Title": "Postgraduate Diploma: CRM Platform Expert",
+        "Course Language": "English (US)",
+        "Headline": "CRM Platforms at Sales, Service, Marketing and Business Management (Siebel, Dynamics CRM/365, Salesforce, SAP CRM)",
+        "Rating": 4.0098853,
+        "Category": "Sales",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "1C0D2A8BC82629005FEF",
+        "Url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?discountCode=1C0D2A8BC82629005FEF"
+    },
+    {
         "Course ID": 3726900,
         "Course Title": "The Ultimate Facebook Marketing Quiz",
         "Course Language": "English (India)",
@@ -1954,6 +1750,18 @@
         "Type": "Practice & Test",
         "Coupon Code": "F83E237C256DF54B0810",
         "Url": "https://www.udemy.com/course/the-ultimate-facebook-marketing-quiz/?discountCode=F83E237C256DF54B0810"
+    },
+    {
+        "Course ID": 2621100,
+        "Course Title": "Adobe Lightroom Web Basics Guide",
+        "Course Language": "English (US)",
+        "Headline": "Everything you need to know about Adobe Lightroom Web Basics",
+        "Rating": 3.9192524,
+        "Category": "Other IT & Software",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FREE223G2S3",
+        "Url": "https://www.udemy.com/course/learn-lightroom-web/?discountCode=FREE223G2S3"
     },
     {
         "Course ID": 363308,
@@ -1978,18 +1786,6 @@
         "Type": "Course",
         "Coupon Code": "FREE_ACCOUNTING_FEB",
         "Url": "https://www.udemy.com/course/accounting-for-all-urdu-hindi-accounting-made-easy/?discountCode=FREE_ACCOUNTING_FEB"
-    },
-    {
-        "Course ID": 4971948,
-        "Course Title": "Managing the internal audit function",
-        "Course Language": "English (US)",
-        "Headline": "The road to success: compliance with the Internal Audit Standards and best practices",
-        "Rating": 5.0,
-        "Category": "Accounting & Bookkeeping",
-        "Original Price": "$59.99",
-        "Type": "Course",
-        "Coupon Code": "66E1CC263E278D208022",
-        "Url": "https://www.udemy.com/course/managing-the-internal-audit-function/?discountCode=66E1CC263E278D208022"
     },
     {
         "Course ID": 3679194,
@@ -2088,18 +1884,6 @@
         "Url": "https://www.udemy.com/course/drupal-masterclass/?discountCode=0A02176F2EE6422B860E"
     },
     {
-        "Course ID": 3619470,
-        "Course Title": "QuickBooks Desktop \u2013 Export Directly to Tax Software Lacerte",
-        "Course Language": "English (US)",
-        "Headline": "How to set up tax line mapping for a sole proprietorship and S Corporation & export data to tax software",
-        "Rating": 4.7733855,
-        "Category": "Taxes",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "24369BB4EAB8091E3E8C",
-        "Url": "https://www.udemy.com/course/quickbooks-desktop-export-directly-to-tax-software-lacerte/?discountCode=24369BB4EAB8091E3E8C"
-    },
-    {
         "Course ID": 3649540,
         "Course Title": "QuickBooks Enterprise-Classes-Responsibility Accounting",
         "Course Language": "English (US)",
@@ -2122,6 +1906,18 @@
         "Type": "Course",
         "Coupon Code": "FEB2023",
         "Url": "https://www.udemy.com/course/professional-presentation/?discountCode=FEB2023"
+    },
+    {
+        "Course ID": 3619470,
+        "Course Title": "QuickBooks Desktop \u2013 Export Directly to Tax Software Lacerte",
+        "Course Language": "English (US)",
+        "Headline": "How to set up tax line mapping for a sole proprietorship and S Corporation & export data to tax software",
+        "Rating": 4.7733855,
+        "Category": "Taxes",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "24369BB4EAB8091E3E8C",
+        "Url": "https://www.udemy.com/course/quickbooks-desktop-export-directly-to-tax-software-lacerte/?discountCode=24369BB4EAB8091E3E8C"
     },
     {
         "Course ID": 4858272,
@@ -2148,18 +1944,6 @@
         "Url": "https://www.udemy.com/course/microsoft-excel-conception-tableau-de-bord/?discountCode=289EA2DE882AD4456BEB"
     },
     {
-        "Course ID": 2892636,
-        "Course Title": "Xero Not for Profit Organization",
-        "Course Language": "English (US)",
-        "Headline": "Learn Not for Profit accounting using Xero from a practicing CPA",
-        "Rating": 4.570652,
-        "Category": "Accounting & Bookkeeping",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "E1D223A7E2D991C7AF37",
-        "Url": "https://www.udemy.com/course/xero-not-for-profit-organization/?discountCode=E1D223A7E2D991C7AF37"
-    },
-    {
         "Course ID": 3737008,
         "Course Title": "QuickBooks Enterprise - Two Businesses & Personal in One",
         "Course Language": "English (US)",
@@ -2170,6 +1954,18 @@
         "Type": "Course",
         "Coupon Code": "C2B83933D9661335961E",
         "Url": "https://www.udemy.com/course/quickbooks-enterprise-2020-two-businesses-personal-in-one/?discountCode=C2B83933D9661335961E"
+    },
+    {
+        "Course ID": 2892636,
+        "Course Title": "Xero Not for Profit Organization",
+        "Course Language": "English (US)",
+        "Headline": "Learn Not for Profit accounting using Xero from a practicing CPA",
+        "Rating": 4.570652,
+        "Category": "Accounting & Bookkeeping",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "E1D223A7E2D991C7AF37",
+        "Url": "https://www.udemy.com/course/xero-not-for-profit-organization/?discountCode=E1D223A7E2D991C7AF37"
     },
     {
         "Course ID": 3610036,
@@ -2206,6 +2002,18 @@
         "Type": "Course",
         "Coupon Code": "43FC025224D20535023F",
         "Url": "https://www.udemy.com/course/personal-capital-free-financial-planner-application/?discountCode=43FC025224D20535023F"
+    },
+    {
+        "Course ID": 3331764,
+        "Course Title": "Adobe Illustrator Ultimate Guide",
+        "Course Language": "English (US)",
+        "Headline": "Ultimate A-Z Guide for Adobe Illustrator 2022 Go From Basic to Advanced with 100 Projects + 100 Assignments From Scratch",
+        "Rating": 4.183623,
+        "Category": "Graphic Design & Illustration",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FREE223G1S3",
+        "Url": "https://www.udemy.com/course/adobe-illustrator-cc-2020-master-course/?discountCode=FREE223G1S3"
     },
     {
         "Course ID": 4234262,
@@ -2256,18 +2064,6 @@
         "Url": "https://www.udemy.com/course/pspo1tm-practice-tests-scrum-product-owner-certification-160q/?discountCode=0CF516097FF34F80C3CE"
     },
     {
-        "Course ID": 2419864,
-        "Course Title": "Governmental Accounting 100",
-        "Course Language": "English (US)",
-        "Headline": "Fund accounting-governmental accounting-General Fund & government-wide activity transactions-modified accrual method",
-        "Rating": 4.262105,
-        "Category": "Accounting & Bookkeeping",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "2DE400E9BA79AB0634E0",
-        "Url": "https://www.udemy.com/course/governmental-accounting-100/?discountCode=2DE400E9BA79AB0634E0"
-    },
-    {
         "Course ID": 3150070,
         "Course Title": "Extreme Automation in Digital Marketing",
         "Course Language": "English (India)",
@@ -2278,6 +2074,18 @@
         "Type": "Course",
         "Coupon Code": "B0EDF89A58848C44F982",
         "Url": "https://www.udemy.com/course/extreme-automation-in-digital-marketing-certification/?discountCode=B0EDF89A58848C44F982"
+    },
+    {
+        "Course ID": 2419864,
+        "Course Title": "Governmental Accounting 100",
+        "Course Language": "English (US)",
+        "Headline": "Fund accounting-governmental accounting-General Fund & government-wide activity transactions-modified accrual method",
+        "Rating": 4.262105,
+        "Category": "Accounting & Bookkeeping",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "2DE400E9BA79AB0634E0",
+        "Url": "https://www.udemy.com/course/governmental-accounting-100/?discountCode=2DE400E9BA79AB0634E0"
     },
     {
         "Course ID": 4452272,
@@ -2364,18 +2172,6 @@
         "Url": "https://www.udemy.com/course/transonic-aerodynamics/?discountCode=MPFREE2"
     },
     {
-        "Course ID": 364188,
-        "Course Title": "Public Speaking - High Tech Executives Can be Eloquent",
-        "Course Language": "English (US)",
-        "Headline": "Public Speaking Training -The days of reading bullet points off of a slide are no longer acceptable.",
-        "Rating": 4.4637313,
-        "Category": "Public Relations",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "BBFF8CA861FBA9162B75",
-        "Url": "https://www.udemy.com/course/public-speaking-for-high-tech-executives/?discountCode=BBFF8CA861FBA9162B75"
-    },
-    {
         "Course ID": 2607632,
         "Course Title": "Adobe Media Encoder Basics Guide",
         "Course Language": "English (US)",
@@ -2410,6 +2206,18 @@
         "Type": "Practice & Test",
         "Coupon Code": "4AB304AF2609CC0E6D95",
         "Url": "https://www.udemy.com/course/the-ultimate-content-marketing-quiz/?discountCode=4AB304AF2609CC0E6D95"
+    },
+    {
+        "Course ID": 364188,
+        "Course Title": "Public Speaking - High Tech Executives Can be Eloquent",
+        "Course Language": "English (US)",
+        "Headline": "Public Speaking Training -The days of reading bullet points off of a slide are no longer acceptable.",
+        "Rating": 4.4637313,
+        "Category": "Public Relations",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "BBFF8CA861FBA9162B75",
+        "Url": "https://www.udemy.com/course/public-speaking-for-high-tech-executives/?discountCode=BBFF8CA861FBA9162B75"
     },
     {
         "Course ID": 363296,
@@ -2496,18 +2304,6 @@
         "Url": "https://www.udemy.com/course/receivables-the-allowance-vs-the-direct-write-off-methods/?discountCode=41A1BC353C456279122C"
     },
     {
-        "Course ID": 5035986,
-        "Course Title": "GCP: Google Cloud Digital Leader Practice Exams [2023 New]",
-        "Course Language": "English (US)",
-        "Headline": "3 UPDATED practice tests for  Digital Leader exam. Pass Digital Leader exam in first attempt.",
-        "Rating": 4.5819745,
-        "Category": "IT Certifications",
-        "Original Price": "$19.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "AB70F7863904FF4EA00F",
-        "Url": "https://www.udemy.com/course/gcp-google-cloud-digital-leader-practice-exams-en/?discountCode=AB70F7863904FF4EA00F"
-    },
-    {
         "Course ID": 1527896,
         "Course Title": "QuickBooks Online vs. Excel 2022",
         "Course Language": "English (US)",
@@ -2520,6 +2316,30 @@
         "Url": "https://www.udemy.com/course/quickbooks-online-vs-excel/?discountCode=B6E3A60FF9D453672B22"
     },
     {
+        "Course ID": 5035986,
+        "Course Title": "GCP: Google Cloud Digital Leader Practice Exams [2023 New]",
+        "Course Language": "English (US)",
+        "Headline": "3 UPDATED practice tests for  Digital Leader exam. Pass Digital Leader exam in first attempt.",
+        "Rating": 4.5819745,
+        "Category": "IT Certifications",
+        "Original Price": "$19.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "AB70F7863904FF4EA00F",
+        "Url": "https://www.udemy.com/course/gcp-google-cloud-digital-leader-practice-exams-en/?discountCode=AB70F7863904FF4EA00F"
+    },
+    {
+        "Course ID": 2726536,
+        "Course Title": "C Corporation Income Tax (Form 1120)",
+        "Course Language": "English (US)",
+        "Headline": "Learn to enter tax data for a C Corporation into tax Form 1020 from a CPA",
+        "Rating": 4.524515,
+        "Category": "Taxes",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "57EF93F04C9B3FF08586",
+        "Url": "https://www.udemy.com/course/c-corporation-income-tax-form-1120/?discountCode=57EF93F04C9B3FF08586"
+    },
+    {
         "Course ID": 5169176,
         "Course Title": "Learn How To Hypnotically Connect With Anyone Instantly",
         "Course Language": "English (US)",
@@ -2530,6 +2350,18 @@
         "Type": "Course",
         "Coupon Code": "FREEUDEMY",
         "Url": "https://www.udemy.com/course/learn-how-to-hypnotically-connect-with-anyone-instantly/?discountCode=FREEUDEMY"
+    },
+    {
+        "Course ID": 5099430,
+        "Course Title": "The Ultimate Metaverse Quiz for Beginners",
+        "Course Language": "English (India)",
+        "Headline": "A fast-track practice quiz course on new-age Metaverse concepts and related technology!",
+        "Rating": 4.438203,
+        "Category": "3D & Animation",
+        "Original Price": "$19.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "4488BE7B66F432A9134C",
+        "Url": "https://www.udemy.com/course/the-ultimate-metaverse-quiz-for-beginners/?discountCode=4488BE7B66F432A9134C"
     },
     {
         "Course ID": 363064,
@@ -2568,30 +2400,6 @@
         "Url": "https://www.udemy.com/course/gcp-pca-google-professional-cloud-architect/?discountCode=FREE_DROP_5"
     },
     {
-        "Course ID": 5099430,
-        "Course Title": "The Ultimate Metaverse Quiz for Beginners",
-        "Course Language": "English (India)",
-        "Headline": "A fast-track practice quiz course on new-age Metaverse concepts and related technology!",
-        "Rating": 4.438203,
-        "Category": "3D & Animation",
-        "Original Price": "$19.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "4488BE7B66F432A9134C",
-        "Url": "https://www.udemy.com/course/the-ultimate-metaverse-quiz-for-beginners/?discountCode=4488BE7B66F432A9134C"
-    },
-    {
-        "Course ID": 2870128,
-        "Course Title": "QuickBooks Online Not for Profit Organization",
-        "Course Language": "English (US)",
-        "Headline": "Learn Not for Profit accounting using QuickBooks Online from a practicing CPA",
-        "Rating": 4.0714717,
-        "Category": "Other Office Productivity",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "C63D19B4D1144D1CE3FD",
-        "Url": "https://www.udemy.com/course/quickbooks-online-not-for-profit-organization/?discountCode=C63D19B4D1144D1CE3FD"
-    },
-    {
         "Course ID": 3361450,
         "Course Title": "Adobe Dreamweaver Ultimate Guide",
         "Course Language": "English (US)",
@@ -2628,6 +2436,30 @@
         "Url": "https://www.udemy.com/course/pmp-practice-test-project-management-professional-2021/?discountCode=C742A3648293C970FA0E"
     },
     {
+        "Course ID": 4789658,
+        "Course Title": "Your WORDS, Powerful Tools",
+        "Course Language": "English (US)",
+        "Headline": "How to use your WORDS to mould your desired outcomes, transform your life and create the world you want",
+        "Rating": 4.6945434,
+        "Category": "Personal Transformation",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "POWEROFWORDS12",
+        "Url": "https://www.udemy.com/course/your-words-powerful-tools/?discountCode=POWEROFWORDS12"
+    },
+    {
+        "Course ID": 2870128,
+        "Course Title": "QuickBooks Online Not for Profit Organization",
+        "Course Language": "English (US)",
+        "Headline": "Learn Not for Profit accounting using QuickBooks Online from a practicing CPA",
+        "Rating": 4.0714717,
+        "Category": "Other Office Productivity",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "C63D19B4D1144D1CE3FD",
+        "Url": "https://www.udemy.com/course/quickbooks-online-not-for-profit-organization/?discountCode=C63D19B4D1144D1CE3FD"
+    },
+    {
         "Course ID": 4907234,
         "Course Title": "C\u00f3mo Crear una Tienda Online con WordPress y WooCommerce",
         "Course Language": "Spanish",
@@ -2638,6 +2470,18 @@
         "Type": "Course",
         "Coupon Code": "TIENDAH-GR16",
         "Url": "https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-y-woocommerce/?discountCode=TIENDAH-GR16"
+    },
+    {
+        "Course ID": 3377548,
+        "Course Title": "Adobe Creative Cloud Projects Guide",
+        "Course Language": "English (US)",
+        "Headline": "Everything you need to know about Adobe Creative Cloud 2022 Projects",
+        "Rating": 4.7361445,
+        "Category": "Design Tools",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FREE223G1S3",
+        "Url": "https://www.udemy.com/course/adobe-creative-cloud-master-course/?discountCode=FREE223G1S3"
     },
     {
         "Course ID": 3243178,
@@ -2700,6 +2544,18 @@
         "Url": "https://www.udemy.com/course/job-costing-quickbooks-online-contractors/?discountCode=48EF444F3191C4EF53FF"
     },
     {
+        "Course ID": 2641750,
+        "Course Title": "Adobe Photoshop Photo Preset Basics Guide",
+        "Course Language": "English (US)",
+        "Headline": "Everything you need to know about Adobe Photoshop Photo Preset Basics",
+        "Rating": 3.895855,
+        "Category": "Graphic Design & Illustration",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FREE223G2S3",
+        "Url": "https://www.udemy.com/course/learn-photoshop-photo-presets/?discountCode=FREE223G2S3"
+    },
+    {
         "Course ID": 4977170,
         "Course Title": "Master SPC Control Charts using MS Excel",
         "Course Language": "English (US)",
@@ -2712,16 +2568,16 @@
         "Url": "https://www.udemy.com/course/master-spc-control-charts-using-ms-excel/?discountCode=ACADEA2"
     },
     {
-        "Course ID": 2602794,
-        "Course Title": "QuickBooks Desktop Job Costing",
+        "Course ID": 2675170,
+        "Course Title": "Product Launch Marketing Plan: GTM Product Management MBA",
         "Course Language": "English (US)",
-        "Headline": "Learn job costing in QuickBooks from a CPA - Create estimates, run job costing reports, track inventory parts, & more",
-        "Rating": 3.878034,
-        "Category": "Other Office Productivity",
+        "Headline": "Product Management Marketing Strategy, Product Marketing, Product Marketing Manager, Product Manager Marketing Plan",
+        "Rating": 4.388472,
+        "Category": "Product Marketing",
         "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "788191E26BE565B7EA9C",
-        "Url": "https://www.udemy.com/course/quickbooks-desktop-job-costing/?discountCode=788191E26BE565B7EA9C"
+        "Coupon Code": "C56B4DB79D367056B1E4",
+        "Url": "https://www.udemy.com/course/product-launch-how-to-go-to-market/?discountCode=C56B4DB79D367056B1E4"
     },
     {
         "Course ID": 2610380,
@@ -2736,18 +2592,6 @@
         "Url": "https://www.udemy.com/course/learn-basic-animate/?discountCode=FREE223G1S3"
     },
     {
-        "Course ID": 3867304,
-        "Course Title": "Marketing Psychology: Neuromarketing & Marketing Psychology",
-        "Course Language": "English (US)",
-        "Headline": "Marketing Psychology 2021: Consumer Behavior | Consumer Psychology | Psychological Marketing | Neuromarketing Persuasion",
-        "Rating": 4.3960905,
-        "Category": "Marketing Fundamentals",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "BAD6A44A094E939F1019",
-        "Url": "https://www.udemy.com/course/product-marketing-psychology/?discountCode=BAD6A44A094E939F1019"
-    },
-    {
         "Course ID": 4706766,
         "Course Title": "5 sistemas de trading para operar los mercados financieros",
         "Course Language": "Spanish (Spain)",
@@ -2758,6 +2602,18 @@
         "Type": "Course",
         "Coupon Code": "0F7EC16CB10B93498B71",
         "Url": "https://www.udemy.com/course/5-sistemas-de-trading-para-operar-los-mercados-financieros/?discountCode=0F7EC16CB10B93498B71"
+    },
+    {
+        "Course ID": 2602794,
+        "Course Title": "QuickBooks Desktop Job Costing",
+        "Course Language": "English (US)",
+        "Headline": "Learn job costing in QuickBooks from a CPA - Create estimates, run job costing reports, track inventory parts, & more",
+        "Rating": 3.878034,
+        "Category": "Other Office Productivity",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "788191E26BE565B7EA9C",
+        "Url": "https://www.udemy.com/course/quickbooks-desktop-job-costing/?discountCode=788191E26BE565B7EA9C"
     },
     {
         "Course ID": 3589356,
@@ -2796,6 +2652,18 @@
         "Url": "https://www.udemy.com/course/learn-project-management-with-photoshop-2020/?discountCode=FREE223G2S3"
     },
     {
+        "Course ID": 2714022,
+        "Course Title": "Partnership Income Tax (Form 1065)",
+        "Course Language": "English (US)",
+        "Headline": "Learn to enter tax data for a Partnership into tax Form 1065 from a CPA",
+        "Rating": 4.413812,
+        "Category": "Taxes",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "B3D6F103869F3055FA41",
+        "Url": "https://www.udemy.com/course/partnership-income-tax-form-1065/?discountCode=B3D6F103869F3055FA41"
+    },
+    {
         "Course ID": 4609818,
         "Course Title": "Mit OKR Ziele erreichen durch agiles Projektmanagement",
         "Course Language": "German",
@@ -2820,18 +2688,6 @@
         "Url": "https://www.udemy.com/course/how-to-recover-from-public-speaking-disasters/?discountCode=THANKS020"
     },
     {
-        "Course ID": 4684596,
-        "Course Title": "Desarrollando Sistema MiniMarket (C# y Microsoft SQL Server)",
-        "Course Language": "Spanish (Spain)",
-        "Headline": "Sistema MiniMarket (C# y Microsoft SQL Server)",
-        "Rating": 4.827206,
-        "Category": "Other IT & Software",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "064D9F3F1F6BA5DC030F",
-        "Url": "https://www.udemy.com/course/desarrollando-sistema-minimarket-c_sharp-y-microsoft-sql-server/?discountCode=064D9F3F1F6BA5DC030F"
-    },
-    {
         "Course ID": 4809592,
         "Course Title": "PSM1 Practice Tests Scrum Master  certification-160Q",
         "Course Language": "English (US)",
@@ -2844,6 +2700,18 @@
         "Url": "https://www.udemy.com/course/psm1-practice-tests-scrum-master-certification-160q/?discountCode=1B89E125B6E8186251bf"
     },
     {
+        "Course ID": 4268562,
+        "Course Title": "Real Estate Investment & Finance",
+        "Course Language": "English (US)",
+        "Headline": "Learn to use real estate investing tools to make better investing decisions from a Certified Public Account (CPA)",
+        "Rating": 4.6381474,
+        "Category": "Real Estate",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "578CA2220B37C15D62AF",
+        "Url": "https://www.udemy.com/course/real-estate-investment-finance/?discountCode=578CA2220B37C15D62AF"
+    },
+    {
         "Course ID": 2639294,
         "Course Title": "Adobe Photoshop Automate Basics Guide",
         "Course Language": "English (US)",
@@ -2854,6 +2722,18 @@
         "Type": "Course",
         "Coupon Code": "FREE223G2S3",
         "Url": "https://www.udemy.com/course/learn-photoshop-automate/?discountCode=FREE223G2S3"
+    },
+    {
+        "Course ID": 4684596,
+        "Course Title": "Desarrollando Sistema MiniMarket (C# y Microsoft SQL Server)",
+        "Course Language": "Spanish (Spain)",
+        "Headline": "Sistema MiniMarket (C# y Microsoft SQL Server)",
+        "Rating": 4.827206,
+        "Category": "Other IT & Software",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "064D9F3F1F6BA5DC030F",
+        "Url": "https://www.udemy.com/course/desarrollando-sistema-minimarket-c_sharp-y-microsoft-sql-server/?discountCode=064D9F3F1F6BA5DC030F"
     },
     {
         "Course ID": 3696866,
@@ -2976,6 +2856,18 @@
         "Url": "https://www.udemy.com/course/financial-accounting-closing-process/?discountCode=350DD4E5D5625C554502"
     },
     {
+        "Course ID": 1263110,
+        "Course Title": "Branding & Brand Management: Branding Strategy Brand Tactics",
+        "Course Language": "English (US)",
+        "Headline": "Branding Guide MBA Level : Brand Management, Branding Strategy, Brand Building | #1 Branding Course from top MBA F100 XP",
+        "Rating": 4.345633,
+        "Category": "Branding",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "D4D5AAD4854971FC21E3",
+        "Url": "https://www.udemy.com/course/mini-mba-in-branding/?discountCode=D4D5AAD4854971FC21E3"
+    },
+    {
         "Course ID": 364206,
         "Course Title": "Media Training for Financial Service Professionals",
         "Course Language": "English (US)",
@@ -3012,6 +2904,18 @@
         "Url": "https://www.udemy.com/course/wordpress-practice-tests-and-interview-questions-basic-advanced/?discountCode=FEBRUARY"
     },
     {
+        "Course ID": 3989930,
+        "Course Title": "TIBCO Spotfire Development : Beginners To Advanced Course",
+        "Course Language": "English (US)",
+        "Headline": "Learn TIBCO Spotfire in this Fast Paced Course - Covering all Topics like Charts, Mods, Python, R, Spotfire Cloud & more",
+        "Rating": 4.222662,
+        "Category": "Business Analytics & Intelligence",
+        "Original Price": "$29.99",
+        "Type": "Course",
+        "Coupon Code": "FEBRUARY",
+        "Url": "https://www.udemy.com/course/tibco-spotfire-development-beginners-to-advanced-course/?discountCode=FEBRUARY"
+    },
+    {
         "Course ID": 4858438,
         "Course Title": "ISO 13485: Medical Devices QMS Certification Masterclass",
         "Course Language": "English (US)",
@@ -3034,6 +2938,18 @@
         "Type": "Course",
         "Coupon Code": "FEBSALES",
         "Url": "https://www.udemy.com/course/learn-easy-italian/?discountCode=FEBSALES"
+    },
+    {
+        "Course ID": 5158634,
+        "Course Title": "Google Cloud Associate Cloud Engineer Practice Tests 2023",
+        "Course Language": "English (US)",
+        "Headline": "Ace Your Google Cloud Associate Cloud Engineer Certification with These Comprehensive Test Exams!",
+        "Rating": 0,
+        "Category": "IT Certifications",
+        "Original Price": "$19.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "FEB-23-2",
+        "Url": "https://www.udemy.com/course/cloud-associate-cloud-engineer-practice-tests/?discountCode=FEB-23-2"
     },
     {
         "Course ID": 3049376,
@@ -3096,6 +3012,30 @@
         "Url": "https://www.udemy.com/course/financial-accounting-subsidiary-ledgers-special-journals/?discountCode=374103F9CE1EFDCC8FA5"
     },
     {
+        "Course ID": 4660302,
+        "Course Title": "Link building 2023. Build\u00a0links that boost the site traffic!",
+        "Course Language": "English (US)",
+        "Headline": "Get started with linkbuilding and launch effective campaigns to reach new customers and grow your business online.",
+        "Rating": 4.209983,
+        "Category": "Search Engine Optimization",
+        "Original Price": "$34.99",
+        "Type": "Course",
+        "Coupon Code": "LB1702",
+        "Url": "https://www.udemy.com/course/link-building-course/?discountCode=LB1702"
+    },
+    {
+        "Course ID": 2823069,
+        "Course Title": "Universidad Spring - Spring Framework y Spring Boot!",
+        "Course Language": "Spanish",
+        "Headline": "Aprende desde Cero hasta Experto el framework m\u00e1s popular de Java, Spring Framework con Spring Boot.",
+        "Rating": 4.6230073,
+        "Category": "Web Development",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "GM_FEB_23_FIN",
+        "Url": "https://www.udemy.com/course/universidad-spring-framework-springboot-java-security-rest-webservices/?discountCode=GM_FEB_23_FIN"
+    },
+    {
         "Course ID": 2607620,
         "Course Title": "Adobe After Effects Basics Guide",
         "Course Language": "English (US)",
@@ -3118,6 +3058,18 @@
         "Type": "Course",
         "Coupon Code": "2C8E6E5D8CBA7F1B1939",
         "Url": "https://www.udemy.com/course/learn-audo-studio-ai-powered-noise-cancellation-tool/?discountCode=2C8E6E5D8CBA7F1B1939"
+    },
+    {
+        "Course ID": 4504042,
+        "Course Title": "Solidity Interview Questions & Practice Tests (updated 2022)",
+        "Course Language": "English (US)",
+        "Headline": "Update / Refresh your knowledge on Solidity, or prepare better for your Solidity Developer Interview with Practice Tests",
+        "Rating": 3.3692129,
+        "Category": "Web Development",
+        "Original Price": "$39.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "FEBRUARY",
+        "Url": "https://www.udemy.com/course/solidity-interview-questions-and-practice-tests-for-blockchain-devs/?discountCode=FEBRUARY"
     },
     {
         "Course ID": 5036684,
