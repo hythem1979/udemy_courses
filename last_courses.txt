@@ -1,183 +1,18 @@
 [
     {
-        "Course ID": 5169758,
-        "Course Title": "G Professional Workspace Administrator\uff5c\u6a21\u64ec\u8a66\u9a132023\u5e74\u7248",
-        "Course Language": "Japanese",
-        "Headline": "\u5305\u62ec\u7684\u306a\u8a66\u9a13\u3067 Google Professional Workspace Administrator \u306e\u8a8d\u5b9a\u3092\u53d6\u5f97\u3057\u307e\u3057\u3087\u3046\u3002",
-        "Rating": 0,
-        "Category": "IT Certifications",
-        "Original Price": "$19.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "FEB-23-2",
-        "Url": "https://www.udemy.com/course/google-professional-workspace-administrator-jp/?discountCode=FEB-23-2",
-        "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5169758_b4fd.jpg",
-        "Time": ""
-    },
-    {
-        "Course ID": 2431770,
-        "Course Title": "Writing Grants Applications For Nonprofit Organizations",
+        "Course ID": 5002982,
+        "Course Title": "Compassion Focused Therapy (CFT) Practitioner Guide",
         "Course Language": "English (US)",
-        "Headline": "Learn How To Write Grant Applications For Nonprofit Organizations",
-        "Rating": 3.853403,
-        "Category": "Finance",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "2514F5531800CBDBA386",
-        "Url": "https://www.udemy.com/course/grants-for-nonprofit-organizations/?discountCode=2514F5531800CBDBA386",
-        "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2431770_4dd7.jpg",
-        "Time": " 49 mins"
-    },
-    {
-        "Course ID": 3866668,
-        "Course Title": "Professional Scrum with Kanban (PSK I) Certification Prep",
-        "Course Language": "English (US)",
-        "Headline": "Theory + Practice Questions",
-        "Rating": 4.17389,
-        "Category": "Software Engineering",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "BB856CE",
-        "Url": "https://www.udemy.com/course/professional-scrum-with-kanban-psk-i-certification-prep/?discountCode=BB856CE",
-        "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3866668_061e_2.jpg",
-        "Time": "3 hours 18 mins"
-    },
-    {
-        "Course ID": 3336174,
-        "Course Title": "App android + Sistema para Karaoke en Xamarin Forms (2021)",
-        "Course Language": "Spanish (Spain)",
-        "Headline": "Proyecto funcional y terminado",
-        "Rating": 4.931501,
-        "Category": "Other IT & Software",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "ENTRALE",
-        "Url": "https://www.udemy.com/course/app-android-sistema-para-karaoke-en-xamarin-forms-2020/?discountCode=ENTRALE",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3336174_da02_5.jpg",
-        "Time": "17 hours 42 mins"
-    },
-    {
-        "Course ID": 3459970,
-        "Course Title": "Chrome Developer Tool Basics Guide",
-        "Course Language": "English (US)",
-        "Headline": "Everything you need to know about Chrome Developer Tool Basics",
-        "Rating": 4.449734,
-        "Category": "Web Development",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FREE223G4S3",
-        "Url": "https://www.udemy.com/course/chrome-developer-tools/?discountCode=FREE223G4S3",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3459970_0912_3.jpg",
-        "Time": "1 hours 3 mins"
-    },
-    {
-        "Course ID": 4740068,
-        "Course Title": "Omnichannel Sales & Service Management with AI & Chat Bots",
-        "Course Language": "English (US)",
-        "Headline": "Facebook, Instagram, Whatsapp, Telegram, Apple, Wechat, Web, Bots and Chats Usage at Sales, Service, Digital Marketing",
-        "Rating": 3.8756733,
-        "Category": "Sales",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "4F84D8A1242645E7B282",
-        "Url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?discountCode=4F84D8A1242645E7B282",
-        "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4740068_c1b7.jpg",
-        "Time": " 59 mins"
-    },
-    {
-        "Course ID": 363064,
-        "Course Title": "Investing Presentations-Deliver an IPO Roadshow Presentation",
-        "Course Language": "English (US)",
-        "Headline": "Investing Presentations: Make investors remember key points about your business, why you are an attractive investment",
-        "Rating": 4.654999,
-        "Category": "Communication",
-        "Original Price": "$99.99",
-        "Type": "Course",
-        "Coupon Code": "THANKS020",
-        "Url": "https://www.udemy.com/course/how-to-deliver-an-ipo-roadshow-presentation/?discountCode=THANKS020",
-        "Price": "$99.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/363064_07b5_4.jpg",
-        "Time": " 52 mins"
-    },
-    {
-        "Course ID": 4321390,
-        "Course Title": "Facebook Ads & Instagram Ads Course 2023 (Ready for iOS 14+)",
-        "Course Language": "English (US)",
-        "Headline": "Facebook Ads Course you will Love. Learn Fast & Fun. Overcome iOS Restrictions. Create Customer Journey. Enjoy Quizzes.",
-        "Rating": 4.607114,
-        "Category": "Paid Advertising",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "LUCKYWATERRABBIT3",
-        "Url": "https://www.udemy.com/course/facebook-ads-2022/?discountCode=LUCKYWATERRABBIT3",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4321390_abf7_7.jpg",
-        "Time": "15 hours 33 mins"
-    },
-    {
-        "Course ID": 2831348,
-        "Course Title": "Overcome Social Anxiety - Step by Step Plan",
-        "Course Language": "English (US)",
-        "Headline": "Easy to follow social anxiety treatment plan based on psychotherapy. Regain confidence and build better social life.",
-        "Rating": 4.4835033,
+        "Headline": "Learn everything about Compassion Focused Therapy (CFT) and it's application in counseling practice",
+        "Rating": 3.4520547,
         "Category": "Mental Health",
         "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "4FF5930B58B685962ABA",
-        "Url": "https://www.udemy.com/course/acceptance-and-commitment-therapy-for-social-anxiety/?discountCode=4FF5930B58B685962ABA",
+        "Coupon Code": "8B30C7CB5AE26A6E0F88",
+        "Url": "https://www.udemy.com/course/compassion-focused-therapy-cft-practioner-guide/?discountCode=8B30C7CB5AE26A6E0F88",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2831348_93ec_18.jpg",
-        "Time": "3 hours 22 mins"
-    },
-    {
-        "Course ID": 4441154,
-        "Course Title": "Excel Accounting 3 \u2013 Enter First Month of Transactions",
-        "Course Language": "English (US)",
-        "Headline": "Learn how to enter transactions, & their impact on general ledger, subsidiary ledgers, trial balance, & financial stmts",
-        "Rating": 4.273813,
-        "Category": "Accounting & Bookkeeping",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "6BF1ECEC1A8A1547614E",
-        "Url": "https://www.udemy.com/course/excel-accounting-3-enter-first-month-of-transactions/?discountCode=6BF1ECEC1A8A1547614E",
-        "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4441154_e1d6.jpg",
-        "Time": "5 hours 16 mins"
-    },
-    {
-        "Course ID": 4799624,
-        "Course Title": "Professional Presentation design - \u0635\u0645\u0645 \u0639\u0631\u0636 \u062a\u0642\u062f\u064a\u0645\u064a \u0627\u062d\u062a\u0631\u0627\u0641\u064a",
-        "Course Language": "Arabic",
-        "Headline": "\u062a\u0639\u0644\u0645 \u0627\u0644\u0645\u0628\u0627\u062f\u0626 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629 \u0644\u062a\u0635\u0645\u064a\u0645 \u0628\u0631\u064a\u0632\u0646\u062a\u064a\u0634\u0646 \u0623\u0643\u062b\u0631 \u0627\u062d\u062a\u0631\u0627\u0641\u064a\u0629 \u0628\u0627\u0644\u0623\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0628\u0631\u0627\u0645\u062c \u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0628\u0631\u064a\u0632\u0646\u062a\u064a\u0634\u0646 (\u0627\u0644\u0628\u0648\u0631\u0628\u0648\u064a\u0646\u062a \u0648\u062c\u0648\u062c\u0644 \u0633\u0644\u0627\u064a\u062f\u0632)",
-        "Rating": 4.980989,
-        "Category": "Microsoft",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FEB2023",
-        "Url": "https://www.udemy.com/course/professional-presentation/?discountCode=FEB2023",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4799624_dcd7_4.jpg",
-        "Time": "5 hours 27 mins"
-    },
-    {
-        "Course ID": 4441162,
-        "Course Title": "Excel Accounting 5\u2013Bank Reconciliations-Month 1 & 2",
-        "Course Language": "English (US)",
-        "Headline": "Learn how to put together a bank reconciliation using Excel from a Certified Public Accountant (CPA)",
-        "Rating": 4.2986684,
-        "Category": "Accounting & Bookkeeping",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "21B68B2B41AC0CFC7557",
-        "Url": "https://www.udemy.com/course/excel-accounting-5bank-reconciliations-month-1-2/?discountCode=21B68B2B41AC0CFC7557",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4441162_d3af.jpg",
-        "Time": "1 hours 52 mins"
+        "Image": "https://img-b.udemycdn.com/course/480x270/5002982_396d.jpg",
+        "Time": "1 hours 45 mins"
     },
     {
         "Course ID": 2444066,
@@ -191,23 +26,23 @@
         "Coupon Code": "YOUACCEL76541",
         "Url": "https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/?discountCode=YOUACCEL76541",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2444066_fc28_3.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/2444066_fc28_3.jpg",
         "Time": "7 hours 55 mins"
     },
     {
-        "Course ID": 5002982,
-        "Course Title": "Compassion Focused Therapy (CFT) Practitioner Guide",
-        "Course Language": "English (US)",
-        "Headline": "Learn everything about Compassion Focused Therapy (CFT) and it's application in counseling practice",
-        "Rating": 3.4520547,
-        "Category": "Mental Health",
-        "Original Price": "$84.99",
+        "Course ID": 4473370,
+        "Course Title": "Microsoft Excel in Hindi - \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u0938\u0940\u0916\u0947\u0902 MS Excel A-Z",
+        "Course Language": "Hindi",
+        "Headline": "Complete Microsoft Excel in Hindi - Learn MS Excel formulas & function, Excel charts, Excel Shortcuts, Macros in Hindi",
+        "Rating": 4.559727,
+        "Category": "Microsoft",
+        "Original Price": "$19.99",
         "Type": "Course",
-        "Coupon Code": "8B30C7CB5AE26A6E0F88",
-        "Url": "https://www.udemy.com/course/compassion-focused-therapy-cft-practioner-guide/?discountCode=8B30C7CB5AE26A6E0F88",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5002982_396d.jpg",
-        "Time": "1 hours 45 mins"
+        "Coupon Code": "FE23B98",
+        "Url": "https://www.udemy.com/course/microsoft-excel-in-hindi/?discountCode=FE23B98",
+        "Price": "$19.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4473370_4cb6_2.jpg",
+        "Time": "5 hours 21 mins"
     },
     {
         "Course ID": 4900658,
@@ -221,7 +56,7 @@
         "Coupon Code": "YOUACCEL41958",
         "Url": "https://www.udemy.com/course/adobe-lightroom-classic-cc-master-the-develop-module/?discountCode=YOUACCEL41958",
         "Price": "$59.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4900658_0d6c.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4900658_0d6c.jpg",
         "Time": "3 hours 30 mins"
     },
     {
@@ -244,14 +79,14 @@
         "Course Title": "SQL- The Complete Introduction to SQL programming",
         "Course Language": "English (US)",
         "Headline": "Learn the basics of SQL programming and Data manipulation with the use SQL",
-        "Rating": 4.1777883,
+        "Rating": 4.159311,
         "Category": "Programming Languages",
         "Original Price": "$39.99",
         "Type": "Course",
         "Coupon Code": "9AEF74A25CF3FCDF4DAC",
         "Url": "https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/?discountCode=9AEF74A25CF3FCDF4DAC",
         "Price": "$39.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3907760_ff4b.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3907760_ff4b.jpg",
         "Time": "3 hours 25 mins"
     },
     {
@@ -285,21 +120,6 @@
         "Time": "1 hours 20 mins"
     },
     {
-        "Course ID": 2207674,
-        "Course Title": "QuickBooks Online-Bookkeeping Business-Easy Way",
-        "Course Language": "English (US)",
-        "Headline": "QuickBooks Online bookkeeping business plan and examples, walking through bookkeeping engagement & data entry",
-        "Rating": 4.591437,
-        "Category": "Other Office Productivity",
-        "Original Price": "$89.99",
-        "Type": "Course",
-        "Coupon Code": "D4DF3D6173DBF2567A98",
-        "Url": "https://www.udemy.com/course/quickbooks-online-2019-bookkeeping-business-easy-way/?discountCode=D4DF3D6173DBF2567A98",
-        "Price": "$89.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2207674_f71d.jpg",
-        "Time": "13 hours 47 mins"
-    },
-    {
         "Course ID": 2281074,
         "Course Title": "Income Tax \u2013 Schedule C Small Business Sole Proprietor",
         "Course Language": "English (US)",
@@ -313,6 +133,21 @@
         "Price": "$84.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/2281074_c001.jpg",
         "Time": "21 hours 55 mins"
+    },
+    {
+        "Course ID": 2207674,
+        "Course Title": "QuickBooks Online-Bookkeeping Business-Easy Way",
+        "Course Language": "English (US)",
+        "Headline": "QuickBooks Online bookkeeping business plan and examples, walking through bookkeeping engagement & data entry",
+        "Rating": 4.591437,
+        "Category": "Other Office Productivity",
+        "Original Price": "$89.99",
+        "Type": "Course",
+        "Coupon Code": "D4DF3D6173DBF2567A98",
+        "Url": "https://www.udemy.com/course/quickbooks-online-2019-bookkeeping-business-easy-way/?discountCode=D4DF3D6173DBF2567A98",
+        "Price": "$89.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2207674_f71d.jpg",
+        "Time": "13 hours 47 mins"
     },
     {
         "Course ID": 4090904,
@@ -341,7 +176,7 @@
         "Coupon Code": "CD94BA46E3DF9F3BB069",
         "Url": "https://www.udemy.com/course/build-file-sharing-website/?discountCode=CD94BA46E3DF9F3BB069",
         "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4202592_8a72_2.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4202592_8a72_2.jpg",
         "Time": " 38 mins"
     },
     {
@@ -351,12 +186,12 @@
         "Headline": "\u062f\u0648\u0631\u0629 \u0641\u0644\u0627\u062a\u0631 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 \u0644\u062a\u062c\u0639\u0644\u0643 \u062c\u0627\u0647\u0632 \u0644\u0633\u0648\u0642 \u0627\u0644\u0639\u0645\u0644",
         "Rating": 4.647041,
         "Category": "Mobile Development",
-        "Original Price": "$109.99",
+        "Original Price": "$84.99",
         "Type": "Course",
         "Coupon Code": "FREEFEB",
         "Url": "https://www.udemy.com/course/flutter-advanced-clean-architecture-with-mvvm-arabic/?discountCode=FREEFEB",
-        "Price": "$109.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4558448_2340_6.jpg",
+        "Price": "$84.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4558448_2340_6.jpg",
         "Time": "21 hours 53 mins"
     },
     {
@@ -373,21 +208,6 @@
         "Price": "$24.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/4988492_27e0_2.jpg",
         "Time": " 47 mins"
-    },
-    {
-        "Course ID": 3288996,
-        "Course Title": "Google Data Studio-Visualizaci\u00f3n de Datos y Cuadros de Mando",
-        "Course Language": "Spanish",
-        "Headline": "Crea informes y visualizaciones de datos en Data Studio a partir de Google Sheets|Google Analytics|Google Ads|BigQuery",
-        "Rating": 4.346779,
-        "Category": "Business Analytics & Intelligence",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FE23B98",
-        "Url": "https://www.udemy.com/course/google-data-studio-visualizacion-de-datos-y-cuadros-de-mando/?discountCode=FE23B98",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3288996_25c4_3.jpg",
-        "Time": "4 hours 2 mins"
     },
     {
         "Course ID": 2606708,
@@ -416,7 +236,7 @@
         "Coupon Code": "855B4296AD6F9A7C3B14",
         "Url": "https://www.udemy.com/course/education-tax-credits-education-tax-benefits/?discountCode=855B4296AD6F9A7C3B14",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2258556_21b6.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/2258556_21b6.jpg",
         "Time": "12 hours 32 mins"
     },
     {
@@ -431,7 +251,7 @@
         "Coupon Code": "TIMEFORGLORY38",
         "Url": "https://www.udemy.com/course/ebook-marketing-certification-for-authors/?discountCode=TIMEFORGLORY38",
         "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3277918_9b39_5.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/3277918_9b39_5.jpg",
         "Time": "1 hours 9 mins"
     },
     {
@@ -446,7 +266,7 @@
         "Coupon Code": "D54AE2F3C654B0AE9FB1",
         "Url": "https://www.udemy.com/course/testing-for-developers/?discountCode=D54AE2F3C654B0AE9FB1",
         "Price": "$49.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3273578_a5eb.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/3273578_a5eb.jpg",
         "Time": "4 hours"
     },
     {
@@ -461,7 +281,7 @@
         "Coupon Code": "KRFREE2402",
         "Url": "https://www.udemy.com/course/keyword_research/?discountCode=KRFREE2402",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/5155172_4164.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/5155172_4164.jpg",
         "Time": "1 hours 16 mins"
     },
     {
@@ -521,7 +341,7 @@
         "Coupon Code": "FEB23G21",
         "Url": "https://www.udemy.com/course/basics-of-pricing-arabic-ehab/?discountCode=FEB23G21",
         "Price": "$49.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4509162_9492_2.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4509162_9492_2.jpg",
         "Time": "3 hours 40 mins"
     },
     {
@@ -529,14 +349,14 @@
         "Course Title": "Account Based Marketing - ABM: Increase Your B2B Efficiency",
         "Course Language": "English (US)",
         "Headline": "Implement a new ABM marketing strategy to enhance the number of clients and their quality in B2B",
-        "Rating": 4.4326415,
+        "Rating": 4.434123,
         "Category": "Growth Hacking",
         "Original Price": "$84.99",
         "Type": "Course",
         "Coupon Code": "AMA2402",
         "Url": "https://www.udemy.com/course/account-based-marketing-increase-your-b2b-efficiency/?discountCode=AMA2402",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5036484_e268.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/5036484_e268.jpg",
         "Time": "1 hours 22 mins"
     },
     {
@@ -559,7 +379,7 @@
         "Course Title": "Data Security, Recovery and Storage Hacking for Newbies",
         "Course Language": "English (India)",
         "Headline": "An amazing online course on Data Security, Recovery and Storage Hacking this year!",
-        "Rating": 3.7981904,
+        "Rating": 3.6138253,
         "Category": "Network & Security",
         "Original Price": "$19.99",
         "Type": "Course",
@@ -596,7 +416,7 @@
         "Coupon Code": "E31C39FE3FE44B32C03E",
         "Url": "https://www.udemy.com/course/dp-203-data-engineering-on-microsoft-azure-exam-prep-2023/?discountCode=E31C39FE3FE44B32C03E",
         "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5142276_491e.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/5142276_491e.jpg",
         "Time": ""
     },
     {
@@ -626,7 +446,7 @@
         "Coupon Code": "8B5A571A01CAAE16203F",
         "Url": "https://www.udemy.com/course/s-corporation-income-tax/?discountCode=8B5A571A01CAAE16203F",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2701734_335d.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/2701734_335d.jpg",
         "Time": "4 hours 3 mins"
     }
 ]
