@@ -1,80 +1,5 @@
 [
     {
-        "Course ID": 2886304,
-        "Course Title": "Entrepreneurship - Ft. Matthew Rolnick of Yaymaker, Groupon",
-        "Course Language": "English (US)",
-        "Headline": "Learn Entrepreneurship through Q&A with Matthew Rolnick who generated 10+ Million in sales at Groupon.",
-        "Rating": 4.545905,
-        "Category": "Entrepreneurship",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "YOUACCEL26223",
-        "Url": "https://www.udemy.com/course/how-to-succeed-as-an-entrepreneur-a-beginners-guide/?discountCode=YOUACCEL26223",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2886304_483f_3.jpg",
-        "Time": "1 hours 18 mins"
-    },
-    {
-        "Course ID": 3501936,
-        "Course Title": "Philosophy of Buddhism - Practical guide to end suffering",
-        "Course Language": "English (US)",
-        "Headline": "Learn the core buddhist teachings to understand and end suffering.",
-        "Rating": 4.6167064,
-        "Category": "Religion & Spirituality",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "4A7386756E954C8B68DA",
-        "Url": "https://www.udemy.com/course/spirituality-for-emotional-freedom-core-teachings/?discountCode=4A7386756E954C8B68DA",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3501936_48b6_4.jpg",
-        "Time": "2 hours 34 mins"
-    },
-    {
-        "Course ID": 1665286,
-        "Course Title": "Digital Marketing Business Online For Free Social Media 2023",
-        "Course Language": "English (US)",
-        "Headline": "Setup Online Profiles For Your business on Facebook, Instagram & Google My Business &  website to get optimized SEO",
-        "Rating": 3.963219,
-        "Category": "Social Media Marketing",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "230223",
-        "Url": "https://www.udemy.com/course/social-media-marketing-digital-marketing-masterclass-for-beginners/?discountCode=230223",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/1665286_b4a5_17.jpg",
-        "Time": "2 hours 14 mins"
-    },
-    {
-        "Course ID": 2431770,
-        "Course Title": "Writing Grants Applications For Nonprofit Organizations",
-        "Course Language": "English (US)",
-        "Headline": "Learn How To Write Grant Applications For Nonprofit Organizations",
-        "Rating": 3.8576064,
-        "Category": "Finance",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "2514F5531800CBDBA386",
-        "Url": "https://www.udemy.com/course/grants-for-nonprofit-organizations/?discountCode=2514F5531800CBDBA386",
-        "Price": "$29.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/2431770_4dd7.jpg",
-        "Time": " 49 mins"
-    },
-    {
-        "Course ID": 3336174,
-        "Course Title": "App android + Sistema para Karaoke en Xamarin Forms (2021)",
-        "Course Language": "Spanish (Spain)",
-        "Headline": "Proyecto funcional y terminado",
-        "Rating": 4.931501,
-        "Category": "Other IT & Software",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "ENTRALE",
-        "Url": "https://www.udemy.com/course/app-android-sistema-para-karaoke-en-xamarin-forms-2020/?discountCode=ENTRALE",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3336174_da02_5.jpg",
-        "Time": "17 hours 42 mins"
-    },
-    {
         "Course ID": 4321390,
         "Course Title": "Facebook Ads & Instagram Ads Course 2023 (Ready for iOS 14+)",
         "Course Language": "English (US)",
@@ -120,6 +45,21 @@
         "Time": "3 hours 22 mins"
     },
     {
+        "Course ID": 3459970,
+        "Course Title": "Chrome Developer Tool Basics Guide",
+        "Course Language": "English (US)",
+        "Headline": "Everything you need to know about Chrome Developer Tool Basics",
+        "Rating": 4.449734,
+        "Category": "Web Development",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FREE223G4S3",
+        "Url": "https://www.udemy.com/course/chrome-developer-tools/?discountCode=FREE223G4S3",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3459970_0912_3.jpg",
+        "Time": "1 hours 3 mins"
+    },
+    {
         "Course ID": 4441154,
         "Course Title": "Excel Accounting 3 \u2013 Enter First Month of Transactions",
         "Course Language": "English (US)",
@@ -148,6 +88,21 @@
         "Price": "$84.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/4799624_dcd7_4.jpg",
         "Time": "5 hours 27 mins"
+    },
+    {
+        "Course ID": 4740068,
+        "Course Title": "Omnichannel Sales & Service Management with AI & Chat Bots",
+        "Course Language": "English (US)",
+        "Headline": "Facebook, Instagram, Whatsapp, Telegram, Apple, Wechat, Web, Bots and Chats Usage at Sales, Service, Digital Marketing",
+        "Rating": 3.8756733,
+        "Category": "Sales",
+        "Original Price": "$29.99",
+        "Type": "Course",
+        "Coupon Code": "4F84D8A1242645E7B282",
+        "Url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?discountCode=4F84D8A1242645E7B282",
+        "Price": "$29.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4740068_c1b7.jpg",
+        "Time": " 59 mins"
     },
     {
         "Course ID": 4441162,
@@ -195,79 +150,19 @@
         "Time": "1 hours 45 mins"
     },
     {
-        "Course ID": 3055290,
-        "Course Title": "Oracle Primavera P6 Essentials Training",
+        "Course ID": 5173902,
+        "Course Title": "Check Point Quantum Spark NGFW Essentials",
         "Course Language": "English (US)",
-        "Headline": "Learn Oracle Primavera P6 for Project Schedule Management using the Primavera P6 Project Scheduling Functions, Easily!",
-        "Rating": 4.447427,
-        "Category": "Project Management",
+        "Headline": "Learn Check Point  SMB Firewall from Scratch",
+        "Rating": 0,
+        "Category": "Network & Security",
         "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "7A5EEC2B7B22E37D46EC",
-        "Url": "https://www.udemy.com/course/project-schedule-management-oracle-primavera-p6-foundations-training/?discountCode=7A5EEC2B7B22E37D46EC",
+        "Coupon Code": "D55190BC53477BE0A228",
+        "Url": "https://www.udemy.com/course/check-point-quantum-spark-ngfw-essentials/?discountCode=D55190BC53477BE0A228",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3055290_c476_7.jpg",
-        "Time": "2 hours 51 mins"
-    },
-    {
-        "Course ID": 2907194,
-        "Course Title": "Understanding HIPAA Compliance",
-        "Course Language": "English (US)",
-        "Headline": "This course helps you understand the various rules under HIPAA and how to be compliant with that.",
-        "Rating": 4.4138403,
-        "Category": "Business Law",
-        "Original Price": "$49.99",
-        "Type": "Course",
-        "Coupon Code": "65168DDB2B063E75B866",
-        "Url": "https://www.udemy.com/course/understanding-hipaa-compliance/?discountCode=65168DDB2B063E75B866",
-        "Price": "$49.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2907194_e2a6.jpg",
-        "Time": " 52 mins"
-    },
-    {
-        "Course ID": 3866668,
-        "Course Title": "Professional Scrum with Kanban (PSK I) Certification Prep",
-        "Course Language": "English (US)",
-        "Headline": "Theory + Practice Questions",
-        "Rating": 4.17389,
-        "Category": "Software Engineering",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "BB856CE",
-        "Url": "https://www.udemy.com/course/professional-scrum-with-kanban-psk-i-certification-prep/?discountCode=BB856CE",
-        "Price": "$29.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3866668_061e_2.jpg",
-        "Time": "3 hours 18 mins"
-    },
-    {
-        "Course ID": 3459970,
-        "Course Title": "Chrome Developer Tool Basics Guide",
-        "Course Language": "English (US)",
-        "Headline": "Everything you need to know about Chrome Developer Tool Basics",
-        "Rating": 4.449734,
-        "Category": "Web Development",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FREE223G4S3",
-        "Url": "https://www.udemy.com/course/chrome-developer-tools/?discountCode=FREE223G4S3",
-        "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3459970_0912_3.jpg",
-        "Time": "1 hours 3 mins"
-    },
-    {
-        "Course ID": 4740068,
-        "Course Title": "Omnichannel Sales & Service Management with AI & Chat Bots",
-        "Course Language": "English (US)",
-        "Headline": "Facebook, Instagram, Whatsapp, Telegram, Apple, Wechat, Web, Bots and Chats Usage at Sales, Service, Digital Marketing",
-        "Rating": 3.8756733,
-        "Category": "Sales",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "4F84D8A1242645E7B282",
-        "Url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?discountCode=4F84D8A1242645E7B282",
-        "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4740068_c1b7.jpg",
-        "Time": " 59 mins"
+        "Image": "https://img-c.udemycdn.com/course/480x270/5173902_99dd.jpg",
+        "Time": "9 hours 54 mins"
     },
     {
         "Course ID": 4750412,
@@ -296,7 +191,7 @@
         "Coupon Code": "YOUACCEL41958",
         "Url": "https://www.udemy.com/course/adobe-lightroom-classic-cc-master-the-develop-module/?discountCode=YOUACCEL41958",
         "Price": "$59.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4900658_0d6c.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4900658_0d6c.jpg",
         "Time": "3 hours 30 mins"
     },
     {
@@ -311,7 +206,7 @@
         "Coupon Code": "TIMEFORGLORY7",
         "Url": "https://www.udemy.com/course/secrets-of-memory-3-ways-of-memorising-like-a-spy/?discountCode=TIMEFORGLORY7",
         "Price": "$19.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4140852_02a3_2.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4140852_02a3_2.jpg",
         "Time": "2 hours 57 mins"
     },
     {
@@ -326,7 +221,7 @@
         "Coupon Code": "LUCKYWATERRABBIT2",
         "Url": "https://www.udemy.com/course/website-traffic-2022/?discountCode=LUCKYWATERRABBIT2",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4146382_c6ff_4.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4146382_c6ff_4.jpg",
         "Time": "33 hours 52 mins"
     },
     {
@@ -341,7 +236,7 @@
         "Coupon Code": "230223",
         "Url": "https://www.udemy.com/course/facebook-leads-generation-business-marketing-ads-strategy-hack/?discountCode=230223",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/2535810_8160_5.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2535810_8160_5.jpg",
         "Time": "1 hours 20 mins"
     },
     {
@@ -386,7 +281,7 @@
         "Coupon Code": "TIMEFORGLORY12",
         "Url": "https://www.udemy.com/course/neuroplasticity-teach-your-brain-to-work-3-times-faster/?discountCode=TIMEFORGLORY12",
         "Price": "$19.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4090904_0c5a.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4090904_0c5a.jpg",
         "Time": "2 hours 31 mins"
     },
     {
@@ -416,7 +311,7 @@
         "Coupon Code": "FREEFEB",
         "Url": "https://www.udemy.com/course/flutter-advanced-clean-architecture-with-mvvm-arabic/?discountCode=FREEFEB",
         "Price": "$109.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4558448_2340_6.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4558448_2340_6.jpg",
         "Time": "21 hours 53 mins"
     },
     {
@@ -431,8 +326,23 @@
         "Coupon Code": "DD218BC128B6189DBFAE",
         "Url": "https://www.udemy.com/course/reiki-trauma-healing-heal-your-past-trauma/?discountCode=DD218BC128B6189DBFAE",
         "Price": "$24.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4988492_27e0_2.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4988492_27e0_2.jpg",
         "Time": " 47 mins"
+    },
+    {
+        "Course ID": 2258556,
+        "Course Title": "Education Tax Credits & Education Tax Benefits",
+        "Course Language": "English (US)",
+        "Headline": "American Opportunity Tax Credit, Lifetime Learning Tax Credit, Student Loan Interest Deduction, (ESA), (QTP)",
+        "Rating": 4.6663923,
+        "Category": "Other Teaching & Academics",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "855B4296AD6F9A7C3B14",
+        "Url": "https://www.udemy.com/course/education-tax-credits-education-tax-benefits/?discountCode=855B4296AD6F9A7C3B14",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2258556_21b6.jpg",
+        "Time": "12 hours 32 mins"
     },
     {
         "Course ID": 2606708,
@@ -465,21 +375,6 @@
         "Time": "1 hours 9 mins"
     },
     {
-        "Course ID": 2258556,
-        "Course Title": "Education Tax Credits & Education Tax Benefits",
-        "Course Language": "English (US)",
-        "Headline": "American Opportunity Tax Credit, Lifetime Learning Tax Credit, Student Loan Interest Deduction, (ESA), (QTP)",
-        "Rating": 4.6663923,
-        "Category": "Other Teaching & Academics",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "855B4296AD6F9A7C3B14",
-        "Url": "https://www.udemy.com/course/education-tax-credits-education-tax-benefits/?discountCode=855B4296AD6F9A7C3B14",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2258556_21b6.jpg",
-        "Time": "12 hours 32 mins"
-    },
-    {
         "Course ID": 3288996,
         "Course Title": "Google Data Studio-Visualizaci\u00f3n de Datos y Cuadros de Mando",
         "Course Language": "Spanish",
@@ -491,7 +386,7 @@
         "Coupon Code": "FE23B98",
         "Url": "https://www.udemy.com/course/google-data-studio-visualizacion-de-datos-y-cuadros-de-mando/?discountCode=FE23B98",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3288996_25c4_3.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3288996_25c4_3.jpg",
         "Time": "4 hours 2 mins"
     },
     {
@@ -506,23 +401,8 @@
         "Coupon Code": "D54AE2F3C654B0AE9FB1",
         "Url": "https://www.udemy.com/course/testing-for-developers/?discountCode=D54AE2F3C654B0AE9FB1",
         "Price": "$49.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3273578_a5eb.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3273578_a5eb.jpg",
         "Time": "4 hours"
-    },
-    {
-        "Course ID": 5163714,
-        "Course Title": "Automate with Python",
-        "Course Language": "English (US)",
-        "Headline": "Learn to Create Automation Scripts with Python",
-        "Rating": 3.3076925,
-        "Category": "Software Engineering",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "DISCOVER",
-        "Url": "https://www.udemy.com/course/automate-with-python/?discountCode=DISCOVER",
-        "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5163714_3fb2_3.jpg",
-        "Time": " 30 mins"
     },
     {
         "Course ID": 2953486,
@@ -615,21 +495,6 @@
         "Time": ""
     },
     {
-        "Course ID": 5017026,
-        "Course Title": "Formation WordPress: Cr\u00e9ez 1 Site rapidement en partant de 0",
-        "Course Language": "French (France)",
-        "Headline": "Cr\u00e9ez des sites Web et des blogs de qualit\u00e9 professionnelle en quelques minutes avec WordPress",
-        "Rating": 4.2535667,
-        "Category": "Web Development",
-        "Original Price": "$59.99",
-        "Type": "Course",
-        "Coupon Code": "95656CF59D83BB2E75D1",
-        "Url": "https://www.udemy.com/course/cours-intensif-wordpress-debutants-creez-un-site-en-quelques-minutes/?discountCode=95656CF59D83BB2E75D1",
-        "Price": "$59.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5017026_8010.jpg",
-        "Time": "2 hours 23 mins"
-    },
-    {
         "Course ID": 1803384,
         "Course Title": "Artificial Intelligence (AI) Presentation Creation Tools",
         "Course Language": "English (India)",
@@ -643,6 +508,21 @@
         "Price": "$19.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/1803384_503a_7.jpg",
         "Time": "1 hours 8 mins"
+    },
+    {
+        "Course ID": 5142276,
+        "Course Title": "DP-203: Data Engineering on Microsoft Azure Exam Prep 2023",
+        "Course Language": "English (US)",
+        "Headline": "Pass in first Attempt. Real or Similar exam questions.Accurate answers. Practice tests for DP 203 Data Engineer MS Azure",
+        "Rating": 0,
+        "Category": "IT Certifications",
+        "Original Price": "$19.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "E31C39FE3FE44B32C03E",
+        "Url": "https://www.udemy.com/course/dp-203-data-engineering-on-microsoft-azure-exam-prep-2023/?discountCode=E31C39FE3FE44B32C03E",
+        "Price": "$19.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/5142276_491e.jpg",
+        "Time": ""
     },
     {
         "Course ID": 2701734,
