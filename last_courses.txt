@@ -1,18 +1,108 @@
 [
     {
-        "Course ID": 4992432,
-        "Course Title": "Complete Python 2023 For Absolute Beginners",
+        "Course ID": 4935852,
+        "Course Title": "Understanding Neurodiversity In The Workplace",
+        "Course Language": "English (UK)",
+        "Headline": "Embrace And Manage Employees With ADHD And Autism To Excel",
+        "Rating": 4.8283286,
+        "Category": "Human Resources",
+        "Original Price": "$59.99",
+        "Type": "Course",
+        "Coupon Code": "80F83184EAD78592EC37",
+        "Url": "https://www.udemy.com/course/understanding-neurodiversity-in-the-workplace/?discountCode=80F83184EAD78592EC37",
+        "Price": "$59.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4935852_536b_2.jpg",
+        "Time": "1 hours"
+    },
+    {
+        "Course ID": 5045156,
+        "Course Title": "Backcasting from a solar punk future using generative AI",
         "Course Language": "English (US)",
-        "Headline": "Build a complete understanding of Python from the ground up!",
-        "Rating": 4.8607173,
-        "Category": "Programming Languages",
+        "Headline": "Chat GPT, Global wisdom, NovelAI, working backwards from solar punk futures for yourself and your systems change efforts",
+        "Rating": 4.0019207,
+        "Category": "Data Science",
         "Original Price": "$19.99",
         "Type": "Course",
-        "Coupon Code": "PYTHON_2023",
-        "Url": "https://www.udemy.com/course/complete-python-2023-for-absolute-beginners/?discountCode=PYTHON_2023",
+        "Coupon Code": "SOLARPUNKFUTUREFAST",
+        "Url": "https://www.udemy.com/course/backcasting-via-regenerative-ai/?discountCode=SOLARPUNKFUTUREFAST",
         "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4992432_ef17_3.jpg",
-        "Time": "3 hours 12 mins"
+        "Image": "https://img-c.udemycdn.com/course/480x270/5045156_99f3_2.jpg",
+        "Time": "3 hours 14 mins"
+    },
+    {
+        "Course ID": 2327676,
+        "Course Title": "Apache Spark Project World Development Indicators Analytics",
+        "Course Language": "English (US)",
+        "Headline": "World Development Indicators Analytics Project in Apache Spark for beginner using Databricks (Unofficial)",
+        "Rating": 4.404014,
+        "Category": "Software Engineering",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "7B1DEDD9F71C916361D7",
+        "Url": "https://www.udemy.com/course/apache-spark-project-world-development-indicators-analytics/?discountCode=7B1DEDD9F71C916361D7",
+        "Price": "$19.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2327676_1513.jpg",
+        "Time": "1 hours 11 mins"
+    },
+    {
+        "Course ID": 5181334,
+        "Course Title": "Master Course in Data Architecture 2.0",
+        "Course Language": "English (US)",
+        "Headline": "Data Architecture, Database management, Business Intelligence, DBMS, Data Mesh, Big Data Architecture, TOGAF",
+        "Rating": 4.843522,
+        "Category": "Network & Security",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "2AFB68B3F1A51567416B",
+        "Url": "https://www.udemy.com/course/data-architecture-big-data-architecture-data-mesh-database-management/?discountCode=2AFB68B3F1A51567416B",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/5181334_9e4d.jpg",
+        "Time": " 59 mins"
+    },
+    {
+        "Course ID": 4726418,
+        "Course Title": "Flourish Studio Masterclass : Create Animated Visualizations",
+        "Course Language": "English (US)",
+        "Headline": "Race Bar Charts, 3D Maps, Globe Connections, Parliament Chart, Word Cloud, Network Graph, Survey Chart, Photo Slider etc",
+        "Rating": 4.641156,
+        "Category": "Business Analytics & Intelligence",
+        "Original Price": "$24.99",
+        "Type": "Course",
+        "Coupon Code": "MARCH01",
+        "Url": "https://www.udemy.com/course/flourish-studio-masterclass-create-animated-visualizations/?discountCode=MARCH01",
+        "Price": "$24.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4726418_4e71.jpg",
+        "Time": "3 hours 25 mins"
+    },
+    {
+        "Course ID": 711914,
+        "Course Title": "Facebook Marketing: How To Build A List With Lead Ads",
+        "Course Language": "English (US)",
+        "Headline": "The Complete Step-By-Step Guide To Build Your List Without A Landing Page",
+        "Rating": 4.2942414,
+        "Category": "Social Media Marketing",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "CDYHCFCUPLXKWJK",
+        "Url": "https://www.udemy.com/course/facebook-marketing-how-to-generate-list-with-lead-ads/?discountCode=CDYHCFCUPLXKWJK",
+        "Price": "$84.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/711914_f955_2.jpg",
+        "Time": "1 hours 3 mins"
+    },
+    {
+        "Course ID": 4429048,
+        "Course Title": "No-Code Machine Learning Using Amazon AWS SageMaker Canvas",
+        "Course Language": "English (US)",
+        "Headline": "Build your Machine Learning Model and get accurate predictions without writing any Code using AWS SageMaker Canvas",
+        "Rating": 4.286233,
+        "Category": "Data Science",
+        "Original Price": "$29.99",
+        "Type": "Course",
+        "Coupon Code": "MARCH01",
+        "Url": "https://www.udemy.com/course/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/?discountCode=MARCH01",
+        "Price": "$29.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4429048_7e67_2.jpg",
+        "Time": "1 hours 21 mins"
     },
     {
         "Course ID": 5036484,
@@ -28,6 +118,21 @@
         "Price": "$84.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/5036484_e268.jpg",
         "Time": "1 hours 22 mins"
+    },
+    {
+        "Course ID": 3368196,
+        "Course Title": "Oracle Primavera P6: Your First Lesson!",
+        "Course Language": "English (US)",
+        "Headline": "Learn project scheduling basic features, gain a big picture and understand commonly used Oracle Primavera P6 functions",
+        "Rating": 4.4100895,
+        "Category": "Project Management",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "3F8C3E61401C4C4ADCB7",
+        "Url": "https://www.udemy.com/course/primavera-p6-training-for-beginners/?discountCode=3F8C3E61401C4C4ADCB7",
+        "Price": "$19.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/3368196_d819_7.jpg",
+        "Time": " 40 mins"
     },
     {
         "Course ID": 2548323,
@@ -56,7 +161,7 @@
         "Coupon Code": "SDGKFWHHUFKWYBV",
         "Url": "https://www.udemy.com/course/how-to-discover-viral-content-with-buzzsumo-in-2016/?discountCode=SDGKFWHHUFKWYBV",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/834782_4891_3.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/834782_4891_3.jpg",
         "Time": " 34 mins"
     },
     {
@@ -86,8 +191,23 @@
         "Coupon Code": "9913D55B6E279F60A446",
         "Url": "https://www.udemy.com/course/kubernetes-best-practices/?discountCode=9913D55B6E279F60A446",
         "Price": "$29.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3362318_7f77_2.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3362318_7f77_2.jpg",
         "Time": "8 hours 21 mins"
+    },
+    {
+        "Course ID": 1954834,
+        "Course Title": "Winning With Communication - Master Communication Skills",
+        "Course Language": "English (US)",
+        "Headline": "Communication Training Course - Develop True Communication Mastery!",
+        "Rating": 3.9060743,
+        "Category": "Career Development",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FPTUCRJBUEZQNJD",
+        "Url": "https://www.udemy.com/course/communication-skills-class-course-training/?discountCode=FPTUCRJBUEZQNJD",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/1954834_23be.jpg",
+        "Time": "2 hours 14 mins"
     },
     {
         "Course ID": 2584102,
@@ -101,23 +221,8 @@
         "Coupon Code": "DAFZGFUEADWFZZY",
         "Url": "https://www.udemy.com/course/hidden-secrets-of-selling-part-2/?discountCode=DAFZGFUEADWFZZY",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/2584102_ff15.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2584102_ff15.jpg",
         "Time": "2 hours 6 mins"
-    },
-    {
-        "Course ID": 2607662,
-        "Course Title": "Adobe Bridge | Basics Guide",
-        "Course Language": "English (US)",
-        "Headline": "Everything you need to know about Adobe Bridge Basics",
-        "Rating": 2.5019975,
-        "Category": "Design Tools",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FREE323G1S1",
-        "Url": "https://www.udemy.com/course/learn-basic-adobe-bridge/?discountCode=FREE323G1S1",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2607662_443f_4.jpg",
-        "Time": " 31 mins"
     },
     {
         "Course ID": 4065096,
@@ -131,23 +236,23 @@
         "Coupon Code": "FEBRERO23",
         "Url": "https://www.udemy.com/course/como-hacer-un-indice-en-word-jairo-galeas/?discountCode=FEBRERO23",
         "Price": "$49.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4065096_f644_3.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4065096_f644_3.jpg",
         "Time": "1 hours 41 mins"
     },
     {
-        "Course ID": 2327676,
-        "Course Title": "Apache Spark Project World Development Indicators Analytics",
+        "Course ID": 2607662,
+        "Course Title": "Adobe Bridge | Basics Guide",
         "Course Language": "English (US)",
-        "Headline": "World Development Indicators Analytics Project in Apache Spark for beginner using Databricks (Unofficial)",
-        "Rating": 4.404014,
-        "Category": "Software Engineering",
-        "Original Price": "$19.99",
+        "Headline": "Everything you need to know about Adobe Bridge Basics",
+        "Rating": 2.5019975,
+        "Category": "Design Tools",
+        "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "7B1DEDD9F71C916361D7",
-        "Url": "https://www.udemy.com/course/apache-spark-project-world-development-indicators-analytics/?discountCode=7B1DEDD9F71C916361D7",
-        "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2327676_1513.jpg",
-        "Time": "1 hours 11 mins"
+        "Coupon Code": "FREE323G1S1",
+        "Url": "https://www.udemy.com/course/learn-basic-adobe-bridge/?discountCode=FREE323G1S1",
+        "Price": "$84.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/2607662_443f_4.jpg",
+        "Time": " 31 mins"
     },
     {
         "Course ID": 5049482,
@@ -180,21 +285,6 @@
         "Time": "41 hours 32 mins"
     },
     {
-        "Course ID": 2664462,
-        "Course Title": "Cost Accounting and Artificial Intelligence (AI) Tools",
-        "Course Language": "English (India)",
-        "Headline": "Learn Mind-Blowing Cost Accounting and Artificial Intelligence (AI) Concepts and Tools this Year!",
-        "Rating": 3.5977342,
-        "Category": "Money Management Tools",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "AB14BAA51D3076813A01",
-        "Url": "https://www.udemy.com/course/cost-accounting-and-artificial-intelligence-tools-part-1/?discountCode=AB14BAA51D3076813A01",
-        "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2664462_a3e2_5.jpg",
-        "Time": " 52 mins"
-    },
-    {
         "Course ID": 679488,
         "Course Title": "Facebook Marketing: How To Improve Your Fan Page Performance",
         "Course Language": "English (US)",
@@ -210,6 +300,21 @@
         "Time": " 36 mins"
     },
     {
+        "Course ID": 2664462,
+        "Course Title": "Cost Accounting and Artificial Intelligence (AI) Tools",
+        "Course Language": "English (India)",
+        "Headline": "Learn Mind-Blowing Cost Accounting and Artificial Intelligence (AI) Concepts and Tools this Year!",
+        "Rating": 3.5977342,
+        "Category": "Money Management Tools",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "AB14BAA51D3076813A01",
+        "Url": "https://www.udemy.com/course/cost-accounting-and-artificial-intelligence-tools-part-1/?discountCode=AB14BAA51D3076813A01",
+        "Price": "$19.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2664462_a3e2_5.jpg",
+        "Time": " 52 mins"
+    },
+    {
         "Course ID": 2603682,
         "Course Title": "Hidden Secrets Of Selling - Part 4",
         "Course Language": "English (US)",
@@ -221,7 +326,7 @@
         "Coupon Code": "XKRNSZLUXTWVLES",
         "Url": "https://www.udemy.com/course/marketing-selling-sales-course-training/?discountCode=XKRNSZLUXTWVLES",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2603682_8880.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/2603682_8880.jpg",
         "Time": "2 hours 16 mins"
     },
     {
@@ -238,6 +343,36 @@
         "Price": "$19.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/5176910_df6b_2.jpg",
         "Time": ""
+    },
+    {
+        "Course ID": 2620592,
+        "Course Title": "Adobe Live | Basics Guide",
+        "Course Language": "English (US)",
+        "Headline": "Everything you need to know about Adobe Live Basics",
+        "Rating": 4.1594973,
+        "Category": "Other IT & Software",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "FREE323G2S1",
+        "Url": "https://www.udemy.com/course/learn-adobe-live/?discountCode=FREE323G2S1",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2620592_5d43_3.jpg",
+        "Time": " 33 mins"
+    },
+    {
+        "Course ID": 3829756,
+        "Course Title": "Spotfire Interview Tech Questions Answered with Explanation",
+        "Course Language": "English (US)",
+        "Headline": "Answers with Detail Explanation to Actual Spotfire Interview Questions, beneficial for Beginners and Experienced alike.",
+        "Rating": 4.5541196,
+        "Category": "Business Analytics & Intelligence",
+        "Original Price": "$29.99",
+        "Type": "Course",
+        "Coupon Code": "MARCH01",
+        "Url": "https://www.udemy.com/course/tibco-spotfire-interview-technical-questions-answered-with-explanation/?discountCode=MARCH01",
+        "Price": "$29.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/3829756_90c0_3.jpg",
+        "Time": "1 hours 52 mins"
     },
     {
         "Course ID": 695140,
@@ -266,7 +401,7 @@
         "Coupon Code": "GA0103",
         "Url": "https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?discountCode=GA0103",
         "Price": "$74.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4152226_bd76_7.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4152226_bd76_7.jpg",
         "Time": "3 hours 46 mins"
     },
     {
@@ -311,7 +446,7 @@
         "Coupon Code": "NFREIPFEXPMAR062023",
         "Url": "https://www.udemy.com/course/networking-for-real-estate-investors/?discountCode=NFREIPFEXPMAR062023",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3076274_1bd1.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3076274_1bd1.jpg",
         "Time": "1 hours 34 mins"
     },
     {
@@ -326,53 +461,8 @@
         "Coupon Code": "MFDALMNMKAZJYVB",
         "Url": "https://www.udemy.com/course/how-to-get-your-first-10000-facebook-fans-in-2016/?discountCode=MFDALMNMKAZJYVB",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/869398_ba00_2.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/869398_ba00_2.jpg",
         "Time": " 31 mins"
-    },
-    {
-        "Course ID": 778186,
-        "Course Title": "10 Hacks To Increase Fan Engagement On Facebook",
-        "Course Language": "English (US)",
-        "Headline": "Discover proven & tested engagement tricks to boost your fan interaction rates!",
-        "Rating": 4.701657,
-        "Category": "Social Media Marketing",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "KYAJWKHCFKEBFFN",
-        "Url": "https://www.udemy.com/course/10-hacks-to-increase-fan-engagement-on-facebook/?discountCode=KYAJWKHCFKEBFFN",
-        "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/778186_2a62_2.jpg",
-        "Time": " 32 mins"
-    },
-    {
-        "Course ID": 2817193,
-        "Course Title": "Certification Course For Angular 6",
-        "Course Language": "English (US)",
-        "Headline": "Learn some of the basics of angular from scratch",
-        "Rating": 2.58158,
-        "Category": "Programming Languages",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "34AA18BD5C35BAD7C50B",
-        "Url": "https://www.udemy.com/course/ultimate-angular-course-learn-angular-practically/?discountCode=34AA18BD5C35BAD7C50B",
-        "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2817193_a0ff.jpg",
-        "Time": " 51 mins"
-    },
-    {
-        "Course ID": 1703050,
-        "Course Title": "Personal / Business Networking Skills For Maximum Success!",
-        "Course Language": "English (US)",
-        "Headline": "Personal & Business Networking - Unique Content & Strategies - Not Found ANYWHERE Else!",
-        "Rating": 3.9725044,
-        "Category": "Sales",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "TJJASRSXMQKKSWA",
-        "Url": "https://www.udemy.com/course/networking-networking/?discountCode=TJJASRSXMQKKSWA",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/1703050_ced7_3.jpg",
-        "Time": " 46 mins"
     },
     {
         "Course ID": 699992,
@@ -390,6 +480,36 @@
         "Time": "1 hours 5 mins"
     },
     {
+        "Course ID": 2817193,
+        "Course Title": "Certification Course For Angular 6",
+        "Course Language": "English (US)",
+        "Headline": "Learn some of the basics of angular from scratch",
+        "Rating": 2.58158,
+        "Category": "Programming Languages",
+        "Original Price": "$29.99",
+        "Type": "Course",
+        "Coupon Code": "34AA18BD5C35BAD7C50B",
+        "Url": "https://www.udemy.com/course/ultimate-angular-course-learn-angular-practically/?discountCode=34AA18BD5C35BAD7C50B",
+        "Price": "$29.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2817193_a0ff.jpg",
+        "Time": " 51 mins"
+    },
+    {
+        "Course ID": 778186,
+        "Course Title": "10 Hacks To Increase Fan Engagement On Facebook",
+        "Course Language": "English (US)",
+        "Headline": "Discover proven & tested engagement tricks to boost your fan interaction rates!",
+        "Rating": 4.701657,
+        "Category": "Social Media Marketing",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "KYAJWKHCFKEBFFN",
+        "Url": "https://www.udemy.com/course/10-hacks-to-increase-fan-engagement-on-facebook/?discountCode=KYAJWKHCFKEBFFN",
+        "Price": "$84.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/778186_2a62_2.jpg",
+        "Time": " 32 mins"
+    },
+    {
         "Course ID": 5186612,
         "Course Title": "DBS-C01: AWS Certified Database Specialty Mock Exam",
         "Course Language": "English (US)",
@@ -405,6 +525,21 @@
         "Time": ""
     },
     {
+        "Course ID": 1703050,
+        "Course Title": "Personal / Business Networking Skills For Maximum Success!",
+        "Course Language": "English (US)",
+        "Headline": "Personal & Business Networking - Unique Content & Strategies - Not Found ANYWHERE Else!",
+        "Rating": 3.9725044,
+        "Category": "Sales",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "TJJASRSXMQKKSWA",
+        "Url": "https://www.udemy.com/course/networking-networking/?discountCode=TJJASRSXMQKKSWA",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/1703050_ced7_3.jpg",
+        "Time": " 46 mins"
+    },
+    {
         "Course ID": 4896034,
         "Course Title": "Certified Associate & Professional Python Programming Pack",
         "Course Language": "English (US)",
@@ -416,8 +551,23 @@
         "Coupon Code": "A5F0AC3C4AEC9B1CB6B7",
         "Url": "https://www.udemy.com/course/certified-associate-professional-python-pcap-pcpp1/?discountCode=A5F0AC3C4AEC9B1CB6B7",
         "Price": "$19.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4896034_428b.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4896034_428b.jpg",
         "Time": ""
+    },
+    {
+        "Course ID": 4859974,
+        "Course Title": "Master Course of Lean Startup and IT Startup",
+        "Course Language": "English (US)",
+        "Headline": "Lean Startup - IT Startup - Tech Startup - Best Course on Entrepreneurship",
+        "Rating": 4.2683406,
+        "Category": "Entrepreneurship",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "53E5EB1B99809C1A6B97",
+        "Url": "https://www.udemy.com/course/the-lean-startup-it-startup-master-course/?discountCode=53E5EB1B99809C1A6B97",
+        "Price": "$84.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4859974_e4c5_2.jpg",
+        "Time": "1 hours 21 mins"
     },
     {
         "Course ID": 5028712,
@@ -435,19 +585,19 @@
         "Time": "1 hours 25 mins"
     },
     {
-        "Course ID": 4859974,
-        "Course Title": "Master Course of Lean Startup and IT Startup",
+        "Course ID": 366596,
+        "Course Title": "Entrepreneur's Guide to Creating Facebook Fan Page Content",
         "Course Language": "English (US)",
-        "Headline": "Lean Startup - IT Startup - Tech Startup - Best Course on Entrepreneurship",
-        "Rating": 4.2683406,
-        "Category": "Entrepreneurship",
+        "Headline": "Awaken the content & viral engagement monster and take your business to the next level with our private strategies!",
+        "Rating": 3.448528,
+        "Category": "Social Media Marketing",
         "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "53E5EB1B99809C1A6B97",
-        "Url": "https://www.udemy.com/course/the-lean-startup-it-startup-master-course/?discountCode=53E5EB1B99809C1A6B97",
+        "Coupon Code": "TVJWZQCMTDCYGDE",
+        "Url": "https://www.udemy.com/course/viral-engagement/?discountCode=TVJWZQCMTDCYGDE",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4859974_e4c5_2.jpg",
-        "Time": "1 hours 21 mins"
+        "Image": "https://img-c.udemycdn.com/course/480x270/366596_c1a4_3.jpg",
+        "Time": "1 hours 14 mins"
     },
     {
         "Course ID": 4761658,
@@ -465,36 +615,6 @@
         "Time": "7 hours 13 mins"
     },
     {
-        "Course ID": 2433848,
-        "Course Title": "Create lightning-fast videos with InVideo",
-        "Course Language": "English (India)",
-        "Headline": "An ultimate online course that teaches InVideo software for super-fast video creation",
-        "Rating": 3.698327,
-        "Category": "Other Design",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "3083FB7001359808EA55",
-        "Url": "https://www.udemy.com/course/create-lightning-fast-videos-with-invideo-ai-video-making/?discountCode=3083FB7001359808EA55",
-        "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2433848_9569_6.jpg",
-        "Time": " 52 mins"
-    },
-    {
-        "Course ID": 366596,
-        "Course Title": "Entrepreneur's Guide to Creating Facebook Fan Page Content",
-        "Course Language": "English (US)",
-        "Headline": "Awaken the content & viral engagement monster and take your business to the next level with our private strategies!",
-        "Rating": 3.448528,
-        "Category": "Social Media Marketing",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "TVJWZQCMTDCYGDE",
-        "Url": "https://www.udemy.com/course/viral-engagement/?discountCode=TVJWZQCMTDCYGDE",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/366596_c1a4_3.jpg",
-        "Time": "1 hours 14 mins"
-    },
-    {
         "Course ID": 658242,
         "Course Title": "Facebook Marketing: Next Level Traffic Generation Strategies",
         "Course Language": "English (US)",
@@ -506,8 +626,23 @@
         "Coupon Code": "PZDHSUZZDVUYREE",
         "Url": "https://www.udemy.com/course/facebook-marketing-next-level-traffic-generation-strategies/?discountCode=PZDHSUZZDVUYREE",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/658242_757e_2.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/658242_757e_2.jpg",
         "Time": " 53 mins"
+    },
+    {
+        "Course ID": 706234,
+        "Course Title": "A Modern Day Guide To Stop Procrastinating",
+        "Course Language": "English (US)",
+        "Headline": "The simple and effective method to eliminating procrastination",
+        "Rating": 4.381442,
+        "Category": "Personal Productivity",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "JTASGQVZTGMKHBN",
+        "Url": "https://www.udemy.com/course/a-modern-day-guide-to-stop-procrastinating/?discountCode=JTASGQVZTGMKHBN",
+        "Price": "$84.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/706234_16c9_2.jpg",
+        "Time": "1 hours 5 mins"
     },
     {
         "Course ID": 1844490,
@@ -525,19 +660,19 @@
         "Time": "1 hours 31 mins"
     },
     {
-        "Course ID": 706234,
-        "Course Title": "A Modern Day Guide To Stop Procrastinating",
+        "Course ID": 4339022,
+        "Course Title": "Facebook Marketing 2023. Promote Your Business on Facebook!",
         "Course Language": "English (US)",
-        "Headline": "The simple and effective method to eliminating procrastination",
-        "Rating": 4.381442,
-        "Category": "Personal Productivity",
+        "Headline": "Learn how to promote your brand on Facebook, create engaging content, launch ads and increase the number of followers!",
+        "Rating": 4.2916207,
+        "Category": "Social Media Marketing",
         "Original Price": "$84.99",
         "Type": "Course",
-        "Coupon Code": "JTASGQVZTGMKHBN",
-        "Url": "https://www.udemy.com/course/a-modern-day-guide-to-stop-procrastinating/?discountCode=JTASGQVZTGMKHBN",
+        "Coupon Code": "FB0103",
+        "Url": "https://www.udemy.com/course/facebook-marketing-course-for-beginners/?discountCode=FB0103",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/706234_16c9_2.jpg",
-        "Time": "1 hours 5 mins"
+        "Image": "https://img-c.udemycdn.com/course/480x270/4339022_5254_3.jpg",
+        "Time": "2 hours 8 mins"
     },
     {
         "Course ID": 3885438,
@@ -555,21 +690,6 @@
         "Time": "3 hours 59 mins"
     },
     {
-        "Course ID": 4339022,
-        "Course Title": "Facebook Marketing 2023. Promote Your Business on Facebook!",
-        "Course Language": "English (US)",
-        "Headline": "Learn how to promote your brand on Facebook, create engaging content, launch ads and increase the number of followers!",
-        "Rating": 4.2916207,
-        "Category": "Social Media Marketing",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FB0103",
-        "Url": "https://www.udemy.com/course/facebook-marketing-course-for-beginners/?discountCode=FB0103",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4339022_5254_3.jpg",
-        "Time": "2 hours 8 mins"
-    },
-    {
         "Course ID": 5090944,
         "Course Title": "Certified Book Publisher (Accredited)",
         "Course Language": "English (US)",
@@ -581,7 +701,7 @@
         "Coupon Code": "7251EFA7D08AAF6A19B1",
         "Url": "https://www.udemy.com/course/accredited-book-publishing-certification/?discountCode=7251EFA7D08AAF6A19B1",
         "Price": "$89.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5090944_ed1d.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/5090944_ed1d.jpg",
         "Time": "1 hours 57 mins"
     },
     {
@@ -596,7 +716,7 @@
         "Coupon Code": "AF15253E890A2847B6CB",
         "Url": "https://www.udemy.com/course/work-life-balance-in-7-days/?discountCode=AF15253E890A2847B6CB",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/5179038_173e_4.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/5179038_173e_4.jpg",
         "Time": "1 hours 55 mins"
     },
     {
@@ -611,7 +731,7 @@
         "Coupon Code": "774814045384F4802B61",
         "Url": "https://www.udemy.com/course/kubernetes-best-practices/?discountCode=774814045384F4802B61",
         "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3362318_7f77_2.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/3362318_7f77_2.jpg",
         "Time": "8 hours 21 mins"
     },
     {
@@ -626,7 +746,7 @@
         "Coupon Code": "EM0303",
         "Url": "https://www.udemy.com/course/email-marketing-for-beginners-course/?discountCode=EM0303",
         "Price": "$79.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4204914_120f_4.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4204914_120f_4.jpg",
         "Time": "1 hours 52 mins"
     },
     {
@@ -716,7 +836,7 @@
         "Coupon Code": "YOUACCEL76986",
         "Url": "https://www.udemy.com/course/build-an-amazon-affiliate-e-commerce-store-from-scratch/?discountCode=YOUACCEL76986",
         "Price": "$34.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3415214_1915_2.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3415214_1915_2.jpg",
         "Time": "4 hours 48 mins"
     },
     {
@@ -746,7 +866,7 @@
         "Coupon Code": "MAR2023FREE1",
         "Url": "https://www.udemy.com/course/power-resume-and-cv-writing-that-lands-job-interviews/?discountCode=MAR2023FREE1",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/468216_1776_4.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/468216_1776_4.jpg",
         "Time": "1 hours 37 mins"
     },
     {
@@ -791,7 +911,7 @@
         "Coupon Code": "C53AD579BBC218D68640",
         "Url": "https://www.udemy.com/course/complete-nodejs-course-beginner-to-expert/?discountCode=C53AD579BBC218D68640",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/2945374_0047_3.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2945374_0047_3.jpg",
         "Time": " 46 mins"
     },
     {
@@ -821,7 +941,7 @@
         "Coupon Code": "0DC48455F3E666F592EE",
         "Url": "https://www.udemy.com/course/microsoft-mb-800-dynamics-365-business-central-functional-consultant/?discountCode=0DC48455F3E666F592EE",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/5180312_7985.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/5180312_7985.jpg",
         "Time": " 49 mins"
     },
     {
@@ -866,7 +986,7 @@
         "Coupon Code": "CSS3MAR2023",
         "Url": "https://www.udemy.com/course/learn-css-and-bootstrap-from-scratch/?discountCode=CSS3MAR2023",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/1735948_3b18_3.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/1735948_3b18_3.jpg",
         "Time": "3 hours 6 mins"
     },
     {
@@ -896,7 +1016,7 @@
         "Coupon Code": "TIKTOK0103",
         "Url": "https://www.udemy.com/course/tiktok-marketing-course-for-beginners/?discountCode=TIKTOK0103",
         "Price": "$39.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4427162_f876_2.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4427162_f876_2.jpg",
         "Time": "1 hours 1 mins"
     },
     {
@@ -1001,7 +1121,7 @@
         "Coupon Code": "FREE323G1S1",
         "Url": "https://www.udemy.com/course/learn-basic-character-animator/?discountCode=FREE323G1S1",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2610386_0454_5.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/2610386_0454_5.jpg",
         "Time": " 31 mins"
     },
     {
@@ -1031,7 +1151,7 @@
         "Coupon Code": "BD012D43E54319E6C024",
         "Url": "https://www.udemy.com/course/sap-c02-aws-certified-solutions-architect-professional-exam/?discountCode=BD012D43E54319E6C024",
         "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5186626_6b2f.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/5186626_6b2f.jpg",
         "Time": ""
     },
     {
@@ -1046,7 +1166,7 @@
         "Coupon Code": "FXPGZNSWVGXFHET",
         "Url": "https://www.udemy.com/course/quadruple-your-productivity-in-just-2-hours-guaranteed/?discountCode=FXPGZNSWVGXFHET",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/434218_2c95_2.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/434218_2c95_2.jpg",
         "Time": "1 hours 46 mins"
     },
     {
@@ -1080,21 +1200,6 @@
         "Time": " 40 mins"
     },
     {
-        "Course ID": 4587280,
-        "Course Title": "Excellence in Business Strategy, Modelling & Planning",
-        "Course Language": "English (US)",
-        "Headline": "Learn Best practices based on classical work of Michael Porter and working with my Managing Directors at J&J India",
-        "Rating": 3.7334902,
-        "Category": "Business Strategy",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "455A7EB14891F4B63CF7",
-        "Url": "https://www.udemy.com/course/excellence-in-business-strategy-modelling-planning/?discountCode=455A7EB14891F4B63CF7",
-        "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4587280_521b_3.jpg",
-        "Time": "8 hours 47 mins"
-    },
-    {
         "Course ID": 640408,
         "Course Title": "Marketer's Guide To Creating Facebook Ads That Convert",
         "Course Language": "English (US)",
@@ -1121,7 +1226,7 @@
         "Coupon Code": "A5AF243A03B629244F7F",
         "Url": "https://www.udemy.com/course/the-complete-angular-course-beginner-to-expert-1/?discountCode=A5AF243A03B629244F7F",
         "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2765808_b117.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/2765808_b117.jpg",
         "Time": "1 hours 8 mins"
     },
     {
@@ -1138,21 +1243,6 @@
         "Price": "$29.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/3225779_6514.jpg",
         "Time": "1 hours 28 mins"
-    },
-    {
-        "Course ID": 774776,
-        "Course Title": "No Oil Cooking Recipes - Eat Healthy! Live Strong!",
-        "Course Language": "English (US)",
-        "Headline": "Cook yummy food without a drop of oil",
-        "Rating": 4.7383137,
-        "Category": "Food & Beverage",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "FEB2023FREE001",
-        "Url": "https://www.udemy.com/course/no-oil-cooking-recipes-no-cholesterol-fat-free-food/?discountCode=FEB2023FREE001",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/774776_2d1e_2.jpg",
-        "Time": "3 hours 18 mins"
     },
     {
         "Course ID": 5049518,
@@ -1181,7 +1271,7 @@
         "Coupon Code": "CHATBOT0103",
         "Url": "https://www.udemy.com/course/chatbot-marketing-course/?discountCode=CHATBOT0103",
         "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4651160_5b0e_3.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4651160_5b0e_3.jpg",
         "Time": "2 hours 26 mins"
     }
 ]
