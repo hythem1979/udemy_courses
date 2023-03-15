@@ -11,7 +11,7 @@
         "Coupon Code": "9FCCAC092DB6200A72D3",
         "Url": "https://www.udemy.com/course/active-directory-introduction-and-administration-tools/?discountCode=9FCCAC092DB6200A72D3",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2039304_68ff_4.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/2039304_68ff_4.jpg",
         "Time": "4 hours 20 mins"
     },
     {
@@ -26,7 +26,7 @@
         "Coupon Code": "0C8E3027EB50801F8D08",
         "Url": "https://www.udemy.com/course/python-exam-success-unlocked-4-test-bundle/?discountCode=0C8E3027EB50801F8D08",
         "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5131198_b648.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/5131198_b648.jpg",
         "Time": ""
     },
     {
@@ -45,21 +45,6 @@
         "Time": "2 hours 8 mins"
     },
     {
-        "Course ID": 5169780,
-        "Course Title": "Migra un Sitio Web de WordPress a otro Dominio o Hosting",
-        "Course Language": "Spanish",
-        "Headline": "Migra un sitio web de WordPress a otro dominio o hosting, sin saber de programaci\u00f3n, de forma f\u00e1cil y simple.",
-        "Rating": 2.1905723,
-        "Category": "No-Code Development",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "SM-GR6",
-        "Url": "https://www.udemy.com/course/como-migrar-un-sitio-web-de-wordpress-a-otro-dominio-o-hosting/?discountCode=SM-GR6",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5169780_747c.jpg",
-        "Time": " 57 mins"
-    },
-    {
         "Course ID": 4808880,
         "Course Title": "Copywriting & Content Marketing Course for Local Businesses",
         "Course Language": "English (US)",
@@ -73,6 +58,21 @@
         "Price": "$84.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/4808880_c94b_2.jpg",
         "Time": "6 hours 12 mins"
+    },
+    {
+        "Course ID": 5169780,
+        "Course Title": "Migra un Sitio Web de WordPress a otro Dominio o Hosting",
+        "Course Language": "Spanish",
+        "Headline": "Migra un sitio web de WordPress a otro dominio o hosting, sin saber de programaci\u00f3n, de forma f\u00e1cil y simple.",
+        "Rating": 2.1905723,
+        "Category": "No-Code Development",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "SM-GR6",
+        "Url": "https://www.udemy.com/course/como-migrar-un-sitio-web-de-wordpress-a-otro-dominio-o-hosting/?discountCode=SM-GR6",
+        "Price": "$84.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/5169780_747c.jpg",
+        "Time": " 57 mins"
     },
     {
         "Course ID": 3090820,
@@ -120,19 +120,34 @@
         "Time": " 53 mins"
     },
     {
-        "Course ID": 2051729,
-        "Course Title": "SEO Training: Complete SEO Course & SEO Copywriting MASTERY",
+        "Course ID": 3225779,
+        "Course Title": "Docker Course for Beginners",
         "Course Language": "English (US)",
-        "Headline": "SEO Guide 2023: SEO Copywriting, SEO Content Marketing, SEO Link Building, Modern SEO, Voice SEO, Video SEO & Local SEO.",
-        "Rating": 4.30018,
-        "Category": "Search Engine Optimization",
-        "Original Price": "$84.99",
+        "Headline": "Dive into the world of Docker and learn about Dockerfiles and Container Management",
+        "Rating": 4.1694493,
+        "Category": "Data Science",
+        "Original Price": "$29.99",
         "Type": "Course",
-        "Coupon Code": "LUCKYWATERRABBIT6",
-        "Url": "https://www.udemy.com/course/online-seo-training/?discountCode=LUCKYWATERRABBIT6",
-        "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/2051729_e4cd_8.jpg",
-        "Time": "38 hours 21 mins"
+        "Coupon Code": "FREEMAR117",
+        "Url": "https://www.udemy.com/course/docker-container-course-for-beginners/?discountCode=FREEMAR117",
+        "Price": "$29.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3225779_6514.jpg",
+        "Time": "1 hours 28 mins"
+    },
+    {
+        "Course ID": 5211684,
+        "Course Title": "300 React JS Interview Questions and Answers for 2023 | Quiz",
+        "Course Language": "English (US)",
+        "Headline": "The Ultimate React Interview Preparation: 300 Questions and Answers for 2023  | Detailed Explanations with References",
+        "Rating": 0,
+        "Category": "Web Development",
+        "Original Price": "$24.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "MCQ-MASTER",
+        "Url": "https://www.udemy.com/course/react-js-questions/?discountCode=MCQ-MASTER",
+        "Price": "$24.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/5211684_67bc_4.jpg",
+        "Time": ""
     },
     {
         "Course ID": 4257838,
@@ -150,21 +165,6 @@
         "Time": "5 hours 55 mins"
     },
     {
-        "Course ID": 3225779,
-        "Course Title": "Docker Course for Beginners",
-        "Course Language": "English (US)",
-        "Headline": "Dive into the world of Docker and learn about Dockerfiles and Container Management",
-        "Rating": 4.1694493,
-        "Category": "Data Science",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "FREEMAR117",
-        "Url": "https://www.udemy.com/course/docker-container-course-for-beginners/?discountCode=FREEMAR117",
-        "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3225779_6514.jpg",
-        "Time": "1 hours 28 mins"
-    },
-    {
         "Course ID": 3161726,
         "Course Title": "Learn To Focus: Meditation & Mindfulness For ADHD",
         "Course Language": "English (US)",
@@ -176,7 +176,7 @@
         "Coupon Code": "516F1050C893856ED9B4",
         "Url": "https://www.udemy.com/course/meditation-for-adhd/?discountCode=516F1050C893856ED9B4",
         "Price": "$29.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3161726_8bc7_5.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3161726_8bc7_5.jpg",
         "Time": "1 hours 12 mins"
     },
     {
@@ -221,38 +221,8 @@
         "Coupon Code": "FREEMAR115",
         "Url": "https://www.udemy.com/course/introduction-to-microservices-edyoda/?discountCode=FREEMAR115",
         "Price": "$19.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3754018_537a.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3754018_537a.jpg",
         "Time": " 46 mins"
-    },
-    {
-        "Course ID": 4260672,
-        "Course Title": "CSS Crash Course For Beginners",
-        "Course Language": "English (US)",
-        "Headline": "Learn CSS With Practical Demonstrations",
-        "Rating": 4.198836,
-        "Category": "Web Development",
-        "Original Price": "$24.99",
-        "Type": "Course",
-        "Coupon Code": "A5559C6CF584A75D1231",
-        "Url": "https://www.udemy.com/course/css-crash-course-for-beginners-g/?discountCode=A5559C6CF584A75D1231",
-        "Price": "$24.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4260672_f402.jpg",
-        "Time": " 45 mins"
-    },
-    {
-        "Course ID": 5127668,
-        "Course Title": "Python Mastery: 4 Proven Practice Tests for Exam Success",
-        "Course Language": "English (US)",
-        "Headline": "Elevate Your Python Career with This Power-Packed Practice Test Bundle",
-        "Rating": 4.635509,
-        "Category": "Programming Languages",
-        "Original Price": "$19.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "E16E61927387F1FD938D",
-        "Url": "https://www.udemy.com/course/python-mastery-4-proven-practice-tests-for-exam-success/?discountCode=E16E61927387F1FD938D",
-        "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5127668_e81c.jpg",
-        "Time": ""
     },
     {
         "Course ID": 2979402,
@@ -268,6 +238,21 @@
         "Price": "$159.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/2979402_1a0d_2.jpg",
         "Time": "7 hours 30 mins"
+    },
+    {
+        "Course ID": 5127668,
+        "Course Title": "Python Mastery: 4 Proven Practice Tests for Exam Success",
+        "Course Language": "English (US)",
+        "Headline": "Elevate Your Python Career with This Power-Packed Practice Test Bundle",
+        "Rating": 4.635509,
+        "Category": "Programming Languages",
+        "Original Price": "$19.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "E16E61927387F1FD938D",
+        "Url": "https://www.udemy.com/course/python-mastery-4-proven-practice-tests-for-exam-success/?discountCode=E16E61927387F1FD938D",
+        "Price": "$19.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/5127668_e81c.jpg",
+        "Time": ""
     },
     {
         "Course ID": 4721290,
@@ -311,7 +296,7 @@
         "Coupon Code": "ECOM247",
         "Url": "https://www.udemy.com/course/how-to-make-an-ecommerce-website-with-wordpress-elementor-for-beginner/?discountCode=ECOM247",
         "Price": "$19.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3885438_3c53.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3885438_3c53.jpg",
         "Time": "3 hours 59 mins"
     },
     {
@@ -341,53 +326,8 @@
         "Coupon Code": "MAR2023FREE01",
         "Url": "https://www.udemy.com/course/ace-every-job-interview-master-blueprint-and-get-your-dream-job/?discountCode=MAR2023FREE01",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/809432_d867_2.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/809432_d867_2.jpg",
         "Time": "1 hours 44 mins"
-    },
-    {
-        "Course ID": 4672026,
-        "Course Title": "Women and Digital Inclusion",
-        "Course Language": "English (US)",
-        "Headline": "New Vision",
-        "Rating": 4.4225903,
-        "Category": "Leadership",
-        "Original Price": "$24.99",
-        "Type": "Course",
-        "Coupon Code": "WOMEN_DIGI_323",
-        "Url": "https://www.udemy.com/course/women-and-digital-inclusion/?discountCode=WOMEN_DIGI_323",
-        "Price": "$24.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4672026_bddd.jpg",
-        "Time": " 53 mins"
-    },
-    {
-        "Course ID": 4092766,
-        "Course Title": "HTML 5,Python,Django And Flask Framework Full-Stack Course",
-        "Course Language": "English (US)",
-        "Headline": "Complete Full Stack Course With HTML 5,Python,Django Framework and Flask Framework",
-        "Rating": 4.289602,
-        "Category": "Web Development",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "22C7DB9F69CB97544C94",
-        "Url": "https://www.udemy.com/course/html-5pythondjango-and-flask-framework-full-stack-course/?discountCode=22C7DB9F69CB97544C94",
-        "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4092766_4563.jpg",
-        "Time": "14 hours 33 mins"
-    },
-    {
-        "Course ID": 1289634,
-        "Course Title": "\u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0431\u0438\u0437\u043d\u0435\u0441 \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u0432 PowerPoint \u0441 \u043d\u0443\u043b\u044f",
-        "Course Language": "Russian",
-        "Headline": "\u041a\u0443\u0440\u0441 \u0434\u043b\u044f \u0432\u0441\u0435\u0445, \u043a\u0442\u043e \u0445\u043e\u0447\u0435\u0442 \u043d\u0430\u0443\u0447\u0438\u0442\u044c\u0441\u044f \u0434\u0435\u043b\u0430\u0442\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u0441 \u043d\u0443\u043b\u044f \u0432 PowerPoint",
-        "Rating": 3.9258127,
-        "Category": "Graphic Design & Illustration",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "RUS_MAR23_1",
-        "Url": "https://www.udemy.com/course/powerpoint-2016-neit-design/?discountCode=RUS_MAR23_1",
-        "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/1289634_11b4_3.jpg",
-        "Time": "1 hours 59 mins"
     },
     {
         "Course ID": 4419162,
@@ -405,19 +345,19 @@
         "Time": "1 hours 33 mins"
     },
     {
-        "Course ID": 4970728,
-        "Course Title": "Java Training Complete Course 2022",
+        "Course ID": 4672026,
+        "Course Title": "Women and Digital Inclusion",
         "Course Language": "English (US)",
-        "Headline": "Learn Java Programming language with Java Complete Training Course 2022 for Beginners",
-        "Rating": 4.124258,
-        "Category": "Programming Languages",
-        "Original Price": "$84.99",
+        "Headline": "New Vision",
+        "Rating": 4.4225903,
+        "Category": "Leadership",
+        "Original Price": "$24.99",
         "Type": "Course",
-        "Coupon Code": "3A3E0627E0DD3C2BD68F",
-        "Url": "https://www.udemy.com/course/java-training-complete-course-2022/?discountCode=3A3E0627E0DD3C2BD68F",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4970728_bae9.jpg",
-        "Time": "4 hours 9 mins"
+        "Coupon Code": "WOMEN_DIGI_323",
+        "Url": "https://www.udemy.com/course/women-and-digital-inclusion/?discountCode=WOMEN_DIGI_323",
+        "Price": "$24.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4672026_bddd.jpg",
+        "Time": " 53 mins"
     },
     {
         "Course ID": 5179672,
@@ -435,6 +375,51 @@
         "Time": "1 hours 36 mins"
     },
     {
+        "Course ID": 4092766,
+        "Course Title": "HTML 5,Python,Django And Flask Framework Full-Stack Course",
+        "Course Language": "English (US)",
+        "Headline": "Complete Full Stack Course With HTML 5,Python,Django Framework and Flask Framework",
+        "Rating": 4.289602,
+        "Category": "Web Development",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "22C7DB9F69CB97544C94",
+        "Url": "https://www.udemy.com/course/html-5pythondjango-and-flask-framework-full-stack-course/?discountCode=22C7DB9F69CB97544C94",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4092766_4563.jpg",
+        "Time": "14 hours 33 mins"
+    },
+    {
+        "Course ID": 4970728,
+        "Course Title": "Java Training Complete Course 2022",
+        "Course Language": "English (US)",
+        "Headline": "Learn Java Programming language with Java Complete Training Course 2022 for Beginners",
+        "Rating": 4.124258,
+        "Category": "Programming Languages",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "3A3E0627E0DD3C2BD68F",
+        "Url": "https://www.udemy.com/course/java-training-complete-course-2022/?discountCode=3A3E0627E0DD3C2BD68F",
+        "Price": "$84.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4970728_bae9.jpg",
+        "Time": "4 hours 9 mins"
+    },
+    {
+        "Course ID": 1289634,
+        "Course Title": "\u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0431\u0438\u0437\u043d\u0435\u0441 \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u0432 PowerPoint \u0441 \u043d\u0443\u043b\u044f",
+        "Course Language": "Russian",
+        "Headline": "\u041a\u0443\u0440\u0441 \u0434\u043b\u044f \u0432\u0441\u0435\u0445, \u043a\u0442\u043e \u0445\u043e\u0447\u0435\u0442 \u043d\u0430\u0443\u0447\u0438\u0442\u044c\u0441\u044f \u0434\u0435\u043b\u0430\u0442\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u0441 \u043d\u0443\u043b\u044f \u0432 PowerPoint",
+        "Rating": 3.9258127,
+        "Category": "Graphic Design & Illustration",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "RUS_MAR23_1",
+        "Url": "https://www.udemy.com/course/powerpoint-2016-neit-design/?discountCode=RUS_MAR23_1",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/1289634_11b4_3.jpg",
+        "Time": "1 hours 59 mins"
+    },
+    {
         "Course ID": 5000448,
         "Course Title": "Aprende Lenguaje C y C++ de CERO a EXPERTO",
         "Course Language": "Spanish (Spain)",
@@ -448,36 +433,6 @@
         "Price": "$29.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/5000448_fcf0.jpg",
         "Time": "4 hours 55 mins"
-    },
-    {
-        "Course ID": 4511080,
-        "Course Title": "Desarrolla en PHP un Poderoso CMS  para enlaces de WSP",
-        "Course Language": "Spanish (Spain)",
-        "Headline": "en este curso aprenderas a desarrollar un cms para administrar enlaces sociales de wsp",
-        "Rating": 4.1737533,
-        "Category": "Web Development",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "7D3F474EA0DC989DE8E4",
-        "Url": "https://www.udemy.com/course/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/?discountCode=7D3F474EA0DC989DE8E4",
-        "Price": "$19.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4511080_7e9d_5.jpg",
-        "Time": "14 hours 59 mins"
-    },
-    {
-        "Course ID": 3765238,
-        "Course Title": "Java for Beginners - Learn all the Basics of Java",
-        "Course Language": "English (US)",
-        "Headline": "Learn Java programming with various java projects- Understand key Java elements and be able to create basic java apps",
-        "Rating": 4.187764,
-        "Category": "Programming Languages",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "CA343F35DEEC74F26941",
-        "Url": "https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/?discountCode=CA343F35DEEC74F26941",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3765238_b5df.jpg",
-        "Time": "5 hours 29 mins"
     },
     {
         "Course ID": 3109678,
@@ -495,6 +450,51 @@
         "Time": "5 hours 17 mins"
     },
     {
+        "Course ID": 3765238,
+        "Course Title": "Java for Beginners - Learn all the Basics of Java",
+        "Course Language": "English (US)",
+        "Headline": "Learn Java programming with various java projects- Understand key Java elements and be able to create basic java apps",
+        "Rating": 4.187764,
+        "Category": "Programming Languages",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "CA343F35DEEC74F26941",
+        "Url": "https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/?discountCode=CA343F35DEEC74F26941",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3765238_b5df.jpg",
+        "Time": "5 hours 29 mins"
+    },
+    {
+        "Course ID": 4511080,
+        "Course Title": "Desarrolla en PHP un Poderoso CMS  para enlaces de WSP",
+        "Course Language": "Spanish (Spain)",
+        "Headline": "en este curso aprenderas a desarrollar un cms para administrar enlaces sociales de wsp",
+        "Rating": 4.1737533,
+        "Category": "Web Development",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "7D3F474EA0DC989DE8E4",
+        "Url": "https://www.udemy.com/course/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/?discountCode=7D3F474EA0DC989DE8E4",
+        "Price": "$19.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4511080_7e9d_5.jpg",
+        "Time": "14 hours 59 mins"
+    },
+    {
+        "Course ID": 4198620,
+        "Course Title": "Multimedia and Graphic designing Course for Special Needs",
+        "Course Language": "English (US)",
+        "Headline": "Specifically tailored step by step for the Special Needs community whose hidden talents only needs uncovering",
+        "Rating": 4.7912297,
+        "Category": "Graphic Design & Illustration",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "DESIGN2023",
+        "Url": "https://www.udemy.com/course/graphic-designing-course-for-special-needs-people/?discountCode=DESIGN2023",
+        "Price": "$84.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4198620_d610_2.jpg",
+        "Time": "3 hours 57 mins"
+    },
+    {
         "Course ID": 4316968,
         "Course Title": "Mobile App Development for Autism, Dyslexia & etc in 2023",
         "Course Language": "English (US)",
@@ -506,7 +506,7 @@
         "Coupon Code": "MOBILEAPP2023",
         "Url": "https://www.udemy.com/course/mobile-app-development-for-people-with-autism-dyslexia-etc/?discountCode=MOBILEAPP2023",
         "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4316968_d6eb.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4316968_d6eb.jpg",
         "Time": "7 hours 53 mins"
     },
     {
@@ -525,21 +525,6 @@
         "Time": "5 hours 9 mins"
     },
     {
-        "Course ID": 4198620,
-        "Course Title": "Multimedia and Graphic designing Course for Special Needs",
-        "Course Language": "English (US)",
-        "Headline": "Specifically tailored step by step for the Special Needs community whose hidden talents only needs uncovering",
-        "Rating": 4.7912297,
-        "Category": "Graphic Design & Illustration",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "DESIGN2023",
-        "Url": "https://www.udemy.com/course/graphic-designing-course-for-special-needs-people/?discountCode=DESIGN2023",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4198620_d610_2.jpg",
-        "Time": "3 hours 57 mins"
-    },
-    {
         "Course ID": 4761658,
         "Course Title": "Desarrolla un sistema web  POS desde cero con PHP NATIVO",
         "Course Language": "Spanish (Spain)",
@@ -551,23 +536,8 @@
         "Coupon Code": "DB811493F75DF6CCE1F1",
         "Url": "https://www.udemy.com/course/desarrolla-un-sistema-web-pos-des-cero-con-php-nativo/?discountCode=DB811493F75DF6CCE1F1",
         "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4761658_694c_4.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/4761658_694c_4.jpg",
         "Time": "7 hours 13 mins"
-    },
-    {
-        "Course ID": 3162082,
-        "Course Title": "Meditation For Beginners",
-        "Course Language": "English (US)",
-        "Headline": "Completely new to meditation? This is the course for you!",
-        "Rating": 4.6437235,
-        "Category": "Meditation",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "DEA4B066BA39C22464ED",
-        "Url": "https://www.udemy.com/course/meditationforbeginners/?discountCode=DEA4B066BA39C22464ED",
-        "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3162082_6fea_4.jpg",
-        "Time": "1 hours 28 mins"
     },
     {
         "Course ID": 5062314,
@@ -585,49 +555,19 @@
         "Time": "4 hours 16 mins"
     },
     {
-        "Course ID": 4316822,
-        "Course Title": "3D Printing Design for Autism, Dyslexic & more in 2023",
+        "Course ID": 3162082,
+        "Course Title": "Meditation For Beginners",
         "Course Language": "English (US)",
-        "Headline": "#1 3D Printing Design Course for Autism, Dyslexia Individuals: The Step-by-Step Guide to 3D Printing Design",
-        "Rating": 4.9169173,
-        "Category": "3D & Animation",
-        "Original Price": "$84.99",
+        "Headline": "Completely new to meditation? This is the course for you!",
+        "Rating": 4.6437235,
+        "Category": "Meditation",
+        "Original Price": "$29.99",
         "Type": "Course",
-        "Coupon Code": "DESIGN2023",
-        "Url": "https://www.udemy.com/course/3d-printing-design-skills-for-people-with-autism-dyslexia/?discountCode=DESIGN2023",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4316822_458e.jpg",
-        "Time": "5 hours 17 mins"
-    },
-    {
-        "Course ID": 5133636,
-        "Course Title": "Excel Mastery: 4 Proven Practice Tests for Exam Success 2023",
-        "Course Language": "English (US)",
-        "Headline": "Elevate Your Excel Career with This Power-Packed Practice Test Bundle",
-        "Rating": 4.414194,
-        "Category": "Microsoft",
-        "Original Price": "$19.99",
-        "Type": "Practice & Test",
-        "Coupon Code": "AA6172FBE73461F2AD39",
-        "Url": "https://www.udemy.com/course/excel-mastery-4-proven-practice-tests-for-exam-success-2023/?discountCode=AA6172FBE73461F2AD39",
-        "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/5133636_f254.jpg",
-        "Time": ""
-    },
-    {
-        "Course ID": 1035788,
-        "Course Title": "Mind Power - Change Your Thought Process To Change Your Life",
-        "Course Language": "English (US)",
-        "Headline": "Change Your Belief System to have a Breakthrough in Personal as well as Professional Life",
-        "Rating": 4.3347087,
-        "Category": "Personal Transformation",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "MAR2023FREE01",
-        "Url": "https://www.udemy.com/course/master-the-power-of-your-mind-to-be-more-successful/?discountCode=MAR2023FREE01",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/1035788_0fc9.jpg",
-        "Time": "1 hours 33 mins"
+        "Coupon Code": "DEA4B066BA39C22464ED",
+        "Url": "https://www.udemy.com/course/meditationforbeginners/?discountCode=DEA4B066BA39C22464ED",
+        "Price": "$29.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3162082_6fea_4.jpg",
+        "Time": "1 hours 28 mins"
     },
     {
         "Course ID": 4393084,
@@ -645,6 +585,51 @@
         "Time": "1 hours 5 mins"
     },
     {
+        "Course ID": 5133636,
+        "Course Title": "Excel Mastery: 4 Proven Practice Tests for Exam Success 2023",
+        "Course Language": "English (US)",
+        "Headline": "Elevate Your Excel Career with This Power-Packed Practice Test Bundle",
+        "Rating": 4.414194,
+        "Category": "Microsoft",
+        "Original Price": "$19.99",
+        "Type": "Practice & Test",
+        "Coupon Code": "AA6172FBE73461F2AD39",
+        "Url": "https://www.udemy.com/course/excel-mastery-4-proven-practice-tests-for-exam-success-2023/?discountCode=AA6172FBE73461F2AD39",
+        "Price": "$19.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/5133636_f254.jpg",
+        "Time": ""
+    },
+    {
+        "Course ID": 4316822,
+        "Course Title": "3D Printing Design for Autism, Dyslexic & more in 2023",
+        "Course Language": "English (US)",
+        "Headline": "#1 3D Printing Design Course for Autism, Dyslexia Individuals: The Step-by-Step Guide to 3D Printing Design",
+        "Rating": 4.9169173,
+        "Category": "3D & Animation",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "DESIGN2023",
+        "Url": "https://www.udemy.com/course/3d-printing-design-skills-for-people-with-autism-dyslexia/?discountCode=DESIGN2023",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4316822_458e.jpg",
+        "Time": "5 hours 17 mins"
+    },
+    {
+        "Course ID": 1035788,
+        "Course Title": "Mind Power - Change Your Thought Process To Change Your Life",
+        "Course Language": "English (US)",
+        "Headline": "Change Your Belief System to have a Breakthrough in Personal as well as Professional Life",
+        "Rating": 4.3347087,
+        "Category": "Personal Transformation",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "MAR2023FREE01",
+        "Url": "https://www.udemy.com/course/master-the-power-of-your-mind-to-be-more-successful/?discountCode=MAR2023FREE01",
+        "Price": "$84.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/1035788_0fc9.jpg",
+        "Time": "1 hours 33 mins"
+    },
+    {
         "Course ID": 4305747,
         "Course Title": "Graphic Design with Autism, Dyslexia & etc in 2023",
         "Course Language": "English (US)",
@@ -660,21 +645,6 @@
         "Time": "3 hours 57 mins"
     },
     {
-        "Course ID": 3970622,
-        "Course Title": "Management Consulting Presentation Essential Training",
-        "Course Language": "English (US)",
-        "Headline": "The secret formula of McKinsey slide deck: The art and science of building persuasive business presentations",
-        "Rating": 4.6261497,
-        "Category": "Communication",
-        "Original Price": "$99.99",
-        "Type": "Course",
-        "Coupon Code": "018A0AAF6FA74C7D4897",
-        "Url": "https://www.udemy.com/course/management-consulting-presentation-mckinsey/?discountCode=018A0AAF6FA74C7D4897",
-        "Price": "$99.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3970622_e2ea_3.jpg",
-        "Time": "3 hours 50 mins"
-    },
-    {
         "Course ID": 2594928,
         "Course Title": "How to create an animated promo video in PowerPoint",
         "Course Language": "English (US)",
@@ -686,7 +656,7 @@
         "Coupon Code": "VIDEO_MAR_23_2",
         "Url": "https://www.udemy.com/course/how-to-create-an-animated-promo-video-in-powerpoint/?discountCode=VIDEO_MAR_23_2",
         "Price": "$19.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/2594928_ae5a_4.jpg",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2594928_ae5a_4.jpg",
         "Time": "3 hours 57 mins"
     },
     {
@@ -705,6 +675,21 @@
         "Time": "1 hours 2 mins"
     },
     {
+        "Course ID": 3970622,
+        "Course Title": "Management Consulting Presentation Essential Training",
+        "Course Language": "English (US)",
+        "Headline": "The secret formula of McKinsey slide deck: The art and science of building persuasive business presentations",
+        "Rating": 4.6261497,
+        "Category": "Communication",
+        "Original Price": "$124.99",
+        "Type": "Course",
+        "Coupon Code": "018A0AAF6FA74C7D4897",
+        "Url": "https://www.udemy.com/course/management-consulting-presentation-mckinsey/?discountCode=018A0AAF6FA74C7D4897",
+        "Price": "$124.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/3970622_e2ea_3.jpg",
+        "Time": "3 hours 50 mins"
+    },
+    {
         "Course ID": 2805427,
         "Course Title": "The Complete Facebook Traffic Ads (Facebook CPC) Course 2023",
         "Course Language": "English (US)",
@@ -718,21 +703,6 @@
         "Price": "$84.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/2805427_944f_8.jpg",
         "Time": "6 hours 45 mins"
-    },
-    {
-        "Course ID": 4498398,
-        "Course Title": "Write 2 Sell: 28 Copywriting Templates & Ecommerce SEO 2023",
-        "Course Language": "English (US)",
-        "Headline": "2 Courses in 1: SEO Copywriting Templates & Ecommerce SEO. Download PRO Ecommerce Templates. Enjoy Animations & Quizzes.",
-        "Rating": 4.446854,
-        "Category": "Content Marketing",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "LUCKYWATERRABBIT4",
-        "Url": "https://www.udemy.com/course/e-commerce-seo-2023/?discountCode=LUCKYWATERRABBIT4",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4498398_191a_6.jpg",
-        "Time": "7 hours 8 mins"
     },
     {
         "Course ID": 5135568,
@@ -765,6 +735,21 @@
         "Time": ""
     },
     {
+        "Course ID": 4498398,
+        "Course Title": "Write 2 Sell: 28 Copywriting Templates & Ecommerce SEO 2023",
+        "Course Language": "English (US)",
+        "Headline": "2 Courses in 1: SEO Copywriting Templates & Ecommerce SEO. Download PRO Ecommerce Templates. Enjoy Animations & Quizzes.",
+        "Rating": 4.446854,
+        "Category": "Content Marketing",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "LUCKYWATERRABBIT4",
+        "Url": "https://www.udemy.com/course/e-commerce-seo-2023/?discountCode=LUCKYWATERRABBIT4",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4498398_191a_6.jpg",
+        "Time": "7 hours 8 mins"
+    },
+    {
         "Course ID": 3959540,
         "Course Title": "Introduction to Reverse Osmosis Desalination",
         "Course Language": "English (US)",
@@ -776,38 +761,8 @@
         "Coupon Code": "FC3D29F80AB3AD5B4031",
         "Url": "https://www.udemy.com/course/introduction-to-reverse-osmosis-desalination/?discountCode=FC3D29F80AB3AD5B4031",
         "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3959540_2085_6.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/3959540_2085_6.jpg",
         "Time": " 47 mins"
-    },
-    {
-        "Course ID": 1085644,
-        "Course Title": "Ubuntu Linux for beginners",
-        "Course Language": "English (US)",
-        "Headline": "Introduction to Ubuntu Linux",
-        "Rating": 4.051569,
-        "Category": "Operating Systems & Servers",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "POTATOCHIP",
-        "Url": "https://www.udemy.com/course/ubuntu-linux-for-beginners/?discountCode=POTATOCHIP",
-        "Price": "$84.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/1085644_acf0_3.jpg",
-        "Time": " 52 mins"
-    },
-    {
-        "Course ID": 4686690,
-        "Course Title": "Invitation Writing -Formal and Informal, Reply to invitation",
-        "Course Language": "English (India)",
-        "Headline": "Invitation Writing -Formal and Informal, Reply to invitation",
-        "Rating": 4.382317,
-        "Category": "Career Development",
-        "Original Price": "$79.99",
-        "Type": "Course",
-        "Coupon Code": "D1B353286533B76722D6",
-        "Url": "https://www.udemy.com/course/invitation-writing-formal-and-informal-reply-to-invitation/?discountCode=D1B353286533B76722D6",
-        "Price": "$79.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/4686690_f47b.jpg",
-        "Time": " 56 mins"
     },
     {
         "Course ID": 3801480,
@@ -825,6 +780,21 @@
         "Time": "10 hours 20 mins"
     },
     {
+        "Course ID": 1085644,
+        "Course Title": "Ubuntu Linux for beginners",
+        "Course Language": "English (US)",
+        "Headline": "Introduction to Ubuntu Linux",
+        "Rating": 4.051569,
+        "Category": "Operating Systems & Servers",
+        "Original Price": "$84.99",
+        "Type": "Course",
+        "Coupon Code": "POTATOCHIP",
+        "Url": "https://www.udemy.com/course/ubuntu-linux-for-beginners/?discountCode=POTATOCHIP",
+        "Price": "$84.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/1085644_acf0_3.jpg",
+        "Time": " 52 mins"
+    },
+    {
         "Course ID": 3717522,
         "Course Title": "Instagram Marketing 2021: Growth and Promotion on Instagram",
         "Course Language": "English (US)",
@@ -840,6 +810,21 @@
         "Time": "3 hours 37 mins"
     },
     {
+        "Course ID": 4686690,
+        "Course Title": "Invitation Writing -Formal and Informal, Reply to invitation",
+        "Course Language": "English (India)",
+        "Headline": "Invitation Writing -Formal and Informal, Reply to invitation",
+        "Rating": 4.382317,
+        "Category": "Career Development",
+        "Original Price": "$79.99",
+        "Type": "Course",
+        "Coupon Code": "D1B353286533B76722D6",
+        "Url": "https://www.udemy.com/course/invitation-writing-formal-and-informal-reply-to-invitation/?discountCode=D1B353286533B76722D6",
+        "Price": "$79.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4686690_f47b.jpg",
+        "Time": " 56 mins"
+    },
+    {
         "Course ID": 3062570,
         "Course Title": "Building Android Widgets from scratch (Learn 8 Widgets)",
         "Course Language": "English (US)",
@@ -851,38 +836,8 @@
         "Coupon Code": "FREEMAR118",
         "Url": "https://www.udemy.com/course/learn-to-build-8-android-widgets-in-2-hours/?discountCode=FREEMAR118",
         "Price": "$19.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/3062570_ccf5_2.jpg",
+        "Image": "https://img-b.udemycdn.com/course/480x270/3062570_ccf5_2.jpg",
         "Time": "1 hours 16 mins"
-    },
-    {
-        "Course ID": 4572510,
-        "Course Title": "Ableton Live: Complete EDM Music Production in 3 Hours",
-        "Course Language": "English (US)",
-        "Headline": "Make all the music you want after this small 3 hours course! EDM Music Production made easy!",
-        "Rating": 4.5325346,
-        "Category": "Music Production",
-        "Original Price": "$29.99",
-        "Type": "Course",
-        "Coupon Code": "AE2BC708C49AB60F0F27",
-        "Url": "https://www.udemy.com/course/charlieatom-edmproduction-3hours/?discountCode=AE2BC708C49AB60F0F27",
-        "Price": "$29.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/4572510_854b_3.jpg",
-        "Time": "2 hours 56 mins"
-    },
-    {
-        "Course ID": 3714256,
-        "Course Title": "SAP Project Essentials: Implementing SAP S/4HANA and SAP ERP",
-        "Course Language": "English (US)",
-        "Headline": "Covering everything about the basics of SAP implementation ins and outs with SAP Activate and Accelerated SAP",
-        "Rating": 4.227938,
-        "Category": "SAP",
-        "Original Price": "$84.99",
-        "Type": "Course",
-        "Coupon Code": "CE03E31B7B67C6768598",
-        "Url": "https://www.udemy.com/course/sap-erp-project/?discountCode=CE03E31B7B67C6768598",
-        "Price": "$84.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/3714256_ee5e_2.jpg",
-        "Time": "4 hours 8 mins"
     },
     {
         "Course ID": 3818074,
@@ -898,6 +853,36 @@
         "Price": "$29.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/3818074_c21b_2.jpg",
         "Time": "1 hours 6 mins"
+    },
+    {
+        "Course ID": 3714256,
+        "Course Title": "SAP Project Essentials: Implementing SAP S/4HANA and SAP ERP",
+        "Course Language": "English (US)",
+        "Headline": "Covering everything about the basics of SAP implementation ins and outs with SAP Activate and Accelerated SAP",
+        "Rating": 4.227938,
+        "Category": "SAP",
+        "Original Price": "$109.99",
+        "Type": "Course",
+        "Coupon Code": "CE03E31B7B67C6768598",
+        "Url": "https://www.udemy.com/course/sap-erp-project/?discountCode=CE03E31B7B67C6768598",
+        "Price": "$109.99",
+        "Image": "https://img-b.udemycdn.com/course/480x270/3714256_ee5e_2.jpg",
+        "Time": "4 hours 8 mins"
+    },
+    {
+        "Course ID": 4572510,
+        "Course Title": "Ableton Live: Complete EDM Music Production in 3 Hours",
+        "Course Language": "English (US)",
+        "Headline": "Make all the music you want after this small 3 hours course! EDM Music Production made easy!",
+        "Rating": 4.5325346,
+        "Category": "Music Production",
+        "Original Price": "$29.99",
+        "Type": "Course",
+        "Coupon Code": "AE2BC708C49AB60F0F27",
+        "Url": "https://www.udemy.com/course/charlieatom-edmproduction-3hours/?discountCode=AE2BC708C49AB60F0F27",
+        "Price": "$29.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/4572510_854b_3.jpg",
+        "Time": "2 hours 56 mins"
     },
     {
         "Course ID": 5203656,
@@ -1020,6 +1005,21 @@
         "Time": " 55 mins"
     },
     {
+        "Course ID": 5128240,
+        "Course Title": "Augmented Reality - AR Foundation | Vuforia | AR core -Unity",
+        "Course Language": "Hindi",
+        "Headline": "Feel free to take this Augmented Reality course, AR concepts are very well explained in Hindi.-AR Foundation | Vuforia",
+        "Rating": 4.928224,
+        "Category": "Mobile Development",
+        "Original Price": "$19.99",
+        "Type": "Course",
+        "Coupon Code": "61EEEE9A37F67FA41574",
+        "Url": "https://www.udemy.com/course/augmented-reality-ar/?discountCode=61EEEE9A37F67FA41574",
+        "Price": "$19.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/5128240_c4a9.jpg",
+        "Time": " 54 mins"
+    },
+    {
         "Course ID": 5122970,
         "Course Title": "Python Certification Exam: 4 Practice Tests to Ace Your Exam",
         "Course Language": "English (US)",
@@ -1035,36 +1035,6 @@
         "Time": ""
     },
     {
-        "Course ID": 2565910,
-        "Course Title": "Data Analytics,Storage,Mining & Visual Big Data Technologies",
-        "Course Language": "English (US)",
-        "Headline": "Data Analytics, Data Storage, Data Mining and Data Visualization Big Data Technologies",
-        "Rating": 3.8959053,
-        "Category": "Other IT & Software",
-        "Original Price": "$49.99",
-        "Type": "Course",
-        "Coupon Code": "BD9AE9E853E6FD765F57",
-        "Url": "https://www.udemy.com/course/different-technologies-in-big-data/?discountCode=BD9AE9E853E6FD765F57",
-        "Price": "$49.99",
-        "Image": "https://img-c.udemycdn.com/course/480x270/2565910_a62c_3.jpg",
-        "Time": " 34 mins"
-    },
-    {
-        "Course ID": 5128240,
-        "Course Title": "Augmented Reality - AR Foundation | Vuforia | AR core -Unity",
-        "Course Language": "Hindi",
-        "Headline": "Feel free to take this Augmented Reality course, AR concepts are very well explained in Hindi.-AR Foundation | Vuforia",
-        "Rating": 4.928224,
-        "Category": "Mobile Development",
-        "Original Price": "$19.99",
-        "Type": "Course",
-        "Coupon Code": "61EEEE9A37F67FA41574",
-        "Url": "https://www.udemy.com/course/augmented-reality-ar/?discountCode=61EEEE9A37F67FA41574",
-        "Price": "$19.99",
-        "Image": "https://img-b.udemycdn.com/course/480x270/5128240_c4a9.jpg",
-        "Time": " 54 mins"
-    },
-    {
         "Course ID": 5066900,
         "Course Title": "Build A TodoList with Swift, Vapor and Electron React",
         "Course Language": "English (US)",
@@ -1078,5 +1048,20 @@
         "Price": "$84.99",
         "Image": "https://img-c.udemycdn.com/course/480x270/5066900_6665.jpg",
         "Time": "1 hours 44 mins"
+    },
+    {
+        "Course ID": 2565910,
+        "Course Title": "Data Analytics,Storage,Mining & Visual Big Data Technologies",
+        "Course Language": "English (US)",
+        "Headline": "Data Analytics, Data Storage, Data Mining and Data Visualization Big Data Technologies",
+        "Rating": 3.8959053,
+        "Category": "Other IT & Software",
+        "Original Price": "$49.99",
+        "Type": "Course",
+        "Coupon Code": "BD9AE9E853E6FD765F57",
+        "Url": "https://www.udemy.com/course/different-technologies-in-big-data/?discountCode=BD9AE9E853E6FD765F57",
+        "Price": "$49.99",
+        "Image": "https://img-c.udemycdn.com/course/480x270/2565910_a62c_3.jpg",
+        "Time": " 34 mins"
     }
 ]
